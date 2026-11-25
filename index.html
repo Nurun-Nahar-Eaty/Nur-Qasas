@@ -1,30 +1,30 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr" data-theme="emerald-light">
+<html lang="en" dir="ltr" data-theme="midnight">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <title>Quran Kareem – Surahs, Verse Breakdowns &amp; Stories (All 114 Surahs)</title>
+  <title>Nur-Qasas – 114 Surahs, Verse Breakdowns &amp; Visual Stories</title>
 
   <!-- SEO & Accessibility Metadata -->
-  <meta name="description" content="Explore all 114 Surahs of the Holy Quran with verse-by-verse breakdowns, why-named explanations, reflections, and complete stories of 25 Prophets and righteous figures in a smooth modern mobile PWA.">
-  <meta name="keywords" content="Quran app, Quran stories, 114 Surahs, Quran verse breakdown, Tafsir, Prophets of Islam, Ashab al-Kahf, Luqman, Maryam, Meccan, Medinan, Quran PWA">
-  <meta name="author" content="Quran Kareem App">
+  <meta name="description" content="Explore all 114 Surahs of the Holy Quran with verse-by-verse breakdowns, why-named explanations, reflections, and 44 interactive visual timelines of Prophets and righteous figures in a mobile-first PWA.">
+  <meta name="keywords" content="Quran app, Quran stories, 114 Surahs, Prophet stories timeline, Tafsir, Meccan, Medinan, Quran PWA, React Quran">
+  <meta name="author" content="Nurun Nahar Eaty">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="./index.html">
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
   <meta property="og:url" content="./index.html">
-  <meta property="og:title" content="Quran Kareem – Surahs, Verse Breakdowns &amp; Stories">
-  <meta property="og:description" content="Explore all 114 Surahs with verse breakdowns, why-named explanations, and comprehensive Quranic stories in an accessible, beautiful PWA.">
+  <meta property="og:title" content="Nur-Qasas – 114 Surahs, Verse Breakdowns &amp; Visual Stories">
+  <meta property="og:description" content="Explore all 114 Surahs with verse breakdowns, why-named explanations, and 44 interactive visual story timelines.">
   <meta property="og:image" content="./icons/icon-512.png">
   <meta property="og:locale" content="en_US">
-  <meta property="og:site_name" content="Quran Kareem">
+  <meta property="og:site_name" content="Nur-Qasas">
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Quran Kareem – Surahs, Verse Breakdowns &amp; Stories">
-  <meta name="twitter:description" content="Explore all 114 Surahs with verse breakdowns, why-named explanations, and comprehensive Quranic stories in an accessible, beautiful PWA.">
+  <meta name="twitter:title" content="Nur-Qasas – 114 Surahs &amp; Visual Stories">
+  <meta name="twitter:description" content="Interactive visual journeys through all 114 Surahs and 44 Quranic stories with historical timelines and moral signposts.">
   <meta name="twitter:image" content="./icons/icon-512.png">
 
   <!-- PWA Manifest & App Icons -->
@@ -32,21 +32,18 @@
   <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
   <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
   <link rel="apple-touch-icon" href="icons/icon-192.png">
-  <meta name="theme-color" content="#064e3b">
+  <meta name="theme-color" content="#080D1A">
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="apple-mobile-web-app-title" content="Quran Stories">
+  <meta name="apple-mobile-web-app-title" content="Nur-Qasas">
 
   <!-- Fonts Preconnect -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
-  <!-- App Stylesheet -->
-  <link rel="stylesheet" href="css/style.css">
-
-  <!-- JSON-LD Structured Data (SEO 508 Compliant) -->
+  <!-- JSON-LD Structured Data (SEO & 508 Compliant) -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -54,7 +51,7 @@
       {
         "@type": "WebApplication",
         "@id": "./#app",
-        "name": "Quran Kareem – Surahs, Verse Breakdowns & Stories",
+        "name": "Nur-Qasas – 114 Surahs, Verse Breakdowns & Visual Stories",
         "applicationCategory": "EducationalApplication",
         "operatingSystem": "All modern browsers (PWA)",
         "offers": {
@@ -62,17 +59,18 @@
           "price": "0",
           "priceCurrency": "USD"
         },
-        "description": "Complete interactive mobile guide to all 114 Surahs of the Quran, verse-by-verse breakdowns, and stories of the Prophets."
+        "description": "Mobile-first interactive React PWA for exploring all 114 Surahs of the Holy Quran with verse breakdowns, why-named context, and 44 visual story timelines."
       },
       {
         "@type": "Book",
-        "name": "The Holy Quran: Surahs and Stories Guide",
+        "name": "The Holy Quran: Surahs and Visual Narratives Guide",
         "inLanguage": ["ar", "en"],
         "about": [
           "Islamic theology",
           "Quranic exegesis",
           "Prophets of the Quran",
-          "Moral lessons"
+          "Moral lessons",
+          "Historical timelines"
         ]
       }
     ]
@@ -80,406 +78,15 @@
   </script>
 </head>
 <body>
-  <!-- Section 508 Accessibility: Skip to Main Content Link -->
-  <a href="#main-content" class="skip-link">Skip to main content</a>
-
-  <!-- Top App Bar -->
-  <header class="app-header" role="banner">
-    <div class="header-inner">
-      <div class="logo-area" id="headerLogoBtn" tabindex="0" role="button" aria-label="Quran Kareem Home">
-        <!-- Animated 8-Pointed Rub el Hizb SVG -->
-        <svg class="logo-icon-svg" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-          <rect x="25" y="25" width="50" height="50" rx="3" fill="#f59e0b" fill-opacity="0.25" stroke="#fbbf24" stroke-width="2.5"/>
-          <rect x="25" y="25" width="50" height="50" rx="3" transform="rotate(45 50 50)" fill="#f59e0b" fill-opacity="0.25" stroke="#fbbf24" stroke-width="2.5"/>
-          <circle cx="50" cy="50" r="14" fill="#042f2e" stroke="#fbbf24" stroke-width="2"/>
-          <circle cx="50" cy="50" r="6" fill="#f59e0b"/>
-        </svg>
-        <div class="logo-text">
-          <h1>Quran Kareem <span class="arabic-subtitle">القرآن الكريم</span></h1>
-        </div>
-      </div>
-
-      <div class="header-actions">
-        <!-- Font Size Adjuster Button -->
-        <button type="button" class="icon-btn" id="fontSizeBtn" aria-label="Toggle text size: Standard, Comfortable, Large" title="Adjust text size">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <polyline points="4 7 4 4 20 4 20 7"></polyline>
-            <line x1="9" y1="20" x2="15" y2="20"></line>
-            <line x1="12" y1="4" x2="12" y2="20"></line>
-          </svg>
-        </button>
-
-        <!-- Theme Switcher Button (Opens Theme Picker Modal) -->
-        <button type="button" class="icon-btn" id="themeToggleBtn" aria-label="Open Theme Palette (Emerald Light, Midnight Blue, Forest Dark, Desert Sepia)" title="Change Color Theme">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <circle cx="12" cy="12" r="10"></circle>
-            <path d="M12 2a7 7 0 0 0 0 14 7 7 0 0 0 0-14z" fill="currentColor"></path>
-          </svg>
-        </button>
-      </div>
+  <noscript>
+    <div style="padding: 24px; text-align: center; font-family: sans-serif;">
+      <h2>JavaScript Required</h2>
+      <p>Please enable JavaScript to experience Nur-Qasas interactive visual timelines and Quran explorer.</p>
     </div>
-  </header>
+  </noscript>
 
-  <!-- Realtime Search Bar -->
-  <section class="search-container" aria-label="Search Surahs, Verses and Stories">
-    <div class="search-box-wrapper">
-      <svg class="search-icon-decor" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-        <circle cx="11" cy="11" r="8"></circle>
-        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-      </svg>
-      <input type="search" id="globalSearchInput" class="search-input" placeholder="Search Surahs, verse themes, or Prophet stories..." aria-label="Search all 114 Surahs and Quranic stories" autocomplete="off">
-      <button type="button" id="clearSearchBtn" class="search-clear-btn" aria-label="Clear search input">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-          <line x1="18" y1="6" x2="6" y2="18"></line>
-          <line x1="6" y1="6" x2="18" y2="18"></line>
-        </svg>
-      </button>
-    </div>
-    <!-- Quick Search Results Dropdown -->
-    <div id="searchResultsTray" class="search-results-tray" role="listbox" aria-label="Search suggestions"></div>
-  </section>
+  <div id="root"></div>
 
-  <!-- Filter Chips Bar -->
-  <nav class="filter-scroll-wrapper" id="filterNav" aria-label="Surah and Story Categories">
-    <div class="filter-chips" id="filterChipsContainer" role="tablist">
-      <button type="button" class="chip-btn active" role="tab" aria-selected="true" data-filter="all">All 114 Surahs</button>
-      <button type="button" class="chip-btn" role="tab" aria-selected="false" data-filter="meccan">Meccan (86)</button>
-      <button type="button" class="chip-btn" role="tab" aria-selected="false" data-filter="medinan">Medinan (28)</button>
-      <button type="button" class="chip-btn" role="tab" aria-selected="false" data-filter="grp-1-7">1–7 Foundation</button>
-      <button type="button" class="chip-btn" role="tab" aria-selected="false" data-filter="grp-17-25">17–25 Morality</button>
-      <button type="button" class="chip-btn" role="tab" aria-selected="false" data-filter="grp-26-33">26–33 Prophets</button>
-      <button type="button" class="chip-btn" role="tab" aria-selected="false" data-filter="grp-78-114">78–114 Reminders</button>
-    </div>
-  </nav>
-
-  <!-- Main Content Container -->
-  <main id="main-content" class="main-content" role="main" tabindex="-1">
-    
-    <!-- VIEW 1: SURAHS LIST VIEW -->
-    <section id="surahsView" class="view-section active" aria-label="Surahs Directory">
-      <!-- Stats Hero Card -->
-      <article class="stats-banner">
-        <h2>
-          <span>The Glorious Quran</span>
-          <span style="font-family: var(--font-arabic); font-size: 1.4rem;">كتاب الله</span>
-        </h2>
-        <p>A comprehensive verse-by-verse breakdown, why-named explanations, reflections, and historical stories across all 114 Surahs.</p>
-        <div class="stats-pills">
-          <div class="stats-pill-item">
-            <span class="accent">114</span> Surahs
-          </div>
-          <div class="stats-pill-item">
-            <span class="accent">6,236</span> Verses
-          </div>
-          <div class="stats-pill-item">
-            <span class="accent">44</span> Quranic Stories
-          </div>
-          <div class="stats-pill-item">
-            <span class="accent">100%</span> Offline Ready
-          </div>
-        </div>
-      </article>
-
-      <!-- Surah Cards Grid -->
-      <div id="surahGrid" class="surah-grid" role="region" aria-live="polite" aria-label="List of Surahs">
-        <!-- Dynamically populated by app.js -->
-      </div>
-    </section>
-
-    <!-- VIEW 2: STORIES EXPLORER VIEW -->
-    <section id="storiesView" class="view-section" aria-label="Quranic Stories Explorer">
-      <article class="stats-banner">
-        <h2>
-          <span>Stories of the Quran</span>
-          <span style="font-family: var(--font-arabic); font-size: 1.4rem;">قصص القرآن</span>
-        </h2>
-        <p>Explore the lives of the 25 Named Prophets, pious figures, tyrants, and historical communities mentioned in the Divine Revelation.</p>
-        <div class="stats-pills">
-          <div class="stats-pill-item"><span class="accent">Part 1:</span> 25 Prophets</div>
-          <div class="stats-pill-item"><span class="accent">Part 2:</span> Righteous Figures</div>
-          <div class="stats-pill-item"><span class="accent">Part 3:</span> Tyrants &amp; Warnings</div>
-          <div class="stats-pill-item"><span class="accent">Part 4:</span> Nations &amp; Parables</div>
-        </div>
-      </article>
-
-      <!-- Story Sub-Filter Chips -->
-      <div class="filter-chips" style="margin-bottom: 16px;" role="tablist" aria-label="Filter Stories by Group">
-        <button type="button" class="chip-btn active" data-story-filter="all" role="tab" aria-selected="true">All Stories (44)</button>
-        <button type="button" class="chip-btn" data-story-filter="prophet" role="tab" aria-selected="false">25 Prophets</button>
-        <button type="button" class="chip-btn" data-story-filter="pious_figure" role="tab" aria-selected="false">Righteous Figures</button>
-        <button type="button" class="chip-btn" data-story-filter="transgressor" role="tab" aria-selected="false">Tyrants &amp; Transgressors</button>
-        <button type="button" class="chip-btn" data-story-filter="nation_or_group" role="tab" aria-selected="false">Nations &amp; Parables</button>
-      </div>
-
-      <div id="storiesGrid" class="stories-grid" role="region" aria-live="polite" aria-label="List of Quranic Stories">
-        <!-- Dynamically populated by app.js -->
-      </div>
-    </section>
-
-    <!-- VIEW 3: BOOKMARKS & SAVED VIEW -->
-    <section id="bookmarksView" class="view-section" aria-label="Saved Bookmarks">
-      <article class="stats-banner">
-        <h2>
-          <span>Saved Bookmarks</span>
-          <span style="font-family: var(--font-arabic); font-size: 1.4rem;">المحفوظات</span>
-        </h2>
-        <p>Quickly access your bookmarked Surahs and favorite Quranic stories stored privately on this device.</p>
-      </article>
-      <div id="bookmarksList" class="surah-grid" role="region" aria-label="Saved Items">
-        <!-- Populated dynamically -->
-      </div>
-    </section>
-
-    <!-- VIEW 4: ABOUT & ACCESSIBILITY GUIDE -->
-    <section id="aboutView" class="view-section" aria-label="About the App">
-      <article class="content-card-section">
-        <h3>About This App &amp; Content</h3>
-        <div class="formatted-prose">
-          <p>This progressive web application (PWA) brings together the exhaustive, verse-by-verse breakdown, explanations of why Surahs were named, theological reflections, and comprehensive stories of the Quran as compiled from classical scholarship.</p>
-          <p><strong>Content Integrity:</strong> All reflections, verse divisions, historical insights, and prophetic narratives have been preserved directly from the curated Quranic documentation without altering your source texts.</p>
-          <p><strong>Section 508 &amp; Accessibility:</strong> Designed to meet WCAG 2.1 AA and Section 508 standards with high contrast ratios, semantic landmarks, full keyboard support, dynamic font sizing, and screen reader compatibility.</p>
-          <p><strong>Offline Capable:</strong> Built with service worker caching so you can read, reflect, and learn anywhere—even without an active internet connection.</p>
-        </div>
-      </article>
-      <article class="content-card-section">
-        <h3>Themes of the 114 Surahs (Summary Chart)</h3>
-        <div id="themesSummaryChart" class="formatted-prose">
-          <!-- Populated from surahs.json -->
-        </div>
-      </article>
-    </section>
-
-    <!-- DETAIL VIEW: SURAH DETAIL -->
-    <article id="surahDetailView" class="detail-view-container" aria-label="Surah Breakdown Detail">
-      <!-- Back Bar -->
-      <div class="detail-back-bar">
-        <button type="button" class="back-btn" id="surahBackBtn" aria-label="Back to Surah List">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <polyline points="15 18 9 12 15 6"></polyline>
-          </svg>
-          <span>Back to Surahs</span>
-        </button>
-        <div class="detail-actions">
-          <button type="button" class="icon-btn" id="bookmarkSurahBtn" aria-label="Bookmark this Surah" title="Bookmark Surah">
-            <svg id="surahBookmarkIcon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-              <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
-            </svg>
-          </button>
-        </div>
-      </div>
-
-      <!-- Surah Hero Card -->
-      <div id="surahDetailHero" class="hero-detail-card">
-        <!-- Populated dynamically -->
-      </div>
-
-      <!-- Segmented Navigation inside Surah -->
-      <nav class="segmented-nav" role="tablist" aria-label="Surah Content Sections">
-        <button type="button" class="segmented-tab active" role="tab" aria-selected="true" data-tab="tab-breakdown" id="tabBtnBreakdown">Verse Breakdown</button>
-        <button type="button" class="segmented-tab" role="tab" aria-selected="false" data-tab="tab-stories" id="tabBtnStories">Stories in Surah</button>
-        <button type="button" class="segmented-tab" role="tab" aria-selected="false" data-tab="tab-why" id="tabBtnWhy">Why Named &amp; Context</button>
-        <button type="button" class="segmented-tab" role="tab" aria-selected="false" data-tab="tab-dives" id="tabBtnDives">Deep Dives</button>
-      </nav>
-
-      <!-- Panel 1: Verse Breakdowns -->
-      <section id="tab-breakdown" class="tab-panel active" role="tabpanel" aria-labelledby="tabBtnBreakdown">
-        <div id="breakdownCardsContainer">
-          <!-- Populated dynamically -->
-        </div>
-      </section>
-
-      <!-- Panel 2: Stories in this Surah -->
-      <section id="tab-stories" class="tab-panel" role="tabpanel" aria-labelledby="tabBtnStories">
-        <div id="surahStoriesContainer" class="stories-inside-list">
-          <!-- Populated dynamically -->
-        </div>
-      </section>
-
-      <!-- Panel 3: Why Named & Background -->
-      <section id="tab-why" class="tab-panel" role="tabpanel" aria-labelledby="tabBtnWhy">
-        <div id="surahWhyContainer">
-          <!-- Populated dynamically -->
-        </div>
-      </section>
-
-      <!-- Panel 4: Deep Dives -->
-      <section id="tab-dives" class="tab-panel" role="tabpanel" aria-labelledby="tabBtnDives">
-        <div id="surahDivesContainer">
-          <!-- Populated dynamically -->
-        </div>
-      </section>
-    </article>
-
-    <!-- DETAIL VIEW: STORY DETAIL -->
-    <article id="storyDetailView" class="detail-view-container" aria-label="Story Detail">
-      <!-- Back Bar -->
-      <div class="detail-back-bar">
-        <button type="button" class="back-btn" id="storyBackBtn" aria-label="Back to Stories">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <polyline points="15 18 9 12 15 6"></polyline>
-          </svg>
-          <span>Back to Stories</span>
-        </button>
-        <div class="detail-actions">
-          <button type="button" class="icon-btn" id="bookmarkStoryBtn" aria-label="Bookmark this Story" title="Bookmark Story">
-            <svg id="storyBookmarkIcon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-              <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
-            </svg>
-          </button>
-        </div>
-      </div>
-
-      <!-- Story Hero Card -->
-      <div id="storyDetailHero" class="hero-detail-card">
-        <!-- Populated dynamically -->
-      </div>
-
-      <!-- Cited Surahs Interactive Chips -->
-      <div class="content-card-section">
-        <h3>
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
-          <span>Mentioned in Surahs</span>
-        </h3>
-        <p id="storyCitationsRaw" style="font-size: 0.9rem; color: var(--text-light); margin-bottom: 12px;"></p>
-        <div id="storySurahChipsContainer" class="filter-chips">
-          <!-- Populated dynamically with interactive chips -->
-        </div>
-      </div>
-
-      <!-- Detailed Narrative -->
-      <div class="content-card-section">
-        <h3>
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path></svg>
-          <span>Detailed Narrative</span>
-        </h3>
-        <div id="storyNarrativeContainer" class="formatted-prose">
-          <!-- Populated dynamically -->
-        </div>
-      </div>
-
-      <!-- Key Lessons & Reflections -->
-      <div id="storyLessonsSection" class="content-card-section">
-        <h3>
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
-          <span>Key Lessons &amp; Moral Signposts</span>
-        </h3>
-        <div id="storyLessonsContainer" class="formatted-prose">
-          <!-- Populated dynamically -->
-        </div>
-      </div>
-
-      <!-- Theological Reflections -->
-      <div id="storyTheoSection" class="content-card-section">
-        <h3>
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg>
-          <span>Theological Significance</span>
-        </h3>
-        <div id="storyTheoContainer" class="formatted-prose">
-          <!-- Populated dynamically -->
-        </div>
-      </div>
-    </article>
-  </main>
-
-  <!-- Theme Selector Modal -->
-  <div id="themeModalBackdrop" class="theme-modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="themeModalTitle">
-    <div class="theme-modal-card">
-      <div class="theme-modal-header">
-        <h3 id="themeModalTitle">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"></circle><path d="M12 2a7 7 0 0 0 0 14 7 7 0 0 0 0-14z" fill="currentColor"></path></svg>
-          <span>Color Theme Palette</span>
-        </h3>
-        <button type="button" class="search-clear-btn visible" id="closeThemeModalBtn" aria-label="Close Theme Dialog" style="position: static;">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <line x1="18" y1="6" x2="6" y2="18"></line>
-            <line x1="6" y1="6" x2="18" y2="18"></line>
-          </svg>
-        </button>
-      </div>
-      <div class="theme-grid-options">
-        <!-- 1. Emerald Light -->
-        <button type="button" class="theme-option-btn active" data-theme-choice="emerald-light">
-          <div class="theme-preview-dots">
-            <span class="theme-dot" style="background: #064e3b;"></span>
-            <span class="theme-dot" style="background: #fbf9f5;"></span>
-            <span class="theme-dot" style="background: #d97706;"></span>
-          </div>
-          <span class="theme-label-name">🌿 Emerald Light</span>
-          <span class="theme-label-desc">Alabaster &amp; Forest Green</span>
-        </button>
-
-        <!-- 2. Midnight Blue -->
-        <button type="button" class="theme-option-btn" data-theme-choice="midnight">
-          <div class="theme-preview-dots">
-            <span class="theme-dot" style="background: #080d1a;"></span>
-            <span class="theme-dot" style="background: #111b2b;"></span>
-            <span class="theme-dot" style="background: #38bdf8;"></span>
-          </div>
-          <span class="theme-label-name">🌌 Midnight Blue</span>
-          <span class="theme-label-desc">Deep Navy &amp; Electric Sky</span>
-        </button>
-
-        <!-- 3. Forest Dark -->
-        <button type="button" class="theme-option-btn" data-theme-choice="dark">
-          <div class="theme-preview-dots">
-            <span class="theme-dot" style="background: #060e0c;"></span>
-            <span class="theme-dot" style="background: #0d1e19;"></span>
-            <span class="theme-dot" style="background: #34d399;"></span>
-          </div>
-          <span class="theme-label-name">🌲 Forest Dark</span>
-          <span class="theme-label-desc">Onyx &amp; Mint Jade</span>
-        </button>
-
-        <!-- 4. Desert Sepia -->
-        <button type="button" class="theme-option-btn" data-theme-choice="sepia">
-          <div class="theme-preview-dots">
-            <span class="theme-dot" style="background: #f4eee1;"></span>
-            <span class="theme-dot" style="background: #5c2c10;"></span>
-            <span class="theme-dot" style="background: #b45309;"></span>
-          </div>
-          <span class="theme-label-name">📜 Desert Sepia</span>
-          <span class="theme-label-desc">Warm Sand &amp; Terracotta</span>
-        </button>
-      </div>
-    </div>
-  </div>
-
-  <!-- Bottom Navigation Bar (Mobile Native UI) -->
-  <nav class="bottom-nav" role="navigation" aria-label="Main Navigation">
-    <button type="button" class="nav-item-btn active" id="navSurahs" aria-label="Browse Surahs">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-        <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
-        <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
-      </svg>
-      <span>Surahs</span>
-    </button>
-    <button type="button" class="nav-item-btn" id="navStories" aria-label="Browse Quranic Stories">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-        <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"></path>
-        <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"></path>
-      </svg>
-      <span>Stories</span>
-    </button>
-    <button type="button" class="nav-item-btn" id="navBookmarks" aria-label="View Saved Bookmarks">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-        <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
-      </svg>
-      <span>Saved</span>
-    </button>
-    <button type="button" class="nav-item-btn" id="navAbout" aria-label="App Information and Overview">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-        <circle cx="12" cy="12" r="10"></circle>
-        <line x1="12" y1="16" x2="12" y2="12"></line>
-        <line x1="12" y1="8" x2="12.01" y2="8"></line>
-      </svg>
-      <span>About</span>
-    </button>
-  </nav>
-
-  <!-- Accessible Toast Notice -->
-  <div id="toastNotice" class="toast-notice" role="status" aria-live="polite"></div>
-
-  <!-- Main JavaScript App -->
-  <script src="js/app.js"></script>
+  <script type="module" src="/src/main.jsx"></script>
 </body>
 </html>
