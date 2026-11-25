@@ -1,0 +1,63 @@
+{
+  "name": "Quran Kareem – Surahs, Verses & Stories",
+  "short_name": "Quran Stories",
+  "description": "Comprehensive Islamic companion app featuring all 114 Surahs, verse-by-verse breakdowns, why-named explanations, reflections, and complete stories of the Prophets and righteous figures.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": ["education", "books", "lifestyle"],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "All 114 Surahs",
+      "short_name": "Surahs",
+      "description": "Browse all 114 Surahs with verse breakdowns",
+      "url": "./index.html#surahs",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Quranic Stories",
+      "short_name": "Stories",
+      "description": "Read stories of the 25 Prophets and righteous figures",
+      "url": "./index.html#stories",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Saved Bookmarks",
+      "short_name": "Bookmarks",
+      "description": "Access your saved verses and stories",
+      "url": "./index.html#bookmarks",
+      "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

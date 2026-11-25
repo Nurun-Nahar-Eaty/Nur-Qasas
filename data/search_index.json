@@ -1,0 +1,1424 @@
+[
+  {
+    "type": "surah",
+    "id": 1,
+    "title": "Surah Al-Fātiḥah (The Opening, The Preface, or The Starter)",
+    "arabic": "الفاتحة",
+    "subtitle": "Makkan · 7 Verses",
+    "snippet": "Guidance, worship, and the straight path",
+    "keywords": "1 Al-Fātiḥah Al-Fatihah الفاتحة The Opening, The Preface, or The Starter Makkan Guidance, worship, and the straight path This Surah is the undeniable essence, the summary, and the master key of the entire Quran. It is a perfectly structured, divine script that teaches human beings exactly how to approach, praise, and talk to their Creator, culminating in the single most important request a human can ever make: the plea for guidance."
+  },
+  {
+    "type": "surah",
+    "id": 2,
+    "title": "Surah Al-Baqarah (The Cow or The Heifer)",
+    "arabic": "البقرة",
+    "subtitle": "Madinan · 286 Verses",
+    "snippet": "Faith, law, trials, and building a Muslim society",
+    "keywords": "2 Al-Baqarah Al-Baqarah البقرة The Cow or The Heifer Madinan Faith, law, trials, and building a Muslim society This Surah is the foundational constitution of Islam, transitioning believers from a persecuted minority to a governing society. But beyond its laws, it is a massive archive of human history. It uses vivid, detailed stories of past prophets, kings, and ordinary people to teach the new Muslim community how to avoid the fatal mistakes of arrogance, doubt, and disobedience."
+  },
+  {
+    "type": "surah",
+    "id": 3,
+    "title": "Surah Āl-'Imrān (The Family of Imran (Imran is the father of Maryam/Mary, making this the family of Jesus).)",
+    "arabic": "آل عمران",
+    "subtitle": "Madinan · 200 Verses",
+    "snippet": "Steadfastness, truth of Islam, unity",
+    "keywords": "3 Āl-'Imrān Al-'Imran آل عمران The Family of Imran (Imran is the father of Maryam/Mary, making this the family of Jesus). Madinan Steadfastness, truth of Islam, unity While Surah Al-Baqarah was about building the foundation of the Muslim nation, Surah Ali 'Imran is about steadfastness (Thabat). It teaches the believers how to stay firm when facing external ideological attacks (theological debates about God and Jesus) and internal physical and psychological crises (the heartbreaking defeat and loss of life at Uhud)."
+  },
+  {
+    "type": "surah",
+    "id": 4,
+    "title": "Surah An-Nisā (The Women)",
+    "arabic": "النساء",
+    "subtitle": "Madinan · 176 Verses",
+    "snippet": "Social justice, family law, women's rights",
+    "keywords": "4 An-Nisā An-Nisa النساء The Women Madinan Social justice, family law, women's rights If Surah Al-Baqarah was about building the nation and Surah Ali 'Imran was about defending it, Surah An-Nisa is about social justice and protecting the vulnerable. It establishes the internal laws of a healthy society, dismantling the oppressive practices of pre-Islamic Arabia. It focuses heavily on the rights of women, orphans, the distribution of wealth, eradicating hypocrisy, and establishing absolute, unflinching justice."
+  },
+  {
+    "type": "surah",
+    "id": 5,
+    "title": "Surah Al-Mā'idah (The Table Spread or The Table Spread with Food)",
+    "arabic": "المائدة",
+    "subtitle": "Madinan · 120 Verses",
+    "snippet": "Law, covenants, halal & haram",
+    "keywords": "5 Al-Mā'idah Al-Ma'idah المائدة The Table Spread or The Table Spread with Food Madinan Law, covenants, halal & haram If Surah Al-Baqarah built the nation, Ali 'Imran defended it, and An-Nisa established its internal social justice, Surah Al-Ma'idah is the grand finale. Its core theme is Covenants and Completion. It establishes the final, uncompromising dietary, legal, and social laws of Islam, finalizes the theological boundaries with the People of the Book (Jews and Christians), and celebrates the absolute perfection of the religion."
+  },
+  {
+    "type": "surah",
+    "id": 6,
+    "title": "Surah Al-An'ām (The Cattle or The Grazing Livestock)",
+    "arabic": "الأنعام",
+    "subtitle": "Makkan · 165 Verses",
+    "snippet": "Tawḥīd and rejecting shirk",
+    "keywords": "6 Al-An'ām Al-An'am الأنعام The Cattle or The Grazing Livestock Makkan Tawḥīd and rejecting shirk This Surah is the ultimate, masterclass defense of Tawhid (the absolute Oneness of God). It systematically dismantles idolatry, superstition, and arrogance using logic, nature, and the history of past prophets. It is designed to arm the believer with unshakable intellectual and spiritual proof that Allah is the only true Sovereign over the universe."
+  },
+  {
+    "type": "surah",
+    "id": 7,
+    "title": "Surah Al-A'rāf (The Heights or The Elevations)",
+    "arabic": "الأعراف",
+    "subtitle": "Makkan · 206 Verses",
+    "snippet": "Stories of prophets and consequences of arrogance",
+    "keywords": "7 Al-A'rāf Al-A'raf الأعراف The Heights or The Elevations Makkan Stories of prophets and consequences of arrogance This Surah is an epic, sweeping historical narrative. It traces the journey of humanity from our creation in heaven, to our descent to Earth, through the rise and fall of ancient civilizations (Nuh, Hud, Salih, Lut, Shu'ayb, and Musa), all the way to our final destinations on the Day of Judgment. It heavily focuses on the tactics of Iblis (Satan), warning us not to fall for the same traps that destroyed the nations of the past."
+  },
+  {
+    "type": "surah",
+    "id": 8,
+    "title": "Surah Al-Anfāl (The Spoils of War, The Bounties, or Voluntary Gifts)",
+    "arabic": "الأنفال",
+    "subtitle": "Madinan · 75 Verses",
+    "snippet": "Battle of Badr, divine help",
+    "keywords": "8 Al-Anfāl Al-Anfal الأنفال The Spoils of War, The Bounties, or Voluntary Gifts Madinan Battle of Badr, divine help The Surah is a masterclass in the spiritual physics of victory. It completely deconstructs the human obsession with material wealth (the spoils of war) and physical military strategy. Instead, it redefines true victory as a divine gift granted only to a community that maintains absolute unity, sincere trust in God (Tawakkul), and spiritual discipline in the face of impossible odds."
+  },
+  {
+    "type": "surah",
+    "id": 9,
+    "title": "Surah At-Tawbah (The Repentance (It is also widely known as Surah Al-Bara'ah, meaning The Disavowal or The Ultimatum).)",
+    "arabic": "التوبة",
+    "subtitle": "Madinan · 129 Verses",
+    "snippet": "Hypocrisy exposed, sincerity in faith",
+    "keywords": "9 At-Tawbah At-Tawbah التوبة The Repentance (It is also widely known as Surah Al-Bara'ah, meaning The Disavowal or The Ultimatum). Madinan Hypocrisy exposed, sincerity in faith This Surah is the ultimate stress test for the Muslim community. It acts as a divine filter, completely exposing the hypocrites who were hiding within the ranks. It establishes the final, uncompromising laws regarding treaties and warfare, and it provides a masterclass on the psychology of true, sincere repentance."
+  },
+  {
+    "type": "surah",
+    "id": 10,
+    "title": "Surah Yūnus (Jonah (Named after the Prophet Yunus/Jonah).)",
+    "arabic": "يونس",
+    "subtitle": "Makkan · 109 Verses",
+    "snippet": "Mercy, repentance, belief",
+    "keywords": "10 Yūnus Yunus يونس Jonah (Named after the Prophet Yunus/Jonah). Makkan Mercy, repentance, belief This Surah is a masterclass in divine wisdom and mercy. It defends the authenticity of the Quran against accusations of magic or forgery, analyzes the fickle nature of human psychology during hardship versus ease, and powerfully contrasts two historical examples of facing God's punishment: the rejected repentance of Pharaoh versus the accepted, unprecedented repentance of the people of Yunus."
+  },
+  {
+    "type": "surah",
+    "id": 11,
+    "title": "Surah Hūd (The Prophet Hud (Named after the Prophet sent to the ancient, powerful tribe of 'Ad).)",
+    "arabic": "هود",
+    "subtitle": "Makkan · 123 Verses",
+    "snippet": "Patience through trials",
+    "keywords": "11 Hūd Hud هود The Prophet Hud (Named after the Prophet sent to the ancient, powerful tribe of 'Ad). Makkan Patience through trials This Surah is an emotional and theological anchor. It focuses heavily on Istiqamah (unwavering steadfastness). Through vivid, detailed, and often heartbreaking stories of past Prophets - Nuh, Hud, Salih, Ibrahim, Lut, and Shu'ayb - it teaches the believers that while the path of truth is filled with intense loneliness, mockery, and struggle, God's perfect justice will ultimately rescue the righteous and crush the arrogant."
+  },
+  {
+    "type": "surah",
+    "id": 12,
+    "title": "Surah Yūsuf (Joseph (Named after the Prophet Yusuf/Joseph).)",
+    "arabic": "يوسف",
+    "subtitle": "Makkan · 111 Verses",
+    "snippet": "Trust Allah in hardship",
+    "keywords": "12 Yūsuf Yusuf يوسف Joseph (Named after the Prophet Yusuf/Joseph). Makkan Trust Allah in hardship This Surah is entirely unique in the Quran. While other chapters weave various themes and stories together, Surah Yusuf is dedicated entirely to a single, continuous, highly detailed narrative from beginning to end. It is a profound masterclass in dealing with grief, navigating family betrayal, maintaining absolute integrity in the face of temptation, and trusting that Allah's intricate, hidden plan (Al-Latif) will always lead to ultimate victory for those who practice \"beautiful patience."
+  },
+  {
+    "type": "surah",
+    "id": 13,
+    "title": "Surah Ar-Ra'd (The Thunder)",
+    "arabic": "الرعد",
+    "subtitle": "Disputed · 43 Verses",
+    "snippet": "Truth vs falsehood",
+    "keywords": "13 Ar-Ra'd Ar-Ra'd الرعد The Thunder Disputed Truth vs falsehood This Surah is a breathtaking display of Allah's power over the natural world. It establishes that the truth of Islam is as undeniable, heavy, and life-giving as rain, while falsehood is as temporary and empty as foam. It beautifully contrasts the terrifying, majestic power of thunderstorms with the deep, quiet peace that a believer's heart finds in the remembrance of God."
+  },
+  {
+    "type": "surah",
+    "id": 14,
+    "title": "Surah Ibrāhīm (Abraham (Prophet Ibrahim, peace be upon him))",
+    "arabic": "إبراهيم",
+    "subtitle": "Makkan · 52 Verses",
+    "snippet": "Gratitude and du'ā",
+    "keywords": "14 Ibrāhīm Ibrahim إبراهيم Abraham (Prophet Ibrahim, peace be upon him) Makkan Gratitude and du'ā This Surah is a powerful message of light, gratitude, and unshakable faith. Revealed when the Muslims were weak and mocked, it reminds believers that Allah's message brings people out of darkness into light. Through the stories of past prophets, a chilling speech from Shaytan on Judgment Day, and the heartfelt prayers of Prophet Ibrahim (AS), it teaches that gratitude brings endless blessings, while arrogance and ingratitude lead to total ruin."
+  },
+  {
+    "type": "surah",
+    "id": 15,
+    "title": "Surah Al-Ḥijr (The Rocky Tract or The Stoneland (referring to the mountainous valley inhabited by the ancient tribe of Thamud).)",
+    "arabic": "الحجر",
+    "subtitle": "Makkan · 99 Verses",
+    "snippet": "Qur'an's protection, arrogance of Iblīs",
+    "keywords": "15 Al-Ḥijr Al-Hijr الحجر The Rocky Tract or The Stoneland (referring to the mountainous valley inhabited by the ancient tribe of Thamud). Makkan Qur'an's protection, arrogance of Iblīs This Surah is a powerful reassurance of Allah's absolute control and protection. Revealed when the Prophet (pbuh) was mocked and called mad by the leaders of Makkah, it guarantees that Allah Himself will guard the Quran forever. Through the stories of Adam and Iblis, Prophet Ibrahim, Prophet Lut, and the ruined stone cities of Al-Hijr, it proves that no fortress, wealth, or arrogance can ever protect wrongdoers from Allah's decree, while sincere believers are shielded by His mercy."
+  },
+  {
+    "type": "surah",
+    "id": 16,
+    "title": "Surah An-Naḥl (The Bee (An-Nahl))",
+    "arabic": "النحل",
+    "subtitle": "Makkan · 128 Verses",
+    "snippet": "Allah's blessings and gratitude",
+    "keywords": "16 An-Naḥl An-Nahl النحل The Bee (An-Nahl) Makkan Allah's blessings and gratitude Known by classical scholars as Surah an-Ni'am (\"The Chapter of Blessings\"), this Surah is a sweeping tour of Allah's countless favors - from rain, oceans, and livestock to homes, families, and the healing honey of the bee. Its core message is simple and direct: every single comfort in human life comes from Allah alone, so worshipping powerless idols or showing ingratitude is completely illogical. It calls humanity to pure monotheism, justice, patience, and deep thankfulness."
+  },
+  {
+    "type": "surah",
+    "id": 17,
+    "title": "Surah Al-Isrā (The Night Journey (Al-Isra) - also famously known in early Hadith collections as Surah Bani Israel (The Children of Israel).)",
+    "arabic": "الإسراء",
+    "subtitle": "Makkan · 111 Verses",
+    "snippet": "Ethics, responsibility",
+    "keywords": "17 Al-Isrā Al-Isra الإسراء The Night Journey (Al-Isra) - also famously known in early Hadith collections as Surah Bani Israel (The Children of Israel). Makkan Ethics, responsibility This Surah is a breathtaking transition from deep earthly grief to heavenly honor. Revealed after the Prophet Muhammad (pbuh) endured his hardest year of personal loss and fierce rejection, it opens by glorifying Allah for taking him from Makkah to Jerusalem in a single night. Alongside a comprehensive moral charter for human society - covering kindness to parents, justice, modesty, and honesty - it recounts pivotal stories of the Children of Israel, the rebellion of Iblis, Prophet Musa's nine miracles, and the ultimate honor awaiting Prophet Muhammad (pbuh) on the Day of Judgment."
+  },
+  {
+    "type": "surah",
+    "id": 18,
+    "title": "Surah Al-Kahf (The Cave (Al-Kahf))",
+    "arabic": "الكهف",
+    "subtitle": "Makkan · 110 Verses",
+    "snippet": "Trials of faith, knowledge, power",
+    "keywords": "18 Al-Kahf Al-Kahf الكهف The Cave (Al-Kahf) Makkan Trials of faith, knowledge, power This Surah is the ultimate spiritual shield against the four greatest trials (fitnah) of human life: the trial of faith, the trial of wealth, the trial of knowledge, and the trial of power. Through four unforgettable stories - the Youths of the Cave, the Owner of the Two Gardens, Prophet Musa and Al-Khidr, and the righteous king Dhul-Qarnayn - it teaches believers how to stay humble, patient, and anchored in Allah until the very end of time."
+  },
+  {
+    "type": "surah",
+    "id": 19,
+    "title": "Surah Maryam (Mary (Maryam, peace be upon her - the only chapter in the entire Quran named after a woman).)",
+    "arabic": "مريم",
+    "subtitle": "Makkan · 98 Verses",
+    "snippet": "Mercy and miracles",
+    "keywords": "19 Maryam Maryam مريم Mary (Maryam, peace be upon her - the only chapter in the entire Quran named after a woman). Makkan Mercy and miracles This Surah is a tender, deeply moving showcase of Allah's boundless mercy (Ar-Rahman is mentioned 16 times - more than in any other Surah). Revealed when the early Muslims were being tortured and forced to flee their homes, it tells the miraculous stories of Prophet Zakariya, Maryam, Prophet 'Isa, Prophet Ibrahim, and earlier prophets to prove that nothing is impossible for Allah, pure monotheism is the true message of all prophets, and Allah always protects and loves His sincere servants."
+  },
+  {
+    "type": "surah",
+    "id": 20,
+    "title": "Surah Ṭā-Hā (Ta-Ha (named after the two Arabic opening letters Ta and Ha, whose exact meaning is known only to Allah).)",
+    "arabic": "طه",
+    "subtitle": "Makkan · 135 Verses",
+    "snippet": "Comfort to the Prophet (pbuh)",
+    "keywords": "20 Ṭā-Hā Ta-Ha طه Ta-Ha (named after the two Arabic opening letters Ta and Ha, whose exact meaning is known only to Allah). Makkan Comfort to the Prophet (pbuh) This Surah is a deeply comforting message that the Quran was revealed to bring mercy, guidance, and inner peace - not misery. Through the most detailed life story of Prophet Musa (AS) in the Quran and the story of Prophet Adam (AS), it teaches that Allah never abandons His sincere servants, that falsehood always collapses before truth, and that real contentment comes only from remembering Allah."
+  },
+  {
+    "type": "surah",
+    "id": 21,
+    "title": "Surah Al-Anbiyā (The Prophets (Al-Anbiya))",
+    "arabic": "الأنبياء",
+    "subtitle": "Makkan · 112 Verses",
+    "snippet": "Unity of prophets' message",
+    "keywords": "21 Al-Anbiyā Al-Anbiya الأنبياء The Prophets (Al-Anbiya) Makkan Unity of prophets' message This Surah is a powerful wake-up call about the nearness of the Day of Judgment, the Oneness of Allah (Tawhid), and the shared brotherhood of all prophets. Because the leaders of Makkah mocked Prophet Muhammad (pbuh) for being an ordinary human being, Allah brings together the stories of sixteen prophets in one chapter - proving that every messenger was human, faced severe trials, called people to One God, and was rescued by Allah through sincere prayer and patience."
+  },
+  {
+    "type": "surah",
+    "id": 22,
+    "title": "Surah Al-Ḥajj (The Pilgrimage (Al-Hajj))",
+    "arabic": "الحج",
+    "subtitle": "Madinan · 78 Verses",
+    "snippet": "Worship and sacrifice",
+    "keywords": "22 Al-Ḥajj Al-Hajj الحج The Pilgrimage (Al-Hajj) Madinan Worship and sacrifice This Surah is a powerful reminder of the terror of the Final Hour, the undeniable proofs of Resurrection, and the true spirit of devotion to Allah. Revealed as the persecuted Muslims were driven out of Makkah and barred from the Kaaba, it revives the pure legacy of Prophet Ibrahim (AS), grants the oppressed believers their very first permission to defend themselves, and dismantles idol worship through unforgettable parables."
+  },
+  {
+    "type": "surah",
+    "id": 23,
+    "title": "Surah Al-Mu'minūn (The Believers (Al-Mu'minun))",
+    "arabic": "المؤمنون",
+    "subtitle": "Makkan · 118 Verses",
+    "snippet": "Qualities of true believers",
+    "keywords": "23 Al-Mu'minūn Al-Mu'minun المؤمنون The Believers (Al-Mu'minun) Makkan Qualities of true believers This Surah defines what true, lasting success actually looks like. While the arrogant leaders of Makkah measured success by wealth, power, and social status, Allah opens this chapter by declaring that the true winners are the sincere believers who guard their prayers, character, and trusts. Through the miracle of human creation, the stories of past prophets, and a haunting conversation on the Day of Judgment, it proves that life has a serious purpose and that real victory belongs only to faith and righteousness."
+  },
+  {
+    "type": "surah",
+    "id": 24,
+    "title": "Surah An-Nūr (The Light (An-Nur))",
+    "arabic": "النور",
+    "subtitle": "Madinan · 64 Verses",
+    "snippet": "Modesty, morality, social purity",
+    "keywords": "24 An-Nūr An-Nur النور The Light (An-Nur) Madinan Modesty, morality, social purity This Surah is the divine shield that protects the honor, purity, and peace of Muslim families and communities. Revealed at a moment when hypocrites tried to tear Madinah apart from within through vicious gossip and slander against the Prophet's own household, it lays down clear moral laws, rules of privacy and modesty, and the breathtaking parable of Allah's Light - teaching that true light illuminates both the heart and the home."
+  },
+  {
+    "type": "surah",
+    "id": 25,
+    "title": "Surah Al-Furqān (The Criterion (Al-Furqan - that which clearly separates truth from falsehood, guidance from misguidance, and right from wrong).)",
+    "arabic": "الفرقان",
+    "subtitle": "Makkan · 77 Verses",
+    "snippet": "Truth vs falsehood",
+    "keywords": "25 Al-Furqān Al-Furqan الفرقان The Criterion (Al-Furqan - that which clearly separates truth from falsehood, guidance from misguidance, and right from wrong). Makkan Truth vs falsehood This Surah is a powerful defense of the Quran and the humanity of Prophet Muhammad (pbuh). Revealed when the pagan leaders of Makkah ridiculed the Prophet (pbuh) for being an ordinary human who ate food and walked in the markets, it dismantles every excuse of arrogance, warns against toxic friendships that lead to eternal regret, and closes with a breathtaking portrait of the true \"Servants of the Most Merciful\" ('Ibad ar-Rahman)."
+  },
+  {
+    "type": "surah",
+    "id": 26,
+    "title": "Surah Ash-Shu'arā (The Poets (Ash-Shu'ara))",
+    "arabic": "الشعراء",
+    "subtitle": "Makkan · 227 Verses",
+    "snippet": "Prophets vs rejection",
+    "keywords": "26 Ash-Shu'arā Ash-Shu'ara الشعراء The Poets (Ash-Shu'ara) Makkan Prophets vs rejection This Surah is a powerful consolation for Prophet Muhammad (pbuh) and a sweeping proof that the Quran is pure divine revelation - not human poetry or magic. By walking through seven major prophetic stories in a rhythmic pattern - each ending with the exact same refrain, \"Indeed in that is a sign, yet most of them were not to be believers. And indeed, your Lord - He is the Almighty, the Most Merciful\" - it proves that every prophet was mocked, every arrogant nation was destroyed, and Allah always rescues His sincere servants."
+  },
+  {
+    "type": "surah",
+    "id": 27,
+    "title": "Surah An-Naml (The Ant (An-Naml))",
+    "arabic": "النمل",
+    "subtitle": "Makkan · 93 Verses",
+    "snippet": "Gratitude and wisdom",
+    "keywords": "27 An-Naml An-Naml النمل The Ant (An-Naml) Makkan Gratitude and wisdom This Surah is a breathtaking display of Allah's complete knowledge, unseen wisdom, and absolute sovereignty over every creature - from the tiniest ant to the grandest kingdoms on earth. Through the stories of Prophet Musa, Prophet Sulayman, the Queen of Sheba, Prophet Salih, and Prophet Lut, it teaches that true greatness is found in humility and gratitude to Allah, while arrogance and plotting against the truth always end in ruin."
+  },
+  {
+    "type": "surah",
+    "id": 28,
+    "title": "Surah Al-Qaṣaṣ (The Stories)",
+    "arabic": "القصص",
+    "subtitle": "Makkan · 88 Verses",
+    "snippet": "Allah's plan unfolds",
+    "keywords": "28 Al-Qaṣaṣ Al-Qasas القصص The Stories Makkan Allah's plan unfolds The life of Musa, Allah's plan in protecting the oppressed, and the consequences of arrogance and wealth."
+  },
+  {
+    "type": "surah",
+    "id": 29,
+    "title": "Surah Al-'Ankabūt (The Spider (Al-Ankabut))",
+    "arabic": "العنكبوت",
+    "subtitle": "Makkan · 69 Verses",
+    "snippet": "Tests prove faith",
+    "keywords": "29 Al-'Ankabūt Al-'Ankabut العنكبوت The Spider (Al-Ankabut) Makkan Tests prove faith The inevitability of trials (fitnah) for those who claim faith, the patience of believers, and the destruction of nations that relied on \"spider-web\" foundations."
+  },
+  {
+    "type": "surah",
+    "id": 30,
+    "title": "Surah Ar-Rūm (The Romans (The Byzantines))",
+    "arabic": "الروم",
+    "subtitle": "Makkan · 60 Verses",
+    "snippet": "Allah controls history",
+    "keywords": "30 Ar-Rūm Ar-Rum الروم The Romans (The Byzantines) Makkan Allah controls history The certainty of Allah's promise, the rise and fall of nations, and the clear signs of the Creator in the natural world."
+  },
+  {
+    "type": "surah",
+    "id": 31,
+    "title": "Surah Luqmān (Luqman (named after the wise sage mentioned in the Surah))",
+    "arabic": "لقمان",
+    "subtitle": "Makkan · 34 Verses",
+    "snippet": "Wisdom and parenting",
+    "keywords": "31 Luqmān Luqman لقمان Luqman (named after the wise sage mentioned in the Surah) Makkan Wisdom and parenting The definition of true wisdom (Hikmah), the rights of parents vs. the rights of Allah, and the five \"Keys of the Unseen."
+  },
+  {
+    "type": "surah",
+    "id": 32,
+    "title": "Surah As-Sajdah (The Prostration (named after the verse of Sajdah within it))",
+    "arabic": "السجدة",
+    "subtitle": "Makkan · 30 Verses",
+    "snippet": "Submission to Allah",
+    "keywords": "32 As-Sajdah As-Sajdah السجدة The Prostration (named after the verse of Sajdah within it) Makkan Submission to Allah Affirmation of the Revelation, the Creation of Man, the contrast between the Believer and the Defiant, and the Day of Judgment."
+  },
+  {
+    "type": "surah",
+    "id": 33,
+    "title": "Surah Al-Aḥzāb (The Confederates or The Allies (referring to the coalition of tribes that attacked Medina))",
+    "arabic": "الأحزاب",
+    "subtitle": "Madinan · 73 Verses",
+    "snippet": "Community trials, Prophet's role",
+    "keywords": "33 Al-Aḥzāb Al-Ahzab الأحزاب The Confederates or The Allies (referring to the coalition of tribes that attacked Medina) Madinan Community trials, Prophet's role Trust in Allah during crises, the abolition of pre-Islamic social customs, the status of the Prophet (pbuh), and the code of conduct for the Muslim community."
+  },
+  {
+    "type": "surah",
+    "id": 34,
+    "title": "Surah Saba (Saba (Sheba - the ancient kingdom in Yemen))",
+    "arabic": "سبأ",
+    "subtitle": "Makkan · 54 Verses",
+    "snippet": "Blessings lost through ingratitude",
+    "keywords": "34 Saba Saba سبأ Saba (Sheba - the ancient kingdom in Yemen) Makkan Blessings lost through ingratitude The relationship between power and gratitude, the reality of the Unseen, and the contrast between those who use God's blessings for good versus those who become arrogant."
+  },
+  {
+    "type": "surah",
+    "id": 35,
+    "title": "Surah Fāṭir (The Originator or The Creator)",
+    "arabic": "فاطر",
+    "subtitle": "Makkan · 45 Verses",
+    "snippet": "Allah's power in creation",
+    "keywords": "35 Fāṭir Fatir فاطر The Originator or The Creator Makkan Allah's power in creation The absolute power of Allah as the Creator, the reality of the Unseen (Angels), and the responsibility of those who inherit the Qur'an."
+  },
+  {
+    "type": "surah",
+    "id": 36,
+    "title": "Surah Yā-Sīn (Ya-Sin (Disjointed letters / Muqatta'at))",
+    "arabic": "يس",
+    "subtitle": "Makkan · 83 Verses",
+    "snippet": "Resurrection and warning",
+    "keywords": "36 Yā-Sīn Ya-Sin يس Ya-Sin (Disjointed letters / Muqatta'at) Makkan Resurrection and warning The truth of the Message, the certainty of Resurrection, and the signs of Allah in the universe."
+  },
+  {
+    "type": "surah",
+    "id": 37,
+    "title": "Surah Aṣ-Ṣāffāt (Those Ranged in Ranks (referring to the Angels))",
+    "arabic": "الصافات",
+    "subtitle": "Makkan · 182 Verses",
+    "snippet": "Obedience and sacrifice",
+    "keywords": "37 Aṣ-Ṣāffāt As-Saffat الصافات Those Ranged in Ranks (referring to the Angels) Makkan Obedience and sacrifice The Oneness of God (Tawhid), the protection of the heavens, the absolute obedience of the angels, and the trials of the Prophets (specifically Ibrahim)."
+  },
+  {
+    "type": "surah",
+    "id": 38,
+    "title": "Surah Ṣād (Sad (The Arabic letter Sād))",
+    "arabic": "ص",
+    "subtitle": "Makkan · 88 Verses",
+    "snippet": "Patience of prophets",
+    "keywords": "38 Ṣād Sad ص Sad (The Arabic letter Sād) Makkan Patience of prophets The necessity of returning to Allah (Inabah), the trials of those in power, and the ultimate victory of the patient."
+  },
+  {
+    "type": "surah",
+    "id": 39,
+    "title": "Surah Az-Zumar (The Throngs or The Groups (referring to the crowds entering Paradise and Hell))",
+    "arabic": "الزمر",
+    "subtitle": "Makkan · 75 Verses",
+    "snippet": "Sincerity in worship",
+    "keywords": "39 Az-Zumar Az-Zumar الزمر The Throngs or The Groups (referring to the crowds entering Paradise and Hell) Makkan Sincerity in worship Ikhlas (Sincerity in worship), the Oneness of Allah (Tawhid), and the final distribution of people into their eternal abodes."
+  },
+  {
+    "type": "surah",
+    "id": 40,
+    "title": "Surah Ghāfir (The Forgiver (Ghafir) / Also known as The Believer (Al-Mu'min).)",
+    "arabic": "غافر",
+    "subtitle": "Makkan · 85 Verses",
+    "snippet": "Forgiveness and warning",
+    "keywords": "40 Ghāfir Ghafir غافر The Forgiver (Ghafir) / Also known as The Believer (Al-Mu'min). Makkan Forgiveness and warning The conflict between truth and arrogance, the power of prayer (Du'a), and the story of those who support the truth from within enemy lines."
+  },
+  {
+    "type": "surah",
+    "id": 41,
+    "title": "Surah Fuṣṣilat (Explained in Detail or Distinctly Spelled Out.)",
+    "arabic": "فصلت",
+    "subtitle": "Makkan · 54 Verses",
+    "snippet": "Qur'an clarified",
+    "keywords": "41 Fuṣṣilat Fussilat فصلت Explained in Detail or Distinctly Spelled Out. Makkan Qur'an clarified The clarity of the Qur'an, the signs of Allah in the horizons and within the soul, and the consequences of turning away from the clear Truth."
+  },
+  {
+    "type": "surah",
+    "id": 42,
+    "title": "Surah Ash-Shūrā (The Consultation (Shura))",
+    "arabic": "الشورى",
+    "subtitle": "Makkan · 53 Verses",
+    "snippet": "Consultation and unity",
+    "keywords": "42 Ash-Shūrā Ash-Shura الشورى The Consultation (Shura) Makkan Consultation and unity The unity of the Message (Prophets follow one religion), the principle of mutual consultation in social life, and Allah's absolute control over provision and destiny."
+  },
+  {
+    "type": "surah",
+    "id": 43,
+    "title": "Surah Az-Zukhruf (Gold Ornaments or Luxury (Zukhruf))",
+    "arabic": "الزخرف",
+    "subtitle": "Makkan · 89 Verses",
+    "snippet": "Worldly deception",
+    "keywords": "43 Az-Zukhruf Az-Zukhruf الزخرف Gold Ornaments or Luxury (Zukhruf) Makkan Worldly deception Refuting the worship of wealth and social status, the absurdity of polytheistic myths, and the contrast between temporary luxury and eternal success."
+  },
+  {
+    "type": "surah",
+    "id": 44,
+    "title": "Surah Ad-Dukhān (The Smoke (Ad-Dukhān))",
+    "arabic": "الدخان",
+    "subtitle": "Makkan · 59 Verses",
+    "snippet": "Punishment of denial",
+    "keywords": "44 Ad-Dukhān Ad-Dukhan الدخان The Smoke (Ad-Dukhān) Makkan Punishment of denial The divine authority of the Qur'an, the warning of a coming \"Smoke\" as a punishment, the vanity of worldly power (Pharaoh), and the finality of the Day of Judgment."
+  },
+  {
+    "type": "surah",
+    "id": 45,
+    "title": "Surah Al-Jāthiyah (The Kneeling (Al-Jathiyah))",
+    "arabic": "الجاثية",
+    "subtitle": "Makkan · 37 Verses",
+    "snippet": "Accountability",
+    "keywords": "45 Al-Jāthiyah Al-Jathiyah الجاثية The Kneeling (Al-Jathiyah) Makkan Accountability The presentation of clear signs in the universe, the psychology of arrogance, and the absolute submission of all humanity on the Day of Judgment."
+  },
+  {
+    "type": "surah",
+    "id": 46,
+    "title": "Surah Al-Aḥqāf (The Sand Dunes (Al-Ahqaf))",
+    "arabic": "الأحقاف",
+    "subtitle": "Makkan · 35 Verses",
+    "snippet": "Lessons from destroyed nations",
+    "keywords": "46 Al-Aḥqāf Al-Ahqaf الأحقاف The Sand Dunes (Al-Ahqaf) Makkan Lessons from destroyed nations The certainty of the Hereafter, the duty toward parents, the consequences of arrogance (the story of 'Ad), and the extension of the Message to the world of the Jinn."
+  },
+  {
+    "type": "surah",
+    "id": 47,
+    "title": "Surah Muḥammad (Muhammad (referring to the Prophet, pbuh) / Also known as Al-Qital (The Fighting).)",
+    "arabic": "محمد",
+    "subtitle": "Madinan · 38 Verses",
+    "snippet": "Obedience to the Prophet (pbuh)",
+    "keywords": "47 Muḥammad Muhammad محمد Muhammad (referring to the Prophet, pbuh) / Also known as Al-Qital (The Fighting). Madinan Obedience to the Prophet (pbuh) The nullification of the deeds of disbelievers versus the purification of believers, the characteristics of hypocrites, and the requirements for spiritual and physical victory."
+  },
+  {
+    "type": "surah",
+    "id": 48,
+    "title": "Surah Al-Fatḥ (The Victory (Al-Fath))",
+    "arabic": "الفتح",
+    "subtitle": "Madinan · 29 Verses",
+    "snippet": "Victory through patience",
+    "keywords": "48 Al-Fatḥ Al-Fath الفتح The Victory (Al-Fath) Madinan Victory through patience The divine definition of victory, the loyalty of the companions, and the fulfillment of the Prophet's vision."
+  },
+  {
+    "type": "surah",
+    "id": 49,
+    "title": "Surah Al-Ḥujurāt (The Private Chambers (Al-Hujurat))",
+    "arabic": "الحجرات",
+    "subtitle": "Madinan · 18 Verses",
+    "snippet": "Manners and brotherhood",
+    "keywords": "49 Al-Ḥujurāt Al-Hujurat الحجرات The Private Chambers (Al-Hujurat) Madinan Manners and brotherhood The internal organization of the Muslim community, manners toward the Prophet (pbuh), and the moral principles that prevent social decay."
+  },
+  {
+    "type": "surah",
+    "id": 50,
+    "title": "Surah Qāf (Qaf (One of the Muqatta'at or disjoined letters).)",
+    "arabic": "ق",
+    "subtitle": "Makkan · 45 Verses",
+    "snippet": "Resurrection",
+    "keywords": "50 Qāf Qaf ق Qaf (One of the Muqatta'at or disjoined letters). Makkan Resurrection The certainty of the Resurrection, the \"Stupor of Death\" (Sakratul Mawt), and the infinite knowledge Allah has of the human heart."
+  },
+  {
+    "type": "surah",
+    "id": 51,
+    "title": "Surah Adh-Dhāriyāt (The Scattering Winds (Adh-Dhariyat))",
+    "arabic": "الذاريات",
+    "subtitle": "Makkan · 60 Verses",
+    "snippet": "Purpose of creation",
+    "keywords": "51 Adh-Dhāriyāt Adh-Dhariyat الذاريات The Scattering Winds (Adh-Dhariyat) Makkan Purpose of creation The certainty of Divine promise, the ultimate source of human sustenance (Rizq), the purpose of creation, and historical accounts of past nations as a warning."
+  },
+  {
+    "type": "surah",
+    "id": 52,
+    "title": "Surah Aṭ-Ṭūr (The Mount (At-Tur, specifically referring to Mount Sinai))",
+    "arabic": "الطور",
+    "subtitle": "Makkan · 49 Verses",
+    "snippet": "Certainty of judgment",
+    "keywords": "52 Aṭ-Ṭūr At-Tur الطور The Mount (At-Tur, specifically referring to Mount Sinai) Makkan Certainty of judgment The inevitability of the Day of Judgment, the verification of divine revelation, the reunification of righteous families in Paradise, and the refutation of polytheistic doubts."
+  },
+  {
+    "type": "surah",
+    "id": 53,
+    "title": "Surah An-Najm (The Star (An-Najm))",
+    "arabic": "النجم",
+    "subtitle": "Makkan · 62 Verses",
+    "snippet": "Truth of revelation",
+    "keywords": "53 An-Najm An-Najm النجم The Star (An-Najm) Makkan Truth of revelation The absolute validity of divine revelation, the description of the Prophet's heavenly ascension (Mi'raj), the refutation of polytheistic idolatry, the law of individual spiritual effort, and the finality of the return to Allah."
+  },
+  {
+    "type": "surah",
+    "id": 54,
+    "title": "Surah Al-Qamar (The Moon (Al-Qamar))",
+    "arabic": "القمر",
+    "subtitle": "Makkan · 55 Verses",
+    "snippet": "Warnings ignored",
+    "keywords": "54 Al-Qamar Al-Qamar القمر The Moon (Al-Qamar) Makkan Warnings ignored The physical miracle of the splitting of the moon, the stubborn denial of signs by the Quraish, the recurring cycles of destruction of past nations who rejected their messengers, and the divine ease of the Qur'an."
+  },
+  {
+    "type": "surah",
+    "id": 55,
+    "title": "Surah Ar-Raḥmān (The Most Merciful (Ar-Rahman))",
+    "arabic": "الرحمن",
+    "subtitle": "Makkan · 78 Verses",
+    "snippet": "Allah's countless favors",
+    "keywords": "55 Ar-Raḥmān Ar-Rahman الرحمن The Most Merciful (Ar-Rahman) Makkan Allah's countless favors A magnificent, rhythmic enumeration of Allah's cosmic and spiritual blessings, addressed simultaneously to both humans and Jinn, serving as an emotional and logical argument for gratitude, accountability, and the reality of the Hereafter."
+  },
+  {
+    "type": "surah",
+    "id": 56,
+    "title": "Surah Al-Wāqi'ah (The Inevitable or The Event (Al-Waqi'ah))",
+    "arabic": "الواقعة",
+    "subtitle": "Makkan · 96 Verses",
+    "snippet": "Categories of the Hereafter",
+    "keywords": "56 Al-Wāqi'ah Al-Waqi'ah الواقعة The Inevitable or The Event (Al-Waqi'ah) Makkan Categories of the Hereafter The absolute certainty of the Day of Judgment, the division of humanity into three distinct groups based on spiritual rank, the ecological signs of a Creator, and the reality of death."
+  },
+  {
+    "type": "surah",
+    "id": 57,
+    "title": "Surah Al-Ḥadīd (The Iron (Al-Hadid))",
+    "arabic": "الحديد",
+    "subtitle": "Madinan · 29 Verses",
+    "snippet": "Balance of faith and action",
+    "keywords": "57 Al-Ḥadīd Al-Hadid الحديد The Iron (Al-Hadid) Madinan Balance of faith and action The absolute sovereignty of Allah, the mandate to spend in the way of God, the contrast between the spiritual light of believers and the darkness of hypocrites, the balance between spiritual devotion and physical strength, and the warning against the hardening of hearts."
+  },
+  {
+    "type": "surah",
+    "id": 58,
+    "title": "Surah Al-Mujādilah (She Who Pleads, The Pleading Woman, or The Disputer (derived from the word Al-Mujadilah in the very first verse).)",
+    "arabic": "المجادلة",
+    "subtitle": "Madinan · 22 Verses",
+    "snippet": "Allah hears all",
+    "keywords": "58 Al-Mujādilah Al-Mujadilah المجادلة She Who Pleads, The Pleading Woman, or The Disputer (derived from the word Al-Mujadilah in the very first verse). Madinan Allah hears all Allah's all-hearing nature, the eradication of oppressive pre-Islamic social customs, domestic justice for women, the ethics of public and private assemblies, and the distinction between the \"Party of Allah\" (Hizb Allah) and the \"Party of Satan\" (Hizb ash-Shaitan)."
+  },
+  {
+    "type": "surah",
+    "id": 59,
+    "title": "Surah Al-Ḥashr (The Gathering, The Exile, or The Banishment (derived from the word Al-Hashr in the second verse).)",
+    "arabic": "الحشر",
+    "subtitle": "Madinan · 24 Verses",
+    "snippet": "Lessons from exile",
+    "keywords": "59 Al-Ḥashr Al-Hashr الحشر The Gathering, The Exile, or The Banishment (derived from the word Al-Hashr in the second verse). Madinan Lessons from exile Allah's absolute sovereignty, the consequence of treachery and treaty-breaking, the spiritual qualities of the true companions (Muhajirun and Ansar), the psychological exposing of the hypocrites, the weight of the Quran, and the majestic attributes of God."
+  },
+  {
+    "type": "surah",
+    "id": 60,
+    "title": "Surah Al-Mumtaḥanah (She Who Is Examined or The Woman Tested (Al-Mumtahanah))",
+    "arabic": "الممتحنة",
+    "subtitle": "Madinan · 13 Verses",
+    "snippet": "Loyalty and fairness",
+    "keywords": "60 Al-Mumtaḥanah Al-Mumtahanah الممتحنة She Who Is Examined or The Woman Tested (Al-Mumtahanah) Madinan Loyalty and fairness The ultimate parameters of loyalty and disavowal (Al-Wala' wal-Bara'), separating faith from tribal ties, the legal status of migrating believing women, and establishing just, ethical principles for relations with non-Muslims."
+  },
+  {
+    "type": "surah",
+    "id": 61,
+    "title": "Surah Aṣ-Ṣaff (The Ranks or The Battle Array (As-Saff))",
+    "arabic": "الصف",
+    "subtitle": "Madinan · 14 Verses",
+    "snippet": "Sincerity in struggle",
+    "keywords": "61 Aṣ-Ṣaff As-Saff الصف The Ranks or The Battle Array (As-Saff) Madinan Sincerity in struggle The absolute requirement for congruence between words and actions, building a disciplined community that stands together like a solid wall, the historical continuity of the message through Moses and Jesus, and the ultimate triumph of Divine Light over opposition."
+  },
+  {
+    "type": "surah",
+    "id": 62,
+    "title": "Surah Al-Jumu'ah (The Friday Congregational Prayer (Al-Jumu'ah))",
+    "arabic": "الجمعة",
+    "subtitle": "Madinan · 11 Verses",
+    "snippet": "Importance of prayer",
+    "keywords": "62 Al-Jumu'ah Al-Jumu'ah الجمعة The Friday Congregational Prayer (Al-Jumu'ah) Madinan Importance of prayer The divine gift of ultimate guidance through the unlettered Prophet, a stern warning against possessing holy knowledge without practicing it, the reality of death, and the absolute priority of public worship over commercial distractions."
+  },
+  {
+    "type": "surah",
+    "id": 63,
+    "title": "Surah Al-Munāfiqūn (The Hypocrites (Al-Munafiqun))",
+    "arabic": "المنافقون",
+    "subtitle": "Madinan · 11 Verses",
+    "snippet": "Hypocrisy exposed",
+    "keywords": "63 Al-Munāfiqūn Al-Munafiqun المنافقون The Hypocrites (Al-Munafiqun) Madinan Hypocrisy exposed Exposing the psychological traits, hidden agendas, and double-dealing of the hypocrites; vindicating the truthfulness of sincere believers; and warning Muslims against allowing wealth and children to distract them from the remembrance of God."
+  },
+  {
+    "type": "surah",
+    "id": 64,
+    "title": "Surah At-Taghābun (The Mutual Loss and Gain or Mutual Disillusionment (At-Taghabun))",
+    "arabic": "التغابن",
+    "subtitle": "Madinan · 18 Verses",
+    "snippet": "True loss and gain",
+    "keywords": "64 At-Taghābun At-Taghabun التغابن The Mutual Loss and Gain or Mutual Disillusionment (At-Taghabun) Madinan True loss and gain The ultimate reality of the Day of Judgment as a day of sorting winners and losers, understanding divine decree during personal loss, and navigating the spiritual trials presented by family wealth and marital ties."
+  },
+  {
+    "type": "surah",
+    "id": 65,
+    "title": "Surah Aṭ-Ṭalāq (The Divorce (At-Talaq))",
+    "arabic": "الطلاق",
+    "subtitle": "Madinan · 12 Verses",
+    "snippet": "Trust Allah in hardship",
+    "keywords": "65 Aṭ-Ṭalāq At-Talaq الطلاق The Divorce (At-Talaq) Madinan Trust Allah in hardship Codifying the social and legal framework for divorce, protecting the dignity and rights of women, maintaining God-consciousness (Taqwa) during emotional conflict, and emphasizing divine provision for those who act with justice."
+  },
+  {
+    "type": "surah",
+    "id": 66,
+    "title": "Surah At-Taḥrīm (The Prohibition (At-Tahrim))",
+    "arabic": "التحريم",
+    "subtitle": "Madinan · 12 Verses",
+    "snippet": "Personal responsibility",
+    "keywords": "66 At-Taḥrīm At-Tahrim التحريم The Prohibition (At-Tahrim) Madinan Personal responsibility Defining the boundaries of halal and haram, maintaining domestic integrity without compromising divine law, individual responsibility regardless of family lineage, and contrasting exemplary believing women with rebellious wives of past prophets."
+  },
+  {
+    "type": "surah",
+    "id": 67,
+    "title": "Surah Al-Mulk (The Dominion or The Kingdom (Al-Mulk))",
+    "arabic": "الملك",
+    "subtitle": "Makkan · 30 Verses",
+    "snippet": "Allah's control",
+    "keywords": "67 Al-Mulk Al-Mulk الملك The Dominion or The Kingdom (Al-Mulk) Makkan Allah's control The absolute sovereignty and control of Allah over the universe, the purposeful design of life and death as a test, the cosmic evidence of flawless divine creation, and the intercession/protection offered by this Surah in the grave."
+  },
+  {
+    "type": "surah",
+    "id": 68,
+    "title": "Surah Al-Qalam (The Pen (Al-Qalam) or Nun wal-Qalam)",
+    "arabic": "القلم",
+    "subtitle": "Makkan · 52 Verses",
+    "snippet": "Character and arrogance",
+    "keywords": "68 Al-Qalam Al-Qalam القلم The Pen (Al-Qalam) or Nun wal-Qalam Makkan Character and arrogance Vindication of the Prophet's character and sanity, the sacred power of divine knowledge, warnings against arrogant opponents of truth, the parable of the ruined garden (the danger of greed), and the call for steadfast patience through the story of Prophet Yunus (as)."
+  },
+  {
+    "type": "surah",
+    "id": 69,
+    "title": "Surah Al-Ḥāqqah (The Inevitable Reality or The Sure Truth (Al-Haqqah))",
+    "arabic": "الحاقة",
+    "subtitle": "Makkan · 52 Verses",
+    "snippet": "Inevitable judgment",
+    "keywords": "69 Al-Ḥāqqah Al-Haqqah الحاقة The Inevitable Reality or The Sure Truth (Al-Haqqah) Makkan Inevitable judgment The absolute certainty of Resurrection and Judgment Day (Al-Haqqah), the historical destruction of rebellious nations who denied accountability, the precise events of Judgment Day (the Trumpet, the Eight Angels, the distribution of Books), and the divine vindication of Prophet Muhammad (pbuh) and the Qur'an against slander."
+  },
+  {
+    "type": "surah",
+    "id": 70,
+    "title": "Surah Al-Ma'ārij (The Ways of Ascent or The Ascending Stairways (Al-Ma'arij))",
+    "arabic": "المعارج",
+    "subtitle": "Makkan · 44 Verses",
+    "snippet": "Patience and prayer",
+    "keywords": "70 Al-Ma'ārij Al-Ma'arij المعارج The Ways of Ascent or The Ascending Stairways (Al-Ma'arij) Makkan Patience and prayer The absolute reality and inevitability of Divine Punishment, the cosmic scale of Resurrection Day, the psychological terror of sinners on Judgment Day, the inherent human weakness (Halū'a), and the character attributes of the honored believers (Al-Musallin)."
+  },
+  {
+    "type": "surah",
+    "id": 71,
+    "title": "Surah Nūḥ (Noah (Nuh))",
+    "arabic": "نوح",
+    "subtitle": "Makkan · 28 Verses",
+    "snippet": "Persistence in da'wah",
+    "keywords": "71 Nūḥ Nuh نوح Noah (Nuh) Makkan Persistence in da'wah The comprehensive methodology of persistent preaching (Da'wah), the rejection of truth caused by elite arrogance, cosmic signs as proof of Divine Sovereignty, the historical origin of idol worship, and the ultimate destruction of unyielding oppressors through Divine Judgment."
+  },
+  {
+    "type": "surah",
+    "id": 72,
+    "title": "Surah Al-Jinn (The Jinn (Unseen Beings))",
+    "arabic": "الجن",
+    "subtitle": "Makkan · 28 Verses",
+    "snippet": "The unseen world believes",
+    "keywords": "72 Al-Jinn Al-Jinn الجن The Jinn (Unseen Beings) Makkan The unseen world believes The reality and unseen realm of the Jinn, their immediate acceptance of the Qur'an upon hearing it, the absolute rejection of polytheism and unseen intermediaries, the nature of cosmic protection surrounding divine revelation, and the absolute limits of created beings regarding knowledge of the Unseen (Ghayb)."
+  },
+  {
+    "type": "surah",
+    "id": 73,
+    "title": "Surah Al-Muzzammil (The Enfolded One or The Wrapped One in Garments)",
+    "arabic": "المزمل",
+    "subtitle": "Makkan · 20 Verses",
+    "snippet": "Spiritual strength",
+    "keywords": "73 Al-Muzzammil Al-Muzzammil المزمل The Enfolded One or The Wrapped One in Garments Makkan Spiritual strength Spiritual preparation for the heavy burden of Prophethood through night prayer (Tahajjud) and measured recitation of the Qur'an (Tarteel), patient endurance (Sabr) against hostile mockery, divine warning to wealthy oppressors through the historical example of Pharaoh, and Allah's compassionate easing of worship requirements according to human capacity."
+  },
+  {
+    "type": "surah",
+    "id": 74,
+    "title": "Surah Al-Muddaththir (The Cloaked One or The One Wrapped in a Cloak)",
+    "arabic": "المدثر",
+    "subtitle": "Makkan · 56 Verses",
+    "snippet": "Warning mankind",
+    "keywords": "74 Al-Muddaththir Al-Muddaththir المدثر The Cloaked One or The One Wrapped in a Cloak Makkan Warning mankind The transition from personal spiritual preparation to the active public duty of Prophethood. It features the command to arise and warn the people, guidelines for physical and spiritual purity, a severe warning to arrogant oppressors (specifically through the story of Al-Walid ibn al-Mughirah), vivid descriptions of Hellfire (Saqar), and the reasons why people end up there."
+  },
+  {
+    "type": "surah",
+    "id": 75,
+    "title": "Surah Al-Qiyāmah (The Resurrection)",
+    "arabic": "القيامة",
+    "subtitle": "Makkan · 40 Verses",
+    "snippet": "Resurrection",
+    "keywords": "75 Al-Qiyāmah Al-Qiyamah القيامة The Resurrection Makkan Resurrection The absolute certainty that the Day of Judgment will happen, how Allah will perfectly rebuild the human body, the psychology of human guilt, the inescapable reality of death, and Allah's special promise to protect the Quran in the Prophet's heart."
+  },
+  {
+    "type": "surah",
+    "id": 76,
+    "title": "Surah Al-Insān (The Human (It is also frequently called Surah Ad-Dahr, meaning Time).)",
+    "arabic": "الإنسان",
+    "subtitle": "Madinan · 31 Verses",
+    "snippet": "Gratitude and reward",
+    "keywords": "76 Al-Insān Al-Insan الإنسان The Human (It is also frequently called Surah Ad-Dahr, meaning Time). Madinan Gratitude and reward The Surah takes us on a journey from human non-existence to our creation, highlighting our ultimate gift of free will. It then paints one of the most beautiful, breathtakingly detailed pictures of Paradise (Jannah) in the entire Quran, specifically focusing on the incredible rewards waiting for those who are selfless, charitable, and expect nothing in return."
+  },
+  {
+    "type": "surah",
+    "id": 77,
+    "title": "Surah Al-Mursalāt (The Emissaries, Those Sent Forth, or The Winds)",
+    "arabic": "المرسلات",
+    "subtitle": "Makkan · 50 Verses",
+    "snippet": "Day of decision",
+    "keywords": "77 Al-Mursalāt Al-Mursalat المرسلات The Emissaries, Those Sent Forth, or The Winds Makkan Day of decision This Surah serves as a massive wake-up call. It uses the invisible forces of nature, human biology, and the physical earth to prove God's ultimate power. Its most famous feature is a repeating, chilling warning that acts like a cosmic alarm bell: \"Woe, that Day, to the deniers."
+  },
+  {
+    "type": "surah",
+    "id": 78,
+    "title": "Surah An-Naba (The Great News or The Announcement)",
+    "arabic": "النبأ",
+    "subtitle": "Makkan · 40 Verses",
+    "snippet": "Great news: Hereafter",
+    "keywords": "78 An-Naba An-Naba النبأ The Great News or The Announcement Makkan Great news: Hereafter The Surah acts as a massive cosmic wake-up call. It directly addresses the skeptical rumors of the Makkan people, proves Allah's power by pointing to the incredible design of the natural world, and describes the stark contrast between the terrifying \"ambush\" of Hell and the ultimate peace of Paradise."
+  },
+  {
+    "type": "surah",
+    "id": 79,
+    "title": "Surah An-Nāzi'āt (Those Who Pull Out or The Extractors (Referring to the angels of death).)",
+    "arabic": "النازعات",
+    "subtitle": "Makkan · 46 Verses",
+    "snippet": "Resurrection",
+    "keywords": "79 An-Nāzi'āt An-Nazi'at النازعات Those Who Pull Out or The Extractors (Referring to the angels of death). Makkan Resurrection The Surah establishes the terrifying reality of death and the Day of Judgment. It uses the story of Pharaoh to warn arrogant leaders that power cannot save them from God, contrasts the massive creation of the universe with the tiny size of human beings, and beautifully illustrates how incredibly short our worldly life will feel when we finally open our eyes in the Hereafter."
+  },
+  {
+    "type": "surah",
+    "id": 80,
+    "title": "Surah Abasa (He Frowned)",
+    "arabic": "عبس",
+    "subtitle": "Makkan · 42 Verses",
+    "snippet": "Humility",
+    "keywords": "80 Abasa Abasa عبس He Frowned Makkan Humility True human value is based on a sincere heart, not wealth or social status. The Surah corrects human priorities, reminds us of our humble biological origins to crush our arrogance, and paints a terrifying picture of the Day of Judgment where everyone will be entirely on their own."
+  },
+  {
+    "type": "surah",
+    "id": 81,
+    "title": "Surah At-Takwīr (The Folding Up, The Wrapping, or The Overthrowing)",
+    "arabic": "التكوير",
+    "subtitle": "Makkan · 29 Verses",
+    "snippet": "End of the world",
+    "keywords": "81 At-Takwīr At-Takwir التكوير The Folding Up, The Wrapping, or The Overthrowing Makkan End of the world The Surah acts as a terrifying, fast-paced cinematic trailer for the end of the world. It vividly describes the collapse of the universe, highlights God's absolute justice by giving a voice to the most helpless victims of society (the buried infant girls), and fiercely defends the Prophet Muhammad's (pbuh) sanity and the angelic source of the Quran."
+  },
+  {
+    "type": "surah",
+    "id": 82,
+    "title": "Surah Al-Infiṭār (The Cleaving, The Splitting Asunder, or The Bursting Apart)",
+    "arabic": "الانفطار",
+    "subtitle": "Makkan · 19 Verses",
+    "snippet": "Accountability",
+    "keywords": "82 Al-Infiṭār Al-Infitar الانفطار The Cleaving, The Splitting Asunder, or The Bursting Apart Makkan Accountability The Surah vividly describes the dramatic collapse of the universe to prove the certainty of the Day of Judgment. It then shifts to a deeply emotional, rhetorical question about human ingratitude toward a Generous Creator, highlights the constant presence of angels recording our deeds, and clearly defines the two ultimate destinies for humanity."
+  },
+  {
+    "type": "surah",
+    "id": 83,
+    "title": "Surah Al-Muṭaffifīn (The Defrauders, The Cheats, or Those Who Deal in Fraud)",
+    "arabic": "المطففين",
+    "subtitle": "Early · 36 Verses",
+    "snippet": "Honesty",
+    "keywords": "83 Al-Muṭaffifīn Al-Mutaffifin المطففين The Defrauders, The Cheats, or Those Who Deal in Fraud Early Honesty The Surah is a powerful warning against unethical business practices and double standards. It contrasts the detailed, inescapable records of the wicked (Sijjeen) with the exalted records of the righteous (Illiyyun), and vividly describes how the social mockery faced by believers in this world will be completely reversed in the Hereafter."
+  },
+  {
+    "type": "surah",
+    "id": 84,
+    "title": "Surah Al-Inshiqāq (The Splitting Open, The Bursting Asunder, or The Rending)",
+    "arabic": "الانشقاق",
+    "subtitle": "Makkan · 25 Verses",
+    "snippet": "Meeting Allah",
+    "keywords": "84 Al-Inshiqāq Al-Inshiqaq الانشقاق The Splitting Open, The Bursting Asunder, or The Rending Makkan Meeting Allah The Surah contrasts the absolute obedience of the physical universe with the arrogance of human beings. It emphasizes that life is a continuous, hard journey toward an inevitable meeting with God, describes the two very different ways people will receive their final records, and uses the constant changes in nature to prove that humans will also transition from death to resurrection."
+  },
+  {
+    "type": "surah",
+    "id": 85,
+    "title": "Surah Al-Burūj (The Constellations, The Great Stars, or The Mansions of the Stars)",
+    "arabic": "البروج",
+    "subtitle": "Makkan · 22 Verses",
+    "snippet": "Faith under persecution",
+    "keywords": "85 Al-Burūj Al-Buruj البروج The Constellations, The Great Stars, or The Mansions of the Stars Makkan Faith under persecution The Surah is a powerful message about ultimate victory. It tells a famous historical story to prove that true success isn't about surviving in this world; it's about holding onto your faith. It highlights the severe justice of God against violent oppressors, the incredible depth of God's mercy if they repent, and the absolute invincibility of the Quran."
+  },
+  {
+    "type": "surah",
+    "id": 86,
+    "title": "Surah Aṭ-Ṭāriq (The Nightcomer, The Piercing Star, or That Which Comes in the Night)",
+    "arabic": "الطارق",
+    "subtitle": "Makkan · 17 Verses",
+    "snippet": "Allah's watchfulness",
+    "keywords": "86 Aṭ-Ṭāriq At-Tariq الطارق The Nightcomer, The Piercing Star, or That Which Comes in the Night Makkan Allah's watchfulness The Surah acts as a sharp, undeniable wake-up call. It establishes that every human being is constantly monitored by a guardian angel. It uses our humble biological origins to prove that resurrection is easy for God, warns that all hidden secrets will be exposed, and reassures the Prophet (pbuh) that God's ultimate plan will completely crush the plots of his enemies."
+  },
+  {
+    "type": "surah",
+    "id": 87,
+    "title": "Surah Al-A'lā (The Most High)",
+    "arabic": "الأعلى",
+    "subtitle": "Makkan · 19 Verses",
+    "snippet": "Glorifying Allah",
+    "keywords": "87 Al-A'lā Al-A'la الأعلى The Most High Makkan Glorifying Allah The Surah is a beautiful glorification of Allah's perfect creation and guidance. It features a deeply comforting promise to the Prophet Muhammad (pbuh) that Allah Himself will protect the Quran in his memory, warns humanity about the ultimate distraction of worldly life, and proves that this core message is the same truth preached by the most ancient prophets."
+  },
+  {
+    "type": "surah",
+    "id": 88,
+    "title": "Surah Al-Ghāshiyah (The Overwhelming, The Covering, or The Overwhelming Event)",
+    "arabic": "الغاشية",
+    "subtitle": "Makkan · 26 Verses",
+    "snippet": "Hereafter scenes",
+    "keywords": "88 Al-Ghāshiyah Al-Ghashiyah الغاشية The Overwhelming, The Covering, or The Overwhelming Event Makkan Hereafter scenes The Surah draws a sharp, deeply visual contrast between the exhausted, humiliated faces in Hell and the radiant, joyful faces in Paradise. It then uses the brilliant biological design of the camel and the natural world to prove God's existence, before ending with a powerful, comforting reminder to the Prophet about what his actual job is."
+  },
+  {
+    "type": "surah",
+    "id": 89,
+    "title": "Surah Al-Fajr (The Dawn or The Daybreak)",
+    "arabic": "الفجر",
+    "subtitle": "Makkan · 30 Verses",
+    "snippet": "End of tyrants",
+    "keywords": "89 Al-Fajr Al-Fajr الفجر The Dawn or The Daybreak Makkan End of tyrants The Surah redefines what true success and failure look like. It warns arrogant, wealthy people by showing how God easily destroyed the most powerful ancient empires. It explains that both wealth and poverty are simply tests, highlights the terrible regret of the Day of Judgment, and ends with a beautiful, peaceful promise to the righteous soul."
+  },
+  {
+    "type": "surah",
+    "id": 90,
+    "title": "Surah Al-Balad (The City)",
+    "arabic": "البلد",
+    "subtitle": "Makkan · 20 Verses",
+    "snippet": "Moral struggle",
+    "keywords": "90 Al-Balad Al-Balad البلد The City Makkan Moral struggle The Surah establishes that human life is fundamentally built on struggle and hardship. It confronts the arrogance of the wealthy elite who waste money on their own egos, and it redefines true freedom and success as tackling the \"steep path\" - which means taking active responsibility to care for the vulnerable, the orphans, and the poor."
+  },
+  {
+    "type": "surah",
+    "id": 91,
+    "title": "Surah Ash-Shams (The Sun)",
+    "arabic": "الشمس",
+    "subtitle": "Makkan · 15 Verses",
+    "snippet": "Purifying the soul",
+    "keywords": "91 Ash-Shams Ash-Shams الشمس The Sun Makkan Purifying the soul The Surah establishes the absolute formula for human success and failure: true success comes only from purifying the soul, while ultimate failure comes from corrupting it. It proves this by taking us on a massive cosmic journey of oaths, grounding us with the internal reality of human free will, and illustrating the terrifying historical consequence of collective arrogance through the story of the people of Thamud."
+  },
+  {
+    "type": "surah",
+    "id": 92,
+    "title": "Surah Al-Layl (The Night)",
+    "arabic": "الليل",
+    "subtitle": "Makkan · 21 Verses",
+    "snippet": "Paths of good & evil",
+    "keywords": "92 Al-Layl Al-Layl الليل The Night Makkan Paths of good & evil The Surah is built entirely on the concept of opposites. It contrasts the night and the day, male and female, and most importantly, the two completely opposite paths a human being can take in life: the path of extreme, selfless generosity versus the path of arrogant, selfish greed. It guarantees that Allah will make the chosen path easy for whoever chooses it."
+  },
+  {
+    "type": "surah",
+    "id": 93,
+    "title": "Surah Ad-Ḍuḥā (The Morning Hours, The Forenoon, or The Morning Brightness)",
+    "arabic": "الضحى",
+    "subtitle": "Makkan · 11 Verses",
+    "snippet": "Allah never abandons",
+    "keywords": "93 Ad-Ḍuḥā Ad-Duha الضحى The Morning Hours, The Forenoon, or The Morning Brightness Makkan Allah never abandons This is widely considered the most comforting, emotionally reassuring Surah in the entire Quran. It serves as a divine \"verbal hug\" for the Prophet Muhammad (pbuh) when he was experiencing severe sadness and self-doubt. It teaches us how to overcome feelings of abandonment, use past blessings to build future trust, and turn our gratitude into actionable kindness."
+  },
+  {
+    "type": "surah",
+    "id": 94,
+    "title": "Surah Ash-Sharḥ (The Relief, The Expansion, or The Comfort (Also commonly known as Surah Al-Inshirah).)",
+    "arabic": "الشرح",
+    "subtitle": "Makkan · 8 Verses",
+    "snippet": "Relief after hardship",
+    "keywords": "94 Ash-Sharḥ Ash-Sharh الشرح The Relief, The Expansion, or The Comfort (Also commonly known as Surah Al-Inshirah). Makkan Relief after hardship This Surah acts as a \"sister chapter\" to Surah Ad-Duhaa. While Ad-Duhaa comforts the Prophet by reminding him of his past, Ash-Sharh comforts him by showing him exactly how Allah is actively healing him internally. It establishes the ultimate, comforting rule of life: that ease is always stitched together with hardship, and it teaches us to find our ultimate rest in God."
+  },
+  {
+    "type": "surah",
+    "id": 95,
+    "title": "Surah At-Tīn (The Fig)",
+    "arabic": "التين",
+    "subtitle": "Makkan · 8 Verses",
+    "snippet": "Human dignity",
+    "keywords": "95 At-Tīn At-Tin التين The Fig Makkan Human dignity This Surah is a profound reflection on human nature. It maps out the high potential and deep pitfalls of the human being. It establishes that God created us as His absolute masterpiece, but warns that if we strip away our faith and morals, we can degrade ourselves to the lowest possible level. It ends by securing the promise of God's perfect justice."
+  },
+  {
+    "type": "surah",
+    "id": 96,
+    "title": "Surah Al-'Alaq (The Clot, The Leech-like Clinging Substance, or The Embryo)",
+    "arabic": "العلق",
+    "subtitle": "Makkan · 19 Verses",
+    "snippet": "Beginning of revelation",
+    "keywords": "96 Al-'Alaq Al-'Alaq العلق The Clot, The Leech-like Clinging Substance, or The Embryo Makkan Beginning of revelation This Surah marks the explosive beginning of Islam, emphasizing that human knowledge and elevation come entirely from God. It contrasts the pure, humble pursuit of knowledge under God's guidance with the arrogant, destructive ignorance of those who think they are self-sufficient and try to block the truth."
+  },
+  {
+    "type": "surah",
+    "id": 97,
+    "title": "Surah Al-Qadr (The Power, The Decree, The Destiny, or The High Esteem)",
+    "arabic": "القدر",
+    "subtitle": "Makkan · 5 Verses",
+    "snippet": "Night of power",
+    "keywords": "97 Al-Qadr Al-Qadr القدر The Power, The Decree, The Destiny, or The High Esteem Makkan Night of power This Surah is entirely dedicated to the most important night in human history: Laylatul Qadr. It celebrates the revelation of the Quran, explains the mind-blowing spiritual mathematics of God's mercy, and describes the descent of the angels that brings absolute peace to the earth for one single night."
+  },
+  {
+    "type": "surah",
+    "id": 98,
+    "title": "Surah Al-Bayyinah (The Clear Proof, The Clear Evidence, or The Manifest Truth)",
+    "arabic": "البينة",
+    "subtitle": "Madinan · 8 Verses",
+    "snippet": "Clear proof",
+    "keywords": "98 Al-Bayyinah Al-Bayyinah البينة The Clear Proof, The Clear Evidence, or The Manifest Truth Madinan Clear proof The Surah establishes why sending the Prophet Muhammad (pbuh) was an absolute necessity for all of humanity. It explains that the core message of every true religion has always been exactly the same, but because people corrupted the older messages, they needed a final, \"Clear Proof\" (the Prophet and the Quran) to unite them back to the pure truth. It then sharply defines the ultimate consequences of accepting or rejecting this truth."
+  },
+  {
+    "type": "surah",
+    "id": 99,
+    "title": "Surah Az-Zalzalah (The Earthquake, The Shaking, or The Quake)",
+    "arabic": "الزلزلة",
+    "subtitle": "Disputed · 8 Verses",
+    "snippet": "Deeds revealed",
+    "keywords": "99 Az-Zalzalah Az-Zalzalah الزلزلة The Earthquake, The Shaking, or The Quake Disputed Deeds revealed The Surah is a short, terrifying, and deeply profound cosmic wake-up call. It establishes the absolute certainty of the Day of Judgment by describing the massive, violent shaking of the Earth. It introduces the terrifying concept of the Earth itself testifying against humanity, and ends with the ultimate microscopic scale of divine justice."
+  },
+  {
+    "type": "surah",
+    "id": 100,
+    "title": "Surah Al-'Ādiyāt (The Chargers, The Galloping Ones, or The Courser)",
+    "arabic": "العاديات",
+    "subtitle": "Disputed · 11 Verses",
+    "snippet": "Human ingratitude",
+    "keywords": "100 Al-'Ādiyāt Al-'Adiyat العاديات The Chargers, The Galloping Ones, or The Courser Disputed Human ingratitude The Surah acts as a cinematic, heart-pounding wake-up call. It uses the intense imagery of loyal, charging warhorses to draw a sharp, shameful contrast with human behavior. It diagnoses the root diseases of the human heart - ingratitude and an obsession with wealth - and warns that all hidden secrets will be violently exposed on the Day of Judgment."
+  },
+  {
+    "type": "surah",
+    "id": 101,
+    "title": "Surah Al-Qāri'ah (The Striking Calamity, The Clatterer, or The Sudden Calamity)",
+    "arabic": "القارعة",
+    "subtitle": "Makkan · 11 Verses",
+    "snippet": "Sudden judgment",
+    "keywords": "101 Al-Qāri'ah Al-Qari'ah القارعة The Striking Calamity, The Clatterer, or The Sudden Calamity Makkan Sudden judgment This Surah is a short, sharp, and terrifying alarm bell. It uses the physical sensation of a sudden, loud strike to describe the end of the world. It vividly illustrates the absolute chaos of that Day by describing humans as scattered moths and mountains as fluffy wool, before ending with the ultimate, microscopic reality of the scales of divine justice."
+  },
+  {
+    "type": "surah",
+    "id": 102,
+    "title": "Surah At-Takāthur (The Mutual Rivalry, Vying for Increase, or The Obsession with More)",
+    "arabic": "التكاثر",
+    "subtitle": "Makkan · 8 Verses",
+    "snippet": "Worldly rivalry",
+    "keywords": "102 At-Takāthur At-Takathur التكاثر The Mutual Rivalry, Vying for Increase, or The Obsession with More Makkan Worldly rivalry The Surah is a devastating psychological breakdown of the \"rat race.\" It diagnoses the human obsession with constantly wanting more (more money, more followers, more status) just to compete with others. It warns that this endless distraction will completely consume us until the day we die, and ends with a sobering reminder that we will be strictly audited for every single luxury we enjoyed in this world."
+  },
+  {
+    "type": "surah",
+    "id": 103,
+    "title": "Surah Al-'Aṣr (Time, The Declining Day, or The Epoch)",
+    "arabic": "العصر",
+    "subtitle": "Makkan · 3 Verses",
+    "snippet": "Formula of success",
+    "keywords": "103 Al-'Aṣr Al-'Asr العصر Time, The Declining Day, or The Epoch Makkan Formula of success This is one of the shortest Surahs in the entire Quran (only three verses), yet it is arguably the most comprehensive. It acts as a master thesis for human existence. It establishes the terrifying reality that every single human being is actively losing, and then provides the exact, four-step formula required to escape that loss and achieve ultimate success."
+  },
+  {
+    "type": "surah",
+    "id": 104,
+    "title": "Surah Al-Humazah (The Traducer, The Mocker, The Slanderer, or The Backbiter)",
+    "arabic": "الهمزة",
+    "subtitle": "Makkan · 9 Verses",
+    "snippet": "Gossip destroys",
+    "keywords": "104 Al-Humazah Al-Humazah الهمزة The Traducer, The Mocker, The Slanderer, or The Backbiter Makkan Gossip destroys The Surah is a devastating divine condemnation of two interconnected social diseases: toxic verbal abuse (slander, mockery, and backbiting) and the arrogant hoarding of wealth. It paints a terrifying picture of Al-Hutamah (The Crusher), a unique level of Hell perfectly designed to break the egos of those who used their wealth and words to break others."
+  },
+  {
+    "type": "surah",
+    "id": 105,
+    "title": "Surah Al-Fīl (The Elephant)",
+    "arabic": "الفيل",
+    "subtitle": "Makkan · 5 Verses",
+    "snippet": "Allah protects His house",
+    "keywords": "105 Al-Fīl Al-Fil الفيل The Elephant Makkan Allah protects His house This Surah is an epic, historical reminder that worldly power, military might, and advanced technology mean absolutely nothing against the will of God. It tells the famous story of how Allah protected His sacred House (the Kaaba) from an unstoppable army using the smallest, most unexpected weapons, completely humiliating the arrogant oppressors."
+  },
+  {
+    "type": "surah",
+    "id": 106,
+    "title": "Surah Quraysh (The Quraysh (The ruling tribe of Makkah, to which the Prophet Muhammad belonged).)",
+    "arabic": "قريش",
+    "subtitle": "Makkan · 4 Verses",
+    "snippet": "Gratitude for safety",
+    "keywords": "106 Quraysh Quraysh قريش The Quraysh (The ruling tribe of Makkah, to which the Prophet Muhammad belonged). Makkan Gratitude for safety The Surah is a masterful, logical argument about gratitude. It reminds the wealthy, arrogant elites of Makkah that their entire economic empire, their safe trade routes, and their political stability were not built by their own genius, but were a direct gift from the Lord of the Kaaba. Because He gave them safety and food, He alone deserves their exclusive worship."
+  },
+  {
+    "type": "surah",
+    "id": 107,
+    "title": "Surah Al-Mā'ūn (Small Kindnesses, Neighborly Needs, or Daily Assistance)",
+    "arabic": "الماعون",
+    "subtitle": "Disputed · 7 Verses",
+    "snippet": "True worship",
+    "keywords": "107 Al-Mā'ūn Al-Ma'un الماعون Small Kindnesses, Neighborly Needs, or Daily Assistance Disputed True worship This Surah is a masterclass in Islamic social justice. It completely shatters the idea that \"religion\" is just about praying or performing rituals. It argues a radical truth: your belief in God and the Day of Judgment is a complete illusion if it does not result in systemic compassion for the vulnerable, protecting orphans, feeding the poor, and being a kind, helpful neighbor."
+  },
+  {
+    "type": "surah",
+    "id": 108,
+    "title": "Surah Al-Kawthar (The Abundance, Plenty, or The River in Paradise)",
+    "arabic": "الكوثر",
+    "subtitle": "Makkan · 3 Verses",
+    "snippet": "Allah's gift",
+    "keywords": "108 Al-Kawthar Al-Kawthar الكوثر The Abundance, Plenty, or The River in Paradise Makkan Allah's gift This is the shortest Surah in the entire Quran (only three verses), but it carries one of the most powerful emotional messages. It is a divine, comforting \"hug\" to the Prophet Muhammad (pbuh) during the darkest moment of his life. It redefines what true legacy and success look like, transforming a moment of deep worldly loss into an eternal, infinite victory."
+  },
+  {
+    "type": "surah",
+    "id": 109,
+    "title": "Surah Al-Kāfirūn (The Disbelievers or Those Who Reject Faith)",
+    "arabic": "الكافرون",
+    "subtitle": "Makkan · 6 Verses",
+    "snippet": "Clear belief",
+    "keywords": "109 Al-Kāfirūn Al-Kafirun الكافرون The Disbelievers or Those Who Reject Faith Makkan Clear belief This Surah is the ultimate declaration of spiritual independence and the definitive rejection of Shirk (polytheism). It establishes an absolute, non-negotiable boundary between pure monotheism and idol worship, teaching believers how to maintain their principles with absolute clarity and conviction, without resorting to violence."
+  },
+  {
+    "type": "surah",
+    "id": 110,
+    "title": "Surah An-Naṣr (The Divine Help, The Support, or The Victory)",
+    "arabic": "النصر",
+    "subtitle": "Madinan · 3 Verses",
+    "snippet": "Victory & humility",
+    "keywords": "110 An-Naṣr An-Nasr النصر The Divine Help, The Support, or The Victory Madinan Victory & humility This Surah is the grand finale of the Prophet Muhammad's (pbuh) mission. It celebrates the ultimate victory of Islam and the bloodless conquest of Makkah, while providing a bittersweet, hidden prophecy that the Prophet's work on Earth was finally complete and his time to return to Allah was approaching."
+  },
+  {
+    "type": "surah",
+    "id": 111,
+    "title": "Surah Al-Masad (The Palm Fiber or The Twisted Rope (Also widely known as Surah Al-Lahab, meaning The Flame).)",
+    "arabic": "المسد",
+    "subtitle": "Makkan · 5 Verses",
+    "snippet": "End of arrogance",
+    "keywords": "111 Al-Masad Al-Masad المسد The Palm Fiber or The Twisted Rope (Also widely known as Surah Al-Lahab, meaning The Flame). Makkan End of arrogance This Surah is a fierce, uncompromising condemnation of the Prophet's own uncle, Abu Lahab, and his wife. It establishes a profound Islamic principle: blood relations, royal lineage, and massive wealth mean absolutely nothing to God if a person's heart is filled with arrogant hatred for the truth."
+  },
+  {
+    "type": "surah",
+    "id": 112,
+    "title": "Surah Al-Ikhlāṣ (The Purity, The Sincerity, or The Unity)",
+    "arabic": "الإخلاص",
+    "subtitle": "Makkan · 4 Verses",
+    "snippet": "Pure monotheism",
+    "keywords": "112 Al-Ikhlāṣ Al-Ikhlas الإخلاص The Purity, The Sincerity, or The Unity Makkan Pure monotheism This Surah is the absolute, uncompromising foundation of Islamic theology (Tawheed). It is a brief, densely packed declaration that strips away all human limitations, myths, and false concepts regarding the Creator, establishing the pure, unadulterated Oneness of Allah."
+  },
+  {
+    "type": "surah",
+    "id": 113,
+    "title": "Surah Al-Falaq (The Daybreak, The Dawn, or The Splitting)",
+    "arabic": "الفلق",
+    "subtitle": "Madinan · 5 Verses",
+    "snippet": "Protection from harm",
+    "keywords": "113 Al-Falaq Al-Falaq الفلق The Daybreak, The Dawn, or The Splitting Madinan Protection from harm This Surah is the ultimate shield against external evils. It teaches the believer to actively seek refuge in the Lord of the Dawn from the hidden, terrifying things in the outside world that we cannot control - including the darkness of the night, black magic, and the toxic, destructive power of human envy."
+  },
+  {
+    "type": "surah",
+    "id": 114,
+    "title": "Surah An-Nās (Mankind, The People, or The Men)",
+    "arabic": "الناس",
+    "subtitle": "Madinan · 6 Verses",
+    "snippet": "Protection from whispers",
+    "keywords": "114 An-Nās An-Nas الناس Mankind, The People, or The Men Madinan Protection from whispers While Surah Al-Falaq protects us from external physical and spiritual harms (the night, magic, and envious people), Surah An-Nas is the ultimate shield against the most dangerous internal enemy: the subtle, silent, and continuous whispering of Satan (the devil) that tries to corrupt our own hearts and minds."
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-01-prophet-adam-the-first-human-prophet",
+    "title": "Prophet Adam The First Human & Prophet",
+    "arabic": "آدم",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• Creation: Allah gathered clays of various colors and textures from all over the Earth to create Adam (hence humanity's varied skins and temperaments, as noted...",
+    "keywords": "Prophet Adam (آدم) - The First Human & Prophet Prophet Adam The First Human & Prophet آدم Al-Baqarah (2:30-39), Al-A'raf (7:11-25), Al-Hijr (15:26-44), Taha (20:115-123), Al-Isra (17:61-65). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-02-prophet-idris-enoch",
+    "title": "Prophet Idris Enoch",
+    "arabic": "إدريس",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• Idris lived during the generations between Adam and Nuh. Classical scholars of Tafsir (like Ibn Kathir) note he was the first human to write with a reed pen, ...",
+    "keywords": "Prophet Idris (إدريس) / Enoch Prophet Idris Enoch إدريس Maryam (19:56-57), Al-Anbiya (21:85-86). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-03-prophet-nuh-noah",
+    "title": "Prophet Nuh Noah",
+    "arabic": "نوح",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• Origin of Idolatry: For ten generations after Adam, humanity lived on Monotheism. Eventually, five pious men died (Wadd, Suwa', Yaghuth, Ya'uq, and Nasr). Sat...",
+    "keywords": "Prophet Nuh (نوح) / Noah Prophet Nuh Noah نوح Nuh (71:1-28), Hud (11:25-49), Al-Mu'minun (23:23-30), Ash-Shu'ara (26:105-122), Al-Ankabut (29:14-15). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-04-prophet-hud-the-people-of-ad",
+    "title": "Prophet Hud & The People of 'Ad",
+    "arabic": "هود",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• The Greatness of 'Ad: The people of 'Ad lived in Al-Ahqaf (sand dunes between Oman and Yemen). They were giants of physical stature and built towering monumen...",
+    "keywords": "Prophet Hud (هود) & The People of 'Ad Prophet Hud & The People of 'Ad هود Hud (11:50-60), Al-A'raf (7:65-72), Al-Ahqaf (46:21-26), Ash-Shu'ara (26:123-140), Al-Fajr (89:6-8). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-05-prophet-salih-the-people-of-thamud",
+    "title": "Prophet Salih & The People of Thamud",
+    "arabic": "صالح",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• The Rock Carvers: The people of Thamud succeeded 'Ad, inhabiting Al-Hijr (Mada'in Salih in Saudi Arabia). They carved luxury homes directly out of solid mount...",
+    "keywords": "Prophet Salih (صالح) & The People of Thamud Prophet Salih & The People of Thamud صالح Hud (11:61-68), Al-A'raf (7:73-79), Ash-Shu'ara (26:141-159), Al-Hijr (15:80-84), Ash-Shams (91:11-15). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-06-prophet-ibrahim-abraham-friend-of-allah-khalilullah",
+    "title": "Prophet Ibrahim Abraham Friend of Allah",
+    "arabic": "إبراهيم",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• Search for Truth & Confronting Azar: Ibrahim grew up in Babylon. His father Azar was a chief craftsman of idols. Ibrahim observed the stars, the moon, and the...",
+    "keywords": "Prophet Ibrahim (إبراهيم) / Abraham - Friend of Allah (Khalilullah) Prophet Ibrahim Abraham Friend of Allah إبراهيم Al-Baqarah (2:124-132, 258-260), Al-Anbiya (21:51-73), Ibrahim (14:35-41), As-Saffat (37:83-113), Al-An'am (6:74-83), Al-Mumtahanah (60:4). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-07-prophet-lut-lot",
+    "title": "Prophet Lut Lot",
+    "arabic": "لوط",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• The Sins of Sodom: Lut, the nephew of Ibrahim, was sent to the towns of Sodom and Gomorrah near the Dead Sea. The inhabitants committed unprecedented open sin...",
+    "keywords": "Prophet Lut (لوط) / Lot Prophet Lut Lot لوط Hud (11:69-83), Al-A'raf (7:80-84), Ash-Shu'ara (26:160-175), Al-Hijr (15:51-77), Al-Anbiya (21:74-75). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-08-prophet-ismail-ishmael",
+    "title": "Prophet Ismail Ishmael",
+    "arabic": "إسماعيل",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• Ismail was the eldest son of Ibrahim. His early life established core rituals of the Hajj pilgrimage: running between Safa and Marwah with his mother Hajar, t...",
+    "keywords": "Prophet Ismail (إسماعيل) / Ishmael Prophet Ismail Ishmael إسماعيل Al-Baqarah (2:125-129), Maryam (19:54-55), As-Saffat (37:101-107), Al-Anbiya (21:85-86). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-09-prophet-ishaq-isaac",
+    "title": "Prophet Ishaq Isaac",
+    "arabic": "إسحاق",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• Ishaq was Ibrahim's second son, born to his first wife, Sarah.\n• Angels visited Ibrahim on their way to destroy the people of Lut. They gave Sarah news of a s...",
+    "keywords": "Prophet Ishaq (إسحاق) / Isaac Prophet Ishaq Isaac إسحاق Al-Baqarah (2:133-136), Hud (11:69-73), As-Saffat (37:112-113), Adh-Dhariyat (51:24-30). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-10-prophet-ya-qub-jacob-israel",
+    "title": "Prophet Ya'qub Jacob",
+    "arabic": "يعقوب",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• Son of Ishaq, also designated in the Quran by the title Israel (meaning \"Servant of God\"). He had 12 sons, who formed the 12 Tribes of Israel.\n• Ya'qub loved ...",
+    "keywords": "Prophet Ya'qub (يعقوب) / Jacob (Israel) Prophet Ya'qub Jacob يعقوب Yusuf (12:4-101), Al-Baqarah (2:132-133), Ali 'Imran (3:93). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-11-prophet-yusuf-joseph",
+    "title": "Prophet Yusuf Joseph",
+    "arabic": "يوسف",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• The Dream and the Well: Young Yusuf dreamed that eleven stars, the sun, and the moon prostrated to him. Ya'qub advised him not to tell his brothers. Driven by...",
+    "keywords": "Prophet Yusuf (يوسف) / Joseph Prophet Yusuf Joseph يوسف Surah Yusuf (12:1-111) (Narrated sequentially as \"The Best of Stories\"). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-12-prophet-shu-ayb-the-people-of-madyan",
+    "title": "Prophet Shu'ayb & The People of Madyan",
+    "arabic": "شعيب",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• Economic Corruption: Shu'ayb was sent to Madyan and the dwellers of the wood (Ashab al-Aykah near the Red Sea). Besides worshiping a sacred tree, they were di...",
+    "keywords": "Prophet Shu'ayb (شعيب) & The People of Madyan Prophet Shu'ayb & The People of Madyan شعيب Al-A'raf (7:85-93), Hud (11:84-95), Ash-Shu'ara (26:176-191), Al-Ankabut (29:36-37). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-13-prophet-ayyub-job",
+    "title": "Prophet Ayyub Job",
+    "arabic": "أيوب",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• The Great Trial: Ayyub was a wealthy prophet blessed with large herds of livestock, fertile lands, many children, and excellent health. Allah tested him by re...",
+    "keywords": "Prophet Ayyub (أيوب) / Job Prophet Ayyub Job أيوب Al-Anbiya (21:83-84), Sad (38:41-44). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-14-prophet-dhul-kifl-ezekiel-or-isaiah",
+    "title": "Prophet Dhul Kifl Ezekiel or Isaiah",
+    "arabic": "ذو الكفل",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• The name Dhul-Kifl means \"The One of the Pledge\" or \"He who fulfilled his covenant.\" Classical commentators note he was a prophet who took up a leadership ple...",
+    "keywords": "Prophet Dhul-Kifl (ذو الكفل) / Ezekiel or Isaiah Prophet Dhul Kifl Ezekiel or Isaiah ذو الكفل Al-Anbiya (21:85-86), Sad (38:48). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-15-prophet-musa-prophet-harun",
+    "title": "Prophet Musa & Prophet Harun",
+    "arabic": "موسى",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• Infancy & The Palace: Pharaoh (Fir'awn) was warned by astrologers that an Israelite boy would bring down his empire. He ordered all newborn Israelite boys kil...",
+    "keywords": "Prophet Musa (موسى) & Prophet Harun (هارون) Prophet Musa & Prophet Harun موسى Appears in over 30 Surahs including Al-Baqarah, Al-A'raf, Taha, Ash-Shu'ara, Al-Qasas, Al-Ahqaf, An-Naziat. 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-16-prophet-dawud-david",
+    "title": "Prophet Dawud David",
+    "arabic": "داوود",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• Defeating Goliath: Dawud began as a young, inexperienced shepherd boy in the army of King Talut (Saul). The enemy army was led by a giant warrior named Jalut ...",
+    "keywords": "Prophet Dawud (داوود) / David Prophet Dawud David داوود Al-Baqarah (2:251), An-Nisa (4:163), Saba (34:10-11), Sad (38:17-26). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-17-prophet-sulaiman-solomon",
+    "title": "Prophet Sulaiman Solomon",
+    "arabic": "سليمان",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• The Unmatched Kingdom: Son of Dawud, Sulaiman prayed to Allah: \"My Lord, forgive me and grant me a kingdom such as will not belong to anyone after me\" (38:35)...",
+    "keywords": "Prophet Sulaiman (سليمان) / Solomon Prophet Sulaiman Solomon سليمان An-Naml (27:15-44), Saba (34:12-14), Sad (38:30-40). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-18-prophet-ilyas-elijah",
+    "title": "Prophet Ilyas Elijah",
+    "arabic": "إلياس",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• Ilyas was sent to the northern Kingdom of Israel (Baalbek, in modern Lebanon). His people had abandoned the Torah and adopted the worship of a giant golden id...",
+    "keywords": "Prophet Ilyas (إلياس) / Elijah Prophet Ilyas Elijah إلياس Al-An'am (6:85), As-Saffat (37:123-132). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-19-prophet-al-yasa-elisha",
+    "title": "Prophet Al Yasa' Elisha",
+    "arabic": "اليسع",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• Al-Yasa' was the student, companion, and spiritual successor of Prophet Ilyas.\n• After Ilyas passed away, Al-Yasa' continued calling the Israelites to uphold ...",
+    "keywords": "Prophet Al-Yasa' (اليسع) / Elisha Prophet Al Yasa' Elisha اليسع Al-An'am (6:86), Sad (38:48). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-20-prophet-yunus-jonah-dhun-nun",
+    "title": "Prophet Yunus Jonah",
+    "arabic": "يونس",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• Leaving Nineveh: Yunus was sent to Nineveh (Mosul, Iraq), a population of over 100,000 people. Frustrated by their stubborn refusal to accept Monotheism, Yunu...",
+    "keywords": "Prophet Yunus (يونس) / Jonah (Dhun-Nun) Prophet Yunus Jonah يونس Yunus (10:98), Al-Anbiya (21:87-88), As-Saffat (37:139-148), Al-Qalam (68:48-50). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-21-prophet-zakariya-zechariah",
+    "title": "Prophet Zakariya Zechariah",
+    "arabic": "زكريا",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• Guardian of Maryam: Zakariya was a high priest of the Israelites and the guardian of young Maryam (Mary). Every time he entered her secluded prayer sanctuary ...",
+    "keywords": "Prophet Zakariya (زكريا) / Zechariah Prophet Zakariya Zechariah زكريا Ali 'Imran (3:37-41), Maryam (19:2-11), Al-Anbiya (21:89-90). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-22-prophet-yahya-john-the-baptist",
+    "title": "Prophet Yahya John the Baptist",
+    "arabic": "يحيى",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• Son of Zakariya, Yahya was granted wisdom, deep understanding of the Torah, and spiritual mastery while still a child.\n• The Quran describes his character: \"A...",
+    "keywords": "Prophet Yahya (يحيى) / John the Baptist Prophet Yahya John the Baptist يحيى Ali 'Imran (3:39), Maryam (19:12-15). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-23-prophet-isa-jesus-son-of-maryam",
+    "title": "Prophet 'Isa Jesus, Son of Maryam",
+    "arabic": "عيسى",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• Miraculous Conception: Angel Jibreel appeared to the virgin Maryam in human form to announce the birth of a holy son created without a father, by Allah's comm...",
+    "keywords": "Prophet 'Isa (عيسى) / Jesus, Son of Maryam Prophet 'Isa Jesus, Son of Maryam عيسى Ali 'Imran (3:45-59), Maryam (19:16-36), Al-Ma'idah (5:110-118), An-Nisa (4:157-159). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-prophet-24-prophet-muhammad-pbuh-the-final-messenger",
+    "title": "Prophet Muhammad pbuh The Final Messenger",
+    "arabic": "محمد",
+    "subtitle": "25 Prophets & Messengers · Part 1",
+    "snippet": "• Early Life & Revelation: Born in Makkah in 570 CE in the Quraysh tribe, known before prophethood as Al-Amin (The Trustworthy). At age 40, while reflecting in ...",
+    "keywords": "Prophet Muhammad (محمد) pbuh - The Final Messenger Prophet Muhammad pbuh The Final Messenger محمد Al-Ahzab (33:40), Al-Fath (48:28-29), Muhammad (47:2), Al-Isra (17:1), Al-Anbiya (21:107), Surah An-Najm (53:1-18). 25 Prophets & Messengers"
+  },
+  {
+    "type": "story",
+    "id": "story-pious_figure-01-maryam-mary-mother-of-jesus",
+    "title": "Maryam Mary Mother of Jesus",
+    "arabic": "مريم",
+    "subtitle": "Pious & Righteous Figures · Part 2",
+    "snippet": "• Her mother (the wife of Imran) dedicated Maryam to divine service at the temple in Jerusalem before she was even born. Raised under Prophet Zakariya's care, s...",
+    "keywords": "Maryam (مريم) / Mary - Mother of Jesus Maryam Mary Mother of Jesus مريم Surah Maryam (19:16-34), Surah Ali 'Imran (3:35-47), Surah At-Tahrim (66:12). Pious & Righteous Figures"
+  },
+  {
+    "type": "story",
+    "id": "story-pious_figure-02-luqman-the-wise",
+    "title": "Luqman the Wise",
+    "arabic": "لقمان الحكيم",
+    "subtitle": "Pious & Righteous Figures · Part 2",
+    "snippet": "• Luqman was an Ethiopian/Nubian sage granted immense practical wisdom by Allah. The Quran records his tender advice to his son, which serves as a timeless pare...",
+    "keywords": "Luqman the Wise (لقمان الحكيم) Luqman the Wise لقمان الحكيم Surah Luqman (31:12-19). Pious & Righteous Figures"
+  },
+  {
+    "type": "story",
+    "id": "story-pious_figure-03-dhul-qarnayn-the-righteous-king",
+    "title": "Dhul Qarnayn The Righteous King",
+    "arabic": "ذو القرنين",
+    "subtitle": "Pious & Righteous Figures · Part 2",
+    "snippet": "• A powerful monotheist king given vast resources and military capabilities by Allah.\n• He made three major expeditions:\n 1. To the West: Reached the setting pl...",
+    "keywords": "Dhul-Qarnayn (ذو القرنين) - The Righteous King Dhul Qarnayn The Righteous King ذو القرنين Surah Al-Kahf (18:83-98). Pious & Righteous Figures"
+  },
+  {
+    "type": "story",
+    "id": "story-pious_figure-04-al-khidr-the-wise-companion-of-musa",
+    "title": "Al Khidr The Wise Companion of Musa",
+    "arabic": "الخضر",
+    "subtitle": "Pious & Righteous Figures · Part 2",
+    "snippet": "• When Prophet Musa was asked if anyone on Earth was more knowledgeable than him, Musa said no. Allah instructed Musa to travel to the junction of the two seas ...",
+    "keywords": "Al-Khidr (الخضر) - The Wise Companion of Musa Al Khidr The Wise Companion of Musa الخضر Surah Al-Kahf (18:65-82). Pious & Righteous Figures"
+  },
+  {
+    "type": "story",
+    "id": "story-pious_figure-05-ashab-al-kahf-people-of-the-cave",
+    "title": "Ashab al Kahf People of the Cave",
+    "arabic": "أصحاب الكهف",
+    "subtitle": "Pious & Righteous Figures · Part 2",
+    "snippet": "• A group of monotheistic young men lived under a pagan Roman emperor (Decius) who forced citizens to worship idols under pain of death.\n• Refusing to abandon t...",
+    "keywords": "Ashab al-Kahf (أصحاب الكهف) - People of the Cave Ashab al Kahf People of the Cave أصحاب الكهف Surah Al-Kahf (18:9-26). Pious & Righteous Figures"
+  },
+  {
+    "type": "story",
+    "id": "story-pious_figure-06-asiya-wife-of-pharaoh",
+    "title": "Asiya Wife of Pharaoh",
+    "arabic": "آسية",
+    "subtitle": "Pious & Righteous Figures · Part 2",
+    "snippet": "• Asiya lived in the peak of royal luxury as Queen of Egypt, yet retained a pure heart. She rescued baby Musa from the Nile and protected him in the palace.\n• W...",
+    "keywords": "Asiya (آسية) - Wife of Pharaoh Asiya Wife of Pharaoh آسية Surah At-Tahrim (66:11), Surah Al-Qasas (28:9). Pious & Righteous Figures"
+  },
+  {
+    "type": "story",
+    "id": "story-pious_figure-07-the-believer-of-pharaoh-s-family-mu-min-al-fir-awn",
+    "title": "The Believer of Pharaoh's Family",
+    "arabic": "",
+    "subtitle": "Pious & Righteous Figures · Part 2",
+    "snippet": "• A high-ranking court advisor and secret cousin of Pharaoh named Habib/Khitfar.\n• When Pharaoh gathered his council to formally execute Musa, this man bravely ...",
+    "keywords": "The Believer of Pharaoh's Family (Mu'min Al-Fir'awn) The Believer of Pharaoh's Family  Surah Ghafir / Al-Mu'min (40:28-45). Pious & Righteous Figures"
+  },
+  {
+    "type": "story",
+    "id": "story-pious_figure-08-habib-al-najjar-the-believer-of-surah-yasin",
+    "title": "Habib al Najjar",
+    "arabic": "",
+    "subtitle": "Pious & Righteous Figures · Part 2",
+    "snippet": "• Three messengers were sent to a city (traditionally Antioch) to preach monotheism, but the inhabitants threatened to stone them.\n• Habib al-Najjar (a humble c...",
+    "keywords": "Habib al-Najjar (The Believer of Surah Yasin) Habib al Najjar  Surah Yasin (36:20-27). Pious & Righteous Figures"
+  },
+  {
+    "type": "story",
+    "id": "story-pious_figure-09-talut-saul",
+    "title": "Talut Saul",
+    "arabic": "طالوت",
+    "subtitle": "Pious & Righteous Figures · Part 2",
+    "snippet": "• After Musa, the Israelites asked their prophet (Samuel) to appoint a king to lead them against Philistine oppressors. Allah selected Talut - a humble, poor sh...",
+    "keywords": "Talut (طالوت) / Saul Talut Saul طالوت Surah Al-Baqarah (2:246-251). Pious & Righteous Figures"
+  },
+  {
+    "type": "story",
+    "id": "story-pious_figure-10-habil-and-qabil-abel-and-cain",
+    "title": "Habil and Qabil Abel and Cain",
+    "arabic": "هابيل وهابيل",
+    "subtitle": "Pious & Righteous Figures · Part 2",
+    "snippet": "• The two sons of Adam were instructed to offer a sacrifice to Allah to resolve a marriage dispute. Habil (a shepherd) brought his finest, healthy ram with comp...",
+    "keywords": "Habil and Qabil (هابيل وهابيل) / Abel and Cain Habil and Qabil Abel and Cain هابيل وهابيل Surah Al-Ma'idah (5:27-32). Pious & Righteous Figures"
+  },
+  {
+    "type": "story",
+    "id": "story-transgressor-01-pharaoh-fir-awn",
+    "title": "Pharaoh Fir'awn",
+    "arabic": "فرعون",
+    "subtitle": "Tyrants & Transgressors · Part 3",
+    "snippet": "The ultimate archetype of human tyranny. He declared self-divinity (\"I am your Lord, Most High\" 79:24), enslaved the Israelites, and slaughtered infants. Reject...",
+    "keywords": "Pharaoh (فرعون) - Fir'awn Pharaoh Fir'awn فرعون Over 27 Surahs including Al-Baqarah, Taha, Al-Qasas, Naziat. Tyrants & Transgressors"
+  },
+  {
+    "type": "story",
+    "id": "story-transgressor-02-haman",
+    "title": "Haman",
+    "arabic": "هامان",
+    "subtitle": "Tyrants & Transgressors · Part 3",
+    "snippet": "Pharaoh's prime minister and chief architect/engineer. Pharaoh commanded him to burn clay bricks and build a massive tower reaching the heavens to inspect the G...",
+    "keywords": "Haman (هامان) Haman هامان Al-Qasas (28:6, 38), Ghafir (40:36-37). Tyrants & Transgressors"
+  },
+  {
+    "type": "story",
+    "id": "story-transgressor-03-karun-korah",
+    "title": "Karun Korah",
+    "arabic": "قارون",
+    "subtitle": "Tyrants & Transgressors · Part 3",
+    "snippet": "An Israelite contemporary of Musa granted immense wealth - so vast that a group of strong men could barely carry the keys to his treasure vaults. When advised t...",
+    "keywords": "Karun (قارون) / Korah Karun Korah قارون Al-Qasas (28:76-82), Al-Ankabut (29:39). Tyrants & Transgressors"
+  },
+  {
+    "type": "story",
+    "id": "story-transgressor-04-namrud-nimrod",
+    "title": "Namrud Nimrod",
+    "arabic": "نمرود",
+    "subtitle": "Tyrants & Transgressors · Part 3",
+    "snippet": "The King of Babylon who debated Ibrahim. He claimed divine power over life and death by bringing out two condemned prisoners, executing one and releasing the ot...",
+    "keywords": "Namrud (نمرود) / Nimrod Namrud Nimrod نمرود Al-Baqarah (2:258) (Identified in Tafsir). Tyrants & Transgressors"
+  },
+  {
+    "type": "story",
+    "id": "story-transgressor-05-abu-lahab-his-wife",
+    "title": "Abu Lahab & His Wife",
+    "arabic": "",
+    "subtitle": "Tyrants & Transgressors · Part 3",
+    "snippet": "Abdul Uzza (Abu Lahab), an uncle of Prophet Muhammad (pbuh), and his wife Umm Jamil were fierce persecutors of early Islam. Abu Lahab threw stones at the Prophe...",
+    "keywords": "Abu Lahab & His Wife Abu Lahab & His Wife  Surah Al-Masad (111:1-5). Tyrants & Transgressors"
+  },
+  {
+    "type": "story",
+    "id": "story-nation_or_group-01-ashab-al-sabt-the-sabbath-breakers",
+    "title": "Ashab al Sabt",
+    "arabic": "",
+    "subtitle": "Nations & Parables · Part 4",
+    "snippet": "• The Test of the Fish: A community of Israelites lived in a seaside town (traditionally Aylah). They were commanded by Allah to observe the Sabbath (Saturday) ...",
+    "keywords": "Ashab al-Sabt (The Sabbath Breakers) Ashab al Sabt  Al-A'raf (7:163-166), Al-Baqarah (2:65). Nations & Parables"
+  },
+  {
+    "type": "story",
+    "id": "story-nation_or_group-02-ashab-al-ukhdud-the-people-of-the-ditch",
+    "title": "Ashab al Ukhdud",
+    "arabic": "",
+    "subtitle": "Nations & Parables · Part 4",
+    "snippet": "• The Boy and the King: Detailed heavily in Sahih Muslim, a tyrannical king in ancient Yemen forced his people to worship him. He assigned a young boy to learn ...",
+    "keywords": "Ashab al-Ukhdud (The People of the Ditch) Ashab al Ukhdud  Al-Buruj (85:1-9). Nations & Parables"
+  },
+  {
+    "type": "story",
+    "id": "story-nation_or_group-03-ashab-al-fil-the-people-of-the-elephant",
+    "title": "Ashab al Fil",
+    "arabic": "",
+    "subtitle": "Nations & Parables · Part 4",
+    "snippet": "• The Jealousy of Abraha: In the year Prophet Muhammad (pbuh) was born (570 CE, known as the Year of the Elephant), a Christian Abyssinian ruler of Yemen named ...",
+    "keywords": "Ashab al-Fil (The People of the Elephant) Ashab al Fil  Al-Fil (105:1-5). Nations & Parables"
+  },
+  {
+    "type": "story",
+    "id": "story-nation_or_group-04-the-people-of-saba-sheba",
+    "title": "The People of Saba",
+    "arabic": "",
+    "subtitle": "Nations & Parables · Part 4",
+    "snippet": "• The Gardens of Prosperity: The people of Saba lived in modern-day Yemen. They were blessed with a massive engineering marvel known as the Ma'rib Dam. This dam...",
+    "keywords": "The People of Saba (Sheba) The People of Saba  Saba (34:15-21). Nations & Parables"
+  },
+  {
+    "type": "story",
+    "id": "story-nation_or_group-05-ashab-al-jannah-the-owners-of-the-garden",
+    "title": "Ashab al Jannah",
+    "arabic": "",
+    "subtitle": "Nations & Parables · Part 4",
+    "snippet": "• The Righteous Father and Greedy Sons: A wealthy, righteous man owned a highly productive agricultural garden (orchard). When he harvested his crops, he made i...",
+    "keywords": "Ashab al-Jannah (The Owners of the Garden) Ashab al Jannah  Al-Qalam (68:17-33). Nations & Parables"
+  }
+]
