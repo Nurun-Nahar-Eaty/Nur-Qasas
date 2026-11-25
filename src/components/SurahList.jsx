@@ -71,7 +71,7 @@ export const SurahList = () => {
             role="tab"
             aria-selected={filter === 'meccan'}
           >
-            Meccan (Makki)
+            Meccan (82)
           </button>
           <button
             className={`chip-btn ${filter === 'medinan' ? 'active' : ''}`}
@@ -79,7 +79,7 @@ export const SurahList = () => {
             role="tab"
             aria-selected={filter === 'medinan'}
           >
-            Medinan (Madani)
+            Medinan (32)
           </button>
         </div>
       </div>
