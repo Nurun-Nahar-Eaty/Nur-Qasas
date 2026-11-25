@@ -1,9 +1,38 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { useApp } from '../context/AppContext';
-import { Palette, Check } from 'lucide-react';
+import { Palette, Check, Download, Smartphone } from 'lucide-react';
 
 export const ThemeSelector = () => {
   const { theme, changeTheme } = useApp();
+  const [deferredPrompt, setDeferredPrompt] = useState(null);
+  const [isInstalled, setIsInstalled] = useState(false);
+
+  useEffect(() => {
+    if (window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true) {
+      setIsInstalled(true);
+    }
+
+    const handleBeforeInstall = (e) => {
+      e.preventDefault();
+      setDeferredPrompt(e);
+    };
+
+    window.addEventListener('beforeinstallprompt', handleBeforeInstall);
+    return () => window.removeEventListener('beforeinstallprompt', handleBeforeInstall);
+  }, []);
+
+  const handleInstall = async () => {
+    if (deferredPrompt) {
+      deferredPrompt.prompt();
+      const choice = await deferredPrompt.userChoice;
+      if (choice && choice.outcome === 'accepted') {
+        setIsInstalled(true);
+      }
+      setDeferredPrompt(null);
+    } else {
+      alert("Install Nur-Qasas on your phone/tablet:\n\n• On iOS (Safari): Tap Share (⎋) at the bottom, then tap 'Add to Home Screen' (⊞).\n• On Android (Chrome): Tap browser menu (⋮) at top-right, then tap 'Install app' or 'Add to Home screen'.");
+    }
+  };
 
   const themes = [
     {
@@ -103,6 +132,32 @@ export const ThemeSelector = () => {
             </div>
           );
         })}
+      </div>
+
+      {/* PWA Mobile Installation Card */}
+      <div className="visual-card" style={{ marginTop: '20px', cursor: 'default' }}>
+        <div style={{ display: 'flex', alignItems: 'center', gap: '10px', marginBottom: '8px' }}>
+          <Smartphone size={20} color="var(--accent-gold)" />
+          <h3 style={{ fontSize: '1rem', fontWeight: 700, color: 'var(--text-main)' }}>
+            Install as Mobile App (PWA)
+          </h3>
+        </div>
+        <p style={{ fontSize: '0.86rem', color: 'var(--text-muted)', lineHeight: 1.6, marginBottom: '14px' }}>
+          {isInstalled 
+            ? '✓ Nur-Qasas is installed on this device. You can enjoy full offline access to all 114 Surahs and 44 visual story timelines.'
+            : 'Install Nur-Qasas on your phone or tablet home screen for full offline access, instant loading, and fullscreen reading without browser bars.'}
+        </p>
+
+        {!isInstalled && (
+          <button
+            className="chip-btn active"
+            onClick={handleInstall}
+            style={{ width: '100%', justifyContent: 'center', padding: '12px' }}
+          >
+            <Download size={16} />
+            <span>Install Nur-Qasas on Home Screen</span>
+          </button>
+        )}
       </div>
     </section>
   );

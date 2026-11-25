@@ -67,8 +67,8 @@ export const AppProvider = ({ children }) => {
 
   const openSurah = async (surahNumber) => {
     const num = Number(surahNumber);
-    const surahSummary = surahs.find(s => s.number === num);
-    setSelectedSurah(surahSummary || { number: num });
+    const surahSummary = surahs.find(s => s.id === num || s.number === num);
+    setSelectedSurah(surahSummary || { id: num, number: num, name: `Surah ${num}` });
     setSurahDetailsLoading(true);
     try {
       const res = await fetch(`./data/surah_details/${num}.json`);
@@ -93,9 +93,18 @@ export const AppProvider = ({ children }) => {
 
   const openStory = (story) => {
     if (typeof story === 'string' || typeof story === 'number') {
-      const found = stories.find(s => s.id === story || s.id.includes(String(story)));
-      if (found) setSelectedStory(found);
-    } else {
+      const storyIdStr = String(story).trim().toLowerCase();
+      const found = stories.find(s => 
+        s.id.toLowerCase() === storyIdStr || 
+        s.id.toLowerCase().includes(storyIdStr) ||
+        (s.title && s.title.toLowerCase().includes(storyIdStr))
+      );
+      if (found) {
+        setSelectedStory(found);
+      } else {
+        console.warn('Story not found in global list:', story);
+      }
+    } else if (story && typeof story === 'object') {
       setSelectedStory(story);
     }
   };

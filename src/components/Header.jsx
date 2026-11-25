@@ -1,11 +1,49 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { useApp } from '../context/AppContext';
-import { Search, Palette, Sparkles, BookOpen } from 'lucide-react';
+import { Search, Palette, Sparkles, Download } from 'lucide-react';
 
 export const Header = () => {
-  const { setActiveTab, setIsSearchOpen, bookmarks, reflections } = useApp();
-  
-  // Calculate total reflections completed
+  const { setActiveTab, setIsSearchOpen, reflections } = useApp();
+  const [deferredPrompt, setDeferredPrompt] = useState(null);
+  const [isInstalled, setIsInstalled] = useState(false);
+
+  useEffect(() => {
+    if (window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone === true) {
+      setIsInstalled(true);
+    }
+
+    const handleBeforeInstall = (e) => {
+      e.preventDefault();
+      setDeferredPrompt(e);
+    };
+
+    const handleAppInstalled = () => {
+      setIsInstalled(true);
+      setDeferredPrompt(null);
+    };
+
+    window.addEventListener('beforeinstallprompt', handleBeforeInstall);
+    window.addEventListener('appinstalled', handleAppInstalled);
+
+    return () => {
+      window.removeEventListener('beforeinstallprompt', handleBeforeInstall);
+      window.removeEventListener('appinstalled', handleAppInstalled);
+    };
+  }, []);
+
+  const handleInstallClick = async () => {
+    if (deferredPrompt) {
+      deferredPrompt.prompt();
+      const choiceResult = await deferredPrompt.userChoice;
+      if (choiceResult && choiceResult.outcome === 'accepted') {
+        setIsInstalled(true);
+      }
+      setDeferredPrompt(null);
+    } else {
+      alert("Install Nur-Qasas on your device:\n\n• iOS / Safari: Tap Share (⎋), then tap 'Add to Home Screen' (⊞).\n• Android / Chrome: Tap menu (⋮), then tap 'Install app' or 'Add to Home screen'.");
+    }
+  };
+
   const totalReflections = Object.values(reflections).reduce((acc, curr) => acc + (curr?.length || 0), 0);
 
   return (
@@ -38,6 +76,18 @@ export const Header = () => {
             >
               <Sparkles size={14} />
               <span>{totalReflections}</span>
+            </button>
+          )}
+
+          {!isInstalled && (
+            <button
+              className="header-btn"
+              onClick={handleInstallClick}
+              aria-label="Install App to Home Screen"
+              title="Install App (PWA)"
+              style={{ color: 'var(--accent-gold)' }}
+            >
+              <Download size={18} />
             </button>
           )}
 

@@ -11,6 +11,7 @@ export const StoryVisualModal = () => {
     selectedStory, 
     closeStory, 
     openSurah, 
+    surahs,
     bookmarks, 
     toggleBookmark, 
     reflections, 
@@ -250,20 +251,24 @@ export const StoryVisualModal = () => {
                 Tap any Surah below to open its verse breakdown and revelation context:
               </p>
               <div className="linked-surahs-row">
-                {selectedStory.referenced_surahs.map((surahNum) => (
-                  <button
-                    key={surahNum}
-                    className="surah-link-chip"
-                    onClick={() => {
-                      closeStory();
-                      openSurah(surahNum);
-                    }}
-                    title={`Go to Surah ${surahNum}`}
-                  >
-                    <BookOpen size={12} />
-                    <span>Surah {surahNum}</span>
-                  </button>
-                ))}
+                {selectedStory.referenced_surahs.map((surahNum) => {
+                  const sInfo = surahs.find(s => s.id === Number(surahNum) || s.number === Number(surahNum));
+                  return (
+                    <button
+                      key={surahNum}
+                      className="surah-link-chip"
+                      onClick={() => {
+                        closeStory();
+                        openSurah(surahNum);
+                      }}
+                      title={sInfo ? `Open Surah ${surahNum}: ${sInfo.name} (${sInfo.meaning})` : `Go to Surah ${surahNum}`}
+                      aria-label={sInfo ? `Open Surah ${surahNum} ${sInfo.name}` : `Open Surah ${surahNum}`}
+                    >
+                      <BookOpen size={12} />
+                      <span>Surah {surahNum}{sInfo ? ` • ${sInfo.name}` : ''}</span>
+                    </button>
+                  );
+                })}
               </div>
             </section>
           )}

@@ -238,30 +238,52 @@ export const SurahDetailModal = () => {
                 <section aria-label="Stories featured in this Surah">
                   {allSurahStories.length > 0 ? (
                     <div className="cards-list">
-                      {allSurahStories.map((story) => (
-                        <div
-                          key={story.id}
-                          className="visual-card"
-                          onClick={() => {
-                            closeSurah();
-                            openStory(story.id);
-                          }}
-                        >
-                          <div className="visual-card-header">
-                            <div>
-                              <span className="meta-pill highlight" style={{ marginBottom: '6px' }}>
-                                {story.badge || 'Prophet / Righteous'}
-                              </span>
-                              <h3 className="card-title">{story.title}</h3>
+                      {allSurahStories.map((story) => {
+                        const isGlobalStory = stories.some(gs => gs.id === story.id);
+                        const hasFullContent = Boolean(story.content);
+                        return (
+                          <article
+                            key={story.id}
+                            className="visual-card"
+                            onClick={() => {
+                              if (isGlobalStory) {
+                                closeSurah();
+                                openStory(story.id);
+                              }
+                            }}
+                            style={{ cursor: isGlobalStory ? 'pointer' : 'default' }}
+                          >
+                            <div className="visual-card-header">
+                              <div>
+                                <span className="meta-pill highlight" style={{ marginBottom: '6px' }}>
+                                  {story.badge || (isGlobalStory ? 'Prophet / Righteous' : 'Quranic Narrative')}
+                                </span>
+                                {story.verse_reference && (
+                                  <span className="meta-pill" style={{ marginLeft: '6px' }}>
+                                    Verses {story.verse_reference}
+                                  </span>
+                                )}
+                                <h3 className="card-title">{story.title}</h3>
+                              </div>
+                              {isGlobalStory && <ArrowRight size={18} color="var(--accent-primary)" />}
                             </div>
-                            <ArrowRight size={18} color="var(--accent-primary)" />
-                          </div>
-                          <p className="card-summary">{story.snippet || story.narrative}</p>
-                          <div className="card-meta-row">
-                            <span className="meta-pill highlight">⚡ Tap to view Visual Timeline</span>
-                          </div>
-                        </div>
-                      ))}
+
+                            {hasFullContent ? (
+                              <div style={{ fontSize: '0.92rem', lineHeight: 1.7, color: 'var(--text-main)', marginTop: '10px', whiteSpace: 'pre-line' }}>
+                                {story.content}
+                              </div>
+                            ) : (
+                              <p className="card-summary">{story.snippet || story.narrative}</p>
+                            )}
+
+                            {isGlobalStory && (
+                              <div className="card-meta-row" style={{ marginTop: '10px' }}>
+                                <span className="meta-pill highlight">⚡ Tap to view Interactive Timeline &amp; Lessons</span>
+                              </div>
+                            )}
+                          </article>
+                        );
+                      })}
                     </div>
                   ) : (
                     <div style={{ textAlign: 'center', padding: '30px 10px', color: 'var(--text-muted)' }}>
