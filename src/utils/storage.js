@@ -4,7 +4,7 @@ const BOOKMARKS_KEY = 'nur_qasas_bookmarks';
 const REFLECTIONS_KEY = 'nur_qasas_reflections';
 
 export const getStoredTheme = () => {
-  return localStorage.getItem(THEME_KEY) || 'midnight';
+  return localStorage.getItem(THEME_KEY) || 'emerald-light';
 };
 
 export const setStoredTheme = (theme) => {

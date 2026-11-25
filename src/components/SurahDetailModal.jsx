@@ -25,13 +25,20 @@ export const SurahDetailModal = () => {
 
   if (!selectedSurah) return null;
 
+  const surahId = selectedSurah.id || selectedSurah.number;
+  const surahName = selectedSurah.name || selectedSurah.english_name;
+  const surahMeaning = selectedSurah.meaning || selectedSurah.english_meaning || selectedSurah.translation;
+  const surahArabic = selectedSurah.arabic || selectedSurah.arabic_name;
+  const surahVersesCount = selectedSurah.verses_count || selectedSurah.verse_count || selectedSurah.total_verses;
+  const surahRev = selectedSurah.revelation || (selectedSurah.is_meccan ? 'Makkan' : 'Madinan');
+
   const handleShare = async () => {
-    const title = `Surah ${selectedSurah.english_name || selectedSurah.name} (${selectedSurah.number})`;
+    const title = `Surah ${surahName} (${surahId})`;
     if (navigator.share) {
       try {
         await navigator.share({
           title,
-          text: `Explore Surah ${selectedSurah.english_name} verse breakdown and stories`,
+          text: `Explore Surah ${surahName} verse breakdown, stories, and deep insights`,
           url: window.location.href,
         });
       } catch (err) {}
@@ -41,10 +48,38 @@ export const SurahDetailModal = () => {
     }
   };
 
-  // Find related stories from global stories list that mention this surah
-  const relatedStories = stories.filter(st => 
-    st.referenced_surahs && st.referenced_surahs.includes(selectedSurah.number)
+  // Combine stories_in_surah from detail file with any matching stories from global list
+  const detailStories = selectedSurahDetails?.stories_in_surah || [];
+  const globalMatchingStories = stories.filter(st => 
+    st.referenced_surahs && st.referenced_surahs.includes(surahId)
   );
+
+  // De-duplicate stories
+  const combinedStoryMap = new Map();
+  detailStories.forEach(s => {
+    if (s.id) combinedStoryMap.set(s.id, s);
+  });
+  globalMatchingStories.forEach(s => {
+    if (s.id && !combinedStoryMap.has(s.id)) {
+      combinedStoryMap.set(s.id, {
+        id: s.id,
+        title: s.title,
+        arabic_name: s.arabic_name,
+        badge: s.badge || s.category_label,
+        category: s.category,
+        snippet: s.narrative?.slice(0, 160) + '...',
+        location: s.location,
+        timeline_steps: s.timeline_steps
+      });
+    }
+  });
+  const allSurahStories = Array.from(combinedStoryMap.values());
+
+  const verseBreakdowns = selectedSurahDetails?.verse_breakdowns || selectedSurahDetails?.verse_breakdown || [];
+  const deepDives = selectedSurahDetails?.deep_dives || [];
+  const nameOrigin = selectedSurahDetails?.name_origin || selectedSurah.name_origin || '';
+  const coreTheme = selectedSurahDetails?.core_theme || selectedSurah.core_theme || selectedSurah.theme || '';
+  const revDetails = selectedSurahDetails?.revelation_details || selectedSurahDetails?.revelation_context || selectedSurah.revelation_details || '';
 
   return (
     <div className="modal-overlay" onClick={closeSurah} role="dialog" aria-modal="true" aria-labelledby="surah-modal-title">
@@ -58,10 +93,10 @@ export const SurahDetailModal = () => {
         <div className="sheet-header">
           <div>
             <span className="meta-pill highlight" style={{ marginRight: '6px' }}>
-              Surah #{selectedSurah.number}
+              Surah #{surahId}
             </span>
             <span className="meta-pill">
-              {selectedSurah.revelation_type || (selectedSurah.is_meccan ? 'Makki' : 'Madani')} • {selectedSurah.verse_count || selectedSurah.total_verses} Verses
+              {surahRev} • {surahVersesCount} Verses
             </span>
           </div>
 
@@ -92,7 +127,7 @@ export const SurahDetailModal = () => {
             role="tab"
             aria-selected={activeTab === 'verses'}
           >
-            Verses Breakdown
+            Verses ({verseBreakdowns.length})
           </button>
           <button
             className={`surah-tab-btn ${activeTab === 'stories' ? 'active' : ''}`}
@@ -100,7 +135,7 @@ export const SurahDetailModal = () => {
             role="tab"
             aria-selected={activeTab === 'stories'}
           >
-            Stories ({relatedStories.length || (selectedSurahDetails?.stories_in_surah?.length || 0)})
+            Stories ({allSurahStories.length})
           </button>
           <button
             className={`surah-tab-btn ${activeTab === 'name' ? 'active' : ''}`}
@@ -116,25 +151,25 @@ export const SurahDetailModal = () => {
             role="tab"
             aria-selected={activeTab === 'insights'}
           >
-            Key Insights
+            Deep Dives ({deepDives.length})
           </button>
         </div>
 
         {/* Modal Scrollable Body */}
         <div className="sheet-body">
           {/* Header Title Section */}
-          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '16px' }}>
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '16px', gap: '12px' }}>
             <div>
               <h2 id="surah-modal-title" style={{ fontSize: '1.4rem', fontWeight: 800 }}>
-                {selectedSurah.english_name || selectedSurah.name}
+                {surahName}
               </h2>
               <p style={{ fontSize: '0.88rem', color: 'var(--text-muted)' }}>
-                {selectedSurah.english_meaning || selectedSurah.translation}
+                {surahMeaning}
               </p>
             </div>
-            {selectedSurah.arabic_name && (
+            {surahArabic && (
               <div style={{ fontFamily: 'Amiri, serif', fontSize: '2.2rem', color: 'var(--accent-primary)', lineHeight: 1 }}>
-                {selectedSurah.arabic_name}
+                {surahArabic}
               </div>
             )}
           </div>
@@ -146,33 +181,43 @@ export const SurahDetailModal = () => {
             </div>
           ) : (
             <>
-              {/* TAB 1: VERSE BREAKDOWN */}
+              {/* TAB 1: VERSE BREAKDOWNS */}
               {activeTab === 'verses' && (
                 <section aria-label="Verse by verse breakdown">
-                  {selectedSurahDetails?.verse_breakdown && selectedSurahDetails.verse_breakdown.length > 0 ? (
-                    selectedSurahDetails.verse_breakdown.map((item, idx) => (
+                  {verseBreakdowns.length > 0 ? (
+                    verseBreakdowns.map((item, idx) => (
                       <article key={idx} className="verse-breakdown-card">
-                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '8px' }}>
                           <span className="verse-num-badge">
-                            Verses {item.verse_range || item.range || `#${idx + 1}`}
+                            Verses {item.verse_range || `${item.start_verse}-${item.end_verse}` || `#${idx + 1}`}
                           </span>
                         </div>
-                        {item.theme && (
+                        {item.section_title && (
                           <h4 className="verse-theme-title">
-                            {item.theme}
+                            {item.section_title}
                           </h4>
                         )}
-                        {item.arabic_text && (
-                          <p className="verse-arabic-text">
-                            {item.arabic_text}
-                          </p>
-                        )}
-                        <p className="verse-explanation">
-                          {item.explanation || item.summary || item.text}
-                        </p>
-                        {item.key_lesson && (
-                          <div className="quote-card" style={{ marginTop: '8px' }}>
-                            <strong>Reflection:</strong> {item.key_lesson}
+
+                        {/* If breakdown has points list */}
+                        {item.points && item.points.length > 0 ? (
+                          <div style={{ display: 'flex', flexDirection: 'column', gap: '8px', margin: '10px 0' }}>
+                            {item.points.map((p, pIdx) => (
+                              <div key={pIdx} style={{ fontSize: '0.92rem', lineHeight: 1.6 }}>
+                                <strong style={{ color: 'var(--accent-primary)' }}>• {p.label}: </strong>
+                                <span style={{ color: 'var(--text-main)' }}>{p.detail}</span>
+                              </div>
+                            ))}
+                          </div>
+                        ) : item.content_markdown ? (
+                          <div style={{ fontSize: '0.92rem', lineHeight: 1.6, color: 'var(--text-main)', margin: '10px 0', whiteSpace: 'pre-line' }}>
+                            {item.content_markdown}
+                          </div>
+                        ) : null}
+
+                        {/* Reflection Card */}
+                        {item.reflection && (
+                          <div className="quote-card" style={{ marginTop: '10px' }}>
+                            <strong>Reflection: </strong>{item.reflection}
                           </div>
                         )}
                       </article>
@@ -181,7 +226,7 @@ export const SurahDetailModal = () => {
                     <div className="verse-breakdown-card">
                       <h4 className="verse-theme-title">Surah Overview</h4>
                       <p className="verse-explanation">
-                        {selectedSurah.theme_summary || selectedSurah.short_description || 'Contains profound verses encompassing monotheism, righteous character, and Quranic wisdom.'}
+                        {coreTheme || 'Contains guidance, cosmic signs, and Quranic wisdom.'}
                       </p>
                     </div>
                   )}
@@ -191,47 +236,37 @@ export const SurahDetailModal = () => {
               {/* TAB 2: STORIES IN SURAH */}
               {activeTab === 'stories' && (
                 <section aria-label="Stories featured in this Surah">
-                  {relatedStories.length > 0 ? (
+                  {allSurahStories.length > 0 ? (
                     <div className="cards-list">
-                      {relatedStories.map((story) => (
+                      {allSurahStories.map((story) => (
                         <div
                           key={story.id}
                           className="visual-card"
                           onClick={() => {
                             closeSurah();
-                            openStory(story);
+                            openStory(story.id);
                           }}
                         >
                           <div className="visual-card-header">
                             <div>
                               <span className="meta-pill highlight" style={{ marginBottom: '6px' }}>
-                                {story.badge || story.category_label}
+                                {story.badge || 'Prophet / Righteous'}
                               </span>
                               <h3 className="card-title">{story.title}</h3>
                             </div>
                             <ArrowRight size={18} color="var(--accent-primary)" />
                           </div>
-                          <p className="card-summary">{story.narrative?.slice(0, 160)}...</p>
+                          <p className="card-summary">{story.snippet || story.narrative}</p>
                           <div className="card-meta-row">
-                            {story.location && <span className="meta-pill">📍 {story.location}</span>}
-                            {story.timeline_steps && <span className="meta-pill">⚡ {story.timeline_steps.length} Milestones</span>}
+                            <span className="meta-pill highlight">⚡ Tap to view Visual Timeline</span>
                           </div>
-                        </div>
-                      ))}
-                    </div>
-                  ) : selectedSurahDetails?.stories_in_surah && selectedSurahDetails.stories_in_surah.length > 0 ? (
-                    <div className="cards-list">
-                      {selectedSurahDetails.stories_in_surah.map((st, idx) => (
-                        <div key={idx} className="visual-card">
-                          <h3 className="card-title">{st.title || `Story ${idx + 1}`}</h3>
-                          <p className="card-summary">{st.summary || st.detail || st.narrative}</p>
                         </div>
                       ))}
                     </div>
                   ) : (
                     <div style={{ textAlign: 'center', padding: '30px 10px', color: 'var(--text-muted)' }}>
                       <Compass size={32} style={{ margin: '0 auto 10px', opacity: 0.5 }} />
-                      <p>This Surah focuses primarily on legislative guidance, cosmic reflections, and divine supplications.</p>
+                      <p>This Surah focuses on legislative guidance, supplications, and core faith rather than historical Prophet narratives.</p>
                     </div>
                   )}
                 </section>
@@ -240,42 +275,61 @@ export const SurahDetailModal = () => {
               {/* TAB 3: NAME ORIGIN & CONTEXT */}
               {activeTab === 'name' && (
                 <section aria-label="Surah Name Origin and Revelation Context">
-                  <div className="visual-card" style={{ cursor: 'default' }}>
-                    <span className="section-heading-pill">
-                      <Info size={14} />
-                      <span>Why is it named "{selectedSurah.english_name || selectedSurah.name}"?</span>
-                    </span>
-                    <p style={{ fontSize: '0.94rem', lineHeight: 1.6, color: 'var(--text-main)' }}>
-                      {selectedSurahDetails?.name_origin || selectedSurah.name_origin || `The Surah is named '${selectedSurah.english_name}' highlighting prominent themes, historical events, or distinctive words revealed within.`}
-                    </p>
-                  </div>
+                  {nameOrigin && (
+                    <div className="visual-card" style={{ cursor: 'default' }}>
+                      <span className="section-heading-pill">
+                        <Info size={14} />
+                        <span>Why is it named "{surahName}"?</span>
+                      </span>
+                      <div style={{ fontSize: '0.94rem', lineHeight: 1.7, color: 'var(--text-main)', whiteSpace: 'pre-line' }}>
+                        {nameOrigin}
+                      </div>
+                    </div>
+                  )}
 
-                  <div className="visual-card" style={{ marginTop: '12px', cursor: 'default' }}>
-                    <span className="section-heading-pill">
-                      <Sparkles size={14} />
-                      <span>Revelation Era &amp; Historical Context</span>
-                    </span>
-                    <p style={{ fontSize: '0.94rem', lineHeight: 1.6, color: 'var(--text-main)' }}>
-                      <strong>Classification:</strong> {selectedSurah.revelation_type || (selectedSurah.is_meccan ? 'Meccan (Makki)' : 'Medinan (Madani)')}<br/>
-                      {selectedSurah.revelation_order && <><strong>Chronological Revelation Order:</strong> #{selectedSurah.revelation_order}<br/></>}
-                      {selectedSurahDetails?.revelation_context && <><strong>Historical Context:</strong> {selectedSurahDetails.revelation_context}</>}
-                    </p>
-                  </div>
+                  {revDetails && (
+                    <div className="visual-card" style={{ marginTop: '12px', cursor: 'default' }}>
+                      <span className="section-heading-pill">
+                        <Sparkles size={14} />
+                        <span>Revelation Details &amp; Occasion</span>
+                      </span>
+                      <p style={{ fontSize: '0.94rem', lineHeight: 1.6, color: 'var(--text-main)' }}>
+                        {revDetails}
+                      </p>
+                    </div>
+                  )}
+
+                  {coreTheme && (
+                    <div className="visual-card" style={{ marginTop: '12px', cursor: 'default' }}>
+                      <span className="section-heading-pill">
+                        <BookOpen size={14} />
+                        <span>Core Theme &amp; Essence</span>
+                      </span>
+                      <p style={{ fontSize: '0.94rem', lineHeight: 1.6, color: 'var(--text-main)' }}>
+                        {coreTheme}
+                      </p>
+                    </div>
+                  )}
                 </section>
               )}
 
-              {/* TAB 4: KEY INSIGHTS & DEEP DIVES */}
+              {/* TAB 4: DEEP DIVES */}
               {activeTab === 'insights' && (
                 <section aria-label="Deep Dives and Thematic Lessons">
-                  {selectedSurahDetails?.deep_dives && selectedSurahDetails.deep_dives.length > 0 ? (
-                    selectedSurahDetails.deep_dives.map((dive, idx) => (
+                  {deepDives.length > 0 ? (
+                    deepDives.map((dive, idx) => (
                       <article key={idx} className="visual-card" style={{ marginBottom: '12px', cursor: 'default' }}>
                         <h4 className="card-title" style={{ color: 'var(--accent-primary)', marginBottom: '6px' }}>
-                          {dive.title || `Key Insight #${idx + 1}`}
+                          {dive.title}
                         </h4>
-                        <p style={{ fontSize: '0.92rem', lineHeight: 1.6, color: 'var(--text-main)' }}>
-                          {dive.content || dive.detail || dive.text}
-                        </p>
+                        {dive.verse_reference && (
+                          <span className="meta-pill" style={{ marginBottom: '8px' }}>
+                            Verse: {dive.verse_reference}
+                          </span>
+                        )}
+                        <div style={{ fontSize: '0.92rem', lineHeight: 1.7, color: 'var(--text-main)', whiteSpace: 'pre-line' }}>
+                          {dive.content}
+                        </div>
                       </article>
                     ))
                   ) : (
@@ -284,7 +338,7 @@ export const SurahDetailModal = () => {
                         Core Thematic Lessons
                       </h4>
                       <p style={{ fontSize: '0.92rem', lineHeight: 1.6, color: 'var(--text-main)' }}>
-                        {selectedSurah.main_theme || selectedSurah.theme_summary || 'Emphasizes unwavering faith in Allah, mindful ethics in human relationships, and continuous remembrance of the Hereafter.'}
+                        {coreTheme || 'Emphasizes unwavering faith in Allah, mindful ethics in human relationships, and continuous remembrance of the Hereafter.'}
                       </p>
                     </div>
                   )}

@@ -1,6 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import { useApp } from '../context/AppContext';
-import { BookOpen, Sparkles, Filter, Search } from 'lucide-react';
+import { BookOpen, Sparkles, Search } from 'lucide-react';
 
 export const SurahList = () => {
   const { surahs, openSurah, loading } = useApp();
@@ -9,17 +9,21 @@ export const SurahList = () => {
 
   const filteredSurahs = useMemo(() => {
     return surahs.filter((surah) => {
+      const rev = (surah.revelation || surah.revelation_type || '').toLowerCase();
+      const isMakki = rev.includes('makk') || surah.is_meccan;
+
       // Type filter
-      if (filter === 'meccan' && !surah.is_meccan && surah.revelation_type !== 'Meccan') return false;
-      if (filter === 'medinan' && (surah.is_meccan || surah.revelation_type === 'Meccan')) return false;
+      if (filter === 'meccan' && !isMakki) return false;
+      if (filter === 'medinan' && isMakki) return false;
 
       // Query filter
       if (searchQuery.trim()) {
         const q = searchQuery.toLowerCase();
-        const nameMatch = (surah.english_name || surah.name || '').toLowerCase().includes(q);
-        const transMatch = (surah.english_meaning || surah.translation || '').toLowerCase().includes(q);
-        const numMatch = String(surah.number) === q;
-        const arabicMatch = (surah.arabic_name || '').includes(q);
+        const sId = String(surah.id || surah.number || '');
+        const nameMatch = (surah.name || surah.name_ascii || surah.english_name || '').toLowerCase().includes(q);
+        const transMatch = (surah.meaning || surah.english_meaning || surah.translation || '').toLowerCase().includes(q);
+        const numMatch = sId === q;
+        const arabicMatch = (surah.arabic || surah.arabic_name || '').includes(q);
         return nameMatch || transMatch || numMatch || arabicMatch;
       }
       return true;
@@ -90,52 +94,60 @@ export const SurahList = () => {
       {/* Cards List */}
       <div className="cards-list" role="feed" aria-label="Surahs Feed">
         {filteredSurahs.map((surah) => {
-          const isMakki = surah.is_meccan || surah.revelation_type === 'Meccan';
+          const sId = surah.id || surah.number;
+          const rev = surah.revelation || (surah.is_meccan ? 'Makkan' : 'Madinan');
+          const verses = surah.verses_count || surah.verse_count || surah.total_verses;
+
           return (
             <article
-              key={surah.number}
+              key={sId}
               className="visual-card"
-              onClick={() => openSurah(surah.number)}
+              onClick={() => openSurah(sId)}
               tabIndex="0"
               role="button"
-              aria-label={`Open Surah ${surah.english_name || surah.name}`}
+              aria-label={`Open Surah ${surah.name || surah.english_name}`}
               onKeyDown={(e) => {
                 if (e.key === 'Enter' || e.key === ' ') {
                   e.preventDefault();
-                  openSurah(surah.number);
+                  openSurah(sId);
                 }
               }}
             >
               <div className="visual-card-header">
                 <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
                   <div className="card-num-badge">
-                    {surah.number}
+                    {sId}
                   </div>
                   <div>
                     <h3 className="card-title">
-                      {surah.english_name || surah.name}
+                      {surah.name || surah.name_ascii || surah.english_name}
                     </h3>
                     <p style={{ fontSize: '0.82rem', color: 'var(--text-muted)' }}>
-                      {surah.english_meaning || surah.translation}
+                      {surah.meaning || surah.english_meaning || surah.translation}
                     </p>
                   </div>
                 </div>
 
                 <div className="card-arabic-title">
-                  {surah.arabic_name}
+                  {surah.arabic || surah.arabic_name}
                 </div>
               </div>
 
               <div className="card-meta-row">
                 <span className="meta-pill">
-                  {isMakki ? 'Makki' : 'Madani'}
+                  {rev}
                 </span>
                 <span className="meta-pill">
-                  {surah.verse_count || surah.total_verses} Verses
+                  {verses} Verses
                 </span>
-                {surah.revelation_order && (
+                {surah.stories_count !== undefined && surah.stories_count > 0 && (
+                  <span className="meta-pill highlight">
+                    📜 {surah.stories_count} Stories
+                  </span>
+                )}
+                {surah.breakdowns_count !== undefined && (
                   <span className="meta-pill">
-                    Order #{surah.revelation_order}
+                    📖 {surah.breakdowns_count} Sections
                   </span>
                 )}
               </div>

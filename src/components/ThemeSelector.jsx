@@ -7,44 +7,44 @@ export const ThemeSelector = () => {
 
   const themes = [
     {
+      id: 'emerald-light',
+      name: 'Emerald Light',
+      desc: 'Classic Islamic emerald green on crisp warm paper',
+      bg: '#FBF9F5',
+      card: '#FFFFFF',
+      accent: '#0F766E',
+      gold: '#D97706',
+      badge: 'Classic'
+    },
+    {
       id: 'midnight',
       name: 'Midnight Blue',
       desc: 'Deep indigo & celestial gold, optimized for night reading',
       bg: '#080D1A',
       card: '#0F172A',
       accent: '#38BDF8',
-      gold: '#FBBF24',
+      gold: '#F59E0B',
       badge: 'Popular'
     },
     {
-      id: 'emerald-light',
-      name: 'Emerald Oasis',
-      desc: 'Classic Islamic emerald green on crisp paper white',
-      bg: '#F8FAFC',
-      card: '#FFFFFF',
-      accent: '#059669',
-      gold: '#D97706',
-      badge: 'Light'
-    },
-    {
       id: 'dark',
-      name: 'Obsidian Dark',
-      desc: 'Pure contrast dark mode for OLED screens',
-      bg: '#090D16',
-      card: '#121826',
+      name: 'Forest Dark',
+      desc: 'Deep green-tinted dark mode with emerald accents',
+      bg: '#060E0C',
+      card: '#0D1E19',
       accent: '#10B981',
-      gold: '#F59E0B',
-      badge: 'OLED'
+      gold: '#FBBF24',
+      badge: 'Dark'
     },
     {
       id: 'sepia',
       name: 'Desert Sand',
       desc: 'Warm ancient parchment tones for comfortable reading',
-      bg: '#FAF6F0',
-      card: '#FFFDF9',
-      accent: '#B45309',
-      gold: '#D97706',
-      badge: 'Warm'
+      bg: '#F4EEE1',
+      card: '#FDFAF2',
+      accent: '#9A3412',
+      gold: '#B45309',
+      badge: 'Sepia'
     }
   ];
 
@@ -55,13 +55,13 @@ export const ThemeSelector = () => {
           Visual Theme &amp; Atmosphere
         </h2>
         <p style={{ fontSize: '0.88rem', color: 'var(--text-muted)' }}>
-          Choose a palette tailored for your eyes. All themes meet Section 508 and WCAG AA contrast standards.
+          Choose your reading atmosphere. All palettes meet Section 508 and WCAG AA contrast standards.
         </p>
       </div>
 
       <div className="theme-grid" role="radiogroup" aria-label="Select Color Theme">
         {themes.map((t) => {
-          const isSelected = theme === t.id;
+          const isSelected = theme === t.id || (t.id === 'emerald-light' && theme === 'light') || (t.id === 'dark' && theme === 'forest-dark');
           return (
             <div
               key={t.id}
