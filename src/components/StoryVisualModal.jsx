@@ -1,21 +1,21 @@
 import React, { useEffect, useRef } from 'react';
 import { useApp } from '../context/AppContext';
 import { StoryTimeline } from './StoryTimeline';
-import { 
-  X, Bookmark, CheckCircle2, Circle, MapPin, Clock, BookOpen, 
-  Lightbulb, Share2, Compass, Sparkles 
+import {
+  X, Bookmark, CheckCircle2, Circle, MapPin, Clock, BookOpen,
+  Lightbulb, Share2, Compass, Sparkles
 } from 'lucide-react';
 
 export const StoryVisualModal = () => {
-  const { 
-    selectedStory, 
-    closeStory, 
-    openSurah, 
+  const {
+    selectedStory,
+    closeStory,
+    openSurah,
     surahs,
-    bookmarks, 
-    toggleBookmark, 
-    reflections, 
-    toggleReflection 
+    bookmarks,
+    toggleBookmark,
+    reflections,
+    toggleReflection
   } = useApp();
 
   const modalRef = useRef(null);
@@ -65,9 +65,9 @@ export const StoryVisualModal = () => {
 
   return (
     <div className="modal-overlay" onClick={closeStory} role="dialog" aria-modal="true" aria-labelledby="story-modal-title">
-      <div 
-        className="sheet-container" 
-        onClick={(e) => e.stopPropagation()} 
+      <div
+        className="sheet-container"
+        onClick={(e) => e.stopPropagation()}
         ref={modalRef}
         tabIndex="-1"
       >
@@ -160,7 +160,7 @@ export const StoryVisualModal = () => {
             <section style={{ marginBottom: '20px' }} aria-label="Key Quranic Quotes">
               <span className="section-heading-pill">
                 <Sparkles size={14} />
-                <span>Featured Quranic Dialogue</span>
+                <span>Featured Quranic Verses</span>
               </span>
               {selectedStory.key_quotes.map((q, qIdx) => (
                 <blockquote key={qIdx} className="quote-card" style={{ marginTop: '8px' }}>
@@ -195,13 +195,13 @@ export const StoryVisualModal = () => {
 
               {/* Progress bar */}
               <div style={{ width: '100%', height: '6px', background: 'var(--border-subtle)', borderRadius: '999px', overflow: 'hidden', marginBottom: '14px' }}>
-                <div 
-                  style={{ 
-                    width: `${completionRate}%`, 
-                    height: '100%', 
-                    background: 'var(--accent-gold)', 
-                    transition: 'width 0.3s ease' 
-                  }} 
+                <div
+                  style={{
+                    width: `${completionRate}%`,
+                    height: '100%',
+                    background: 'var(--accent-gold)',
+                    transition: 'width 0.3s ease'
+                  }}
                 />
               </div>
 
@@ -209,8 +209,8 @@ export const StoryVisualModal = () => {
                 {lessons.map((lesson, idx) => {
                   const isChecked = storyReflections.includes(idx);
                   return (
-                    <div 
-                      key={idx} 
+                    <div
+                      key={idx}
                       className="lesson-card"
                       onClick={() => toggleReflection(selectedStory.id, idx)}
                       role="checkbox"
@@ -223,9 +223,9 @@ export const StoryVisualModal = () => {
                         }
                       }}
                     >
-                      <button 
-                        className="lesson-check-btn" 
-                        aria-hidden="true" 
+                      <button
+                        className="lesson-check-btn"
+                        aria-hidden="true"
                         tabIndex="-1"
                       >
                         {isChecked ? <CheckCircle2 size={20} color="var(--accent-gold)" /> : <Circle size={20} color="var(--text-light)" />}
