@@ -160,7 +160,7 @@ export const StoryVisualModal = () => {
             <section style={{ marginBottom: '20px' }} aria-label="Key Quranic Quotes">
               <span className="section-heading-pill">
                 <Sparkles size={14} />
-                <span>Featured Quranic Verses</span>
+                <span>Featured Quranic Verse</span>
               </span>
               {selectedStory.key_quotes.map((q, qIdx) => (
                 <blockquote key={qIdx} className="quote-card" style={{ marginTop: '8px' }}>
