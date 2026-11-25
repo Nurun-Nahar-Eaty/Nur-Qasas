@@ -1,0 +1,507 @@
+{
+  "id": 22,
+  "name": "Al-Ḥajj",
+  "name_ascii": "Al-Hajj",
+  "arabic": "الحج",
+  "meaning": "The Pilgrimage (Al-Hajj)",
+  "revelation": "Madinan",
+  "revelation_details": "Madinan (78 verses; classical scholars note it is a unique Surah containing a blend of Makkan and Madinan verses, revealed around the time of the migration and early Madinan period).",
+  "verses_count": 78,
+  "theme": "Worship and sacrifice",
+  "core_theme": "This Surah is a powerful reminder of the terror of the Final Hour, the undeniable proofs of Resurrection, and the true spirit of devotion to Allah. Revealed as the persecuted Muslims were driven out of Makkah and barred from the Kaaba, it revives the pure legacy of Prophet Ibrahim (AS), grants the oppressed believers their very first permission to defend themselves, and dismantles idol worship through unforgettable parables.",
+  "group": "17-25 (Morality & Accountability)",
+  "name_origin": "The Surah is named Al-Hajj (\"The Pilgrimage\") after verses 26-37, which describe Allah showing Prophet Ibrahim (AS) the site of the Kaaba and commanding him to proclaim the Pilgrimage to all of humanity.\n\nThe Historical Context (Barred From the Kaaba): After years of torture and persecution, the early Muslims were forced to leave their homes in Makkah and migrate to Madinah. The pagan Quraysh leaders controlled the Sacred Mosque (Al-Masjid al-Haram) and blocked the believers from visiting the Kaaba.\n\nBy naming this Surah Al-Hajj, Allah reminded both the Quraysh and the believers of the true history of the Kaaba: it was built by Prophet Ibrahim (AS) strictly for pure monotheism, and Allah made it equally open to both local residents and visitors from afar. No tyrant has the right to turn the House of Allah into a center of idols or block sincere worshippers from it.",
+  "why_named_sections": [],
+  "verse_breakdowns": [
+    {
+      "section_title": "The Terrifying Earthquake of the Final Hour",
+      "verse_range": "1-2",
+      "start_verse": 1,
+      "end_verse": 2,
+      "points": [
+        {
+          "label": "A Universal Call to Taqwa",
+          "detail": "The chapter opens with an urgent call to all humanity: have taqwa (mindfulness and fear) of your Lord, for the earthquake of the Final Hour (Zalzalat as-Sa'ah) is a tremendous, terrifying event."
+        },
+        {
+          "label": "Unimaginable Shock",
+          "detail": "On the Day you witness it, every nursing mother will forget the baby she is breastfeeding, and every pregnant woman will miscarry her child out of sheer terror."
+        },
+        {
+          "label": "Not Drunk, Yet Staggering",
+          "detail": "You will see people staggering as if they are drunk, even though they have not touched intoxicants - it is simply because the punishment of Allah is so severe."
+        }
+      ],
+      "content_markdown": "• A Universal Call to Taqwa: The chapter opens with an urgent call to all humanity: have taqwa (mindfulness and fear) of your Lord, for the earthquake of the Final Hour (Zalzalat as-Sa'ah) is a tremendous, terrifying event.\n• Unimaginable Shock: On the Day you witness it, every nursing mother will forget the baby she is breastfeeding, and every pregnant woman will miscarry her child out of sheer terror.\n• Not Drunk, Yet Staggering: You will see people staggering as if they are drunk, even though they have not touched intoxicants - it is simply because the punishment of Allah is so severe.",
+      "reflection": "Classical scholars like Ibn Kathir and Al-Qurtubi point out how deeply emotional this opening image is: nothing in human nature is stronger than a mother's love for her nursing infant, yet the shock of the Final Hour will make even her forget her baby. In an authentic Hadith recorded in Sahih al-Bukhari and Sahih Muslim (cited by Ibn Kathir under these verses), the Prophet (صلى الله عليه وسلم) linked this terrifying Day to when Allah commands Prophet Adam (AS) to send forth the people of the Fire - causing the companions to weep until the Prophet (صلى الله عليه وسلم) comforted them with the hope that his Ummah would make up half the people of Paradise."
+    },
+    {
+      "section_title": "Arguing About Allah Without Knowledge",
+      "verse_range": "3-4",
+      "start_verse": 3,
+      "end_verse": 4,
+      "points": [
+        {
+          "label": "Ignorant Arguments",
+          "detail": "Among humanity are those who argue about Allah without any real knowledge, blindly following every rebellious devil (Shaytan)."
+        },
+        {
+          "label": "The Fate of Following Shaytan",
+          "detail": "It is decreed for Shaytan that whoever takes him as a friend and follower, he will surely mislead them in this world and guide them straight to the torment of the blazing Fire."
+        }
+      ],
+      "content_markdown": "• Ignorant Arguments: Among humanity are those who argue about Allah without any real knowledge, blindly following every rebellious devil (Shaytan).\n• The Fate of Following Shaytan: It is decreed for Shaytan that whoever takes him as a friend and follower, he will surely mislead them in this world and guide them straight to the torment of the blazing Fire.",
+      "reflection": "Tafsir commentators explain that these verses warn against speaking about religion or questioning Allah based purely on personal whims, pride, or whispers of Shaytan rather than authentic knowledge. Following falsehood always feels harmless at first, yet its guaranteed destination is misguidance and ruin."
+    },
+    {
+      "section_title": "Undeniable Proofs of Resurrection in Creation and Rain",
+      "verse_range": "5-7",
+      "start_verse": 5,
+      "end_verse": 7,
+      "points": [
+        {
+          "label": "Stages of Human Creation",
+          "detail": "Allah addresses anyone doubting the Resurrection by pointing to their own origin: He created humanity from dust (Adam), then from a tiny drop of fluid (nutfah), then a clinging clot ('alaqah), then a small lump of flesh (mudghah) - partly formed and partly unformed - keeping babies safely in the womb until an appointed time, bringing them out as infants, letting them grow to full strength, and letting some pass away early while others reach the weakest stage of old age where they forget what they once knew."
+        },
+        {
+          "label": "Reviving the Dead Earth",
+          "detail": "Allah gives a second everyday proof: you see dry, lifeless earth, yet the moment He sends rain down upon it, it stirs, swells, and bursts forth with every beautiful kind of plant."
+        },
+        {
+          "label": "Five Clear Truths",
+          "detail": "These signs prove that Allah alone is the Truth, He brings the dead back to life, He has power over all things, the Final Hour is certainly coming with zero doubt, and Allah will surely resurrect everyone in the graves."
+        }
+      ],
+      "content_markdown": "• Stages of Human Creation: Allah addresses anyone doubting the Resurrection by pointing to their own origin: He created humanity from dust (Adam), then from a tiny drop of fluid (nutfah), then a clinging clot ('alaqah), then a small lump of flesh (mudghah) - partly formed and partly unformed - keeping babies safely in the womb until an appointed time, bringing them out as infants, letting them grow to full strength, and letting some pass away early while others reach the weakest stage of old age where they forget what they once knew.\n• Reviving the Dead Earth: Allah gives a second everyday proof: you see dry, lifeless earth, yet the moment He sends rain down upon it, it stirs, swells, and bursts forth with every beautiful kind of plant.\n• Five Clear Truths: These signs prove that Allah alone is the Truth, He brings the dead back to life, He has power over all things, the Final Hour is certainly coming with zero doubt, and Allah will surely resurrect everyone in the graves.",
+      "reflection": "Ibn Kathir and As-Sa'di note the brilliance of pairing these two signs: every single human being is living proof of Allah's power to create from nothing, and every spring season is visual proof of His power to bring dead things back to life. The One who brings a thriving garden out of barren dirt can easily bring human beings out of their graves."
+    },
+    {
+      "section_title": "Arrogant Leaders Who Mislead Others",
+      "verse_range": "8-10",
+      "start_verse": 8,
+      "end_verse": 10,
+      "points": [
+        {
+          "label": "Arguing Without Proof",
+          "detail": "There are arrogant people who dispute about Allah without any knowledge, without guidance, and without an enlightening Book from Allah."
+        },
+        {
+          "label": "Turning Away in Pride",
+          "detail": "They twist their necks in sheer arrogance to turn others away from Allah's path."
+        },
+        {
+          "label": "Double Consequence",
+          "detail": "For such a person, there is disgrace in this worldly life, and on the Day of Resurrection Allah will make them taste the punishment of burning - told clearly that this is strictly for what their own hands sent ahead, for Allah is never unjust to His servants."
+        }
+      ],
+      "content_markdown": "• Arguing Without Proof: There are arrogant people who dispute about Allah without any knowledge, without guidance, and without an enlightening Book from Allah.\n• Turning Away in Pride: They twist their necks in sheer arrogance to turn others away from Allah's path.\n• Double Consequence: For such a person, there is disgrace in this worldly life, and on the Day of Resurrection Allah will make them taste the punishment of burning - told clearly that this is strictly for what their own hands sent ahead, for Allah is never unjust to His servants.",
+      "reflection": "Classical commentators explain that while verses 3-4 described blind followers, verses 8-10 describe arrogant leaders (such as Abu Jahl and An-Nadr ibn al-Harith in Makkah) who twisted their faces away in pride whenever the Quran was recited. True knowledge brings humility, whereas ignorance paired with arrogance destroys both oneself and others."
+    },
+    {
+      "section_title": "Worshipping Allah \"On the Edge\" vs. Unshakable Faith",
+      "verse_range": "11-16",
+      "start_verse": 11,
+      "end_verse": 16,
+      "points": [
+        {
+          "label": "Fair-Weather Faith",
+          "detail": "Among people is one who worships Allah \"on an edge\" ('ala harf). If worldly ease and good fortune touch him, he feels content; but the moment a trial or hardship strikes him, he flips right back into disbelief - losing both this world and the Hereafter, which is the clearest loss."
+        },
+        {
+          "label": "Calling on Powerless Idols",
+          "detail": "Instead of Allah, he calls upon false gods that can neither harm nor benefit him - in fact, calling on them brings harm much closer than any benefit. What a terrible protector and companion!"
+        },
+        {
+          "label": "Reward of the Sincere",
+          "detail": "In contrast, Allah will admit those who firmly believe and do righteous deeds into Gardens beneath which rivers flow, for Allah does whatever He wills."
+        },
+        {
+          "label": "Certainty of Allah's Help",
+          "detail": "Whoever angrily thinks Allah will never help His Messenger in this world and the Hereafter can stretch a rope to the ceiling and cut off their own breath - their rage and plots can never stop Allah's victory. Allah has sent down the Quran as clear verses, and He guides whomever He wills."
+        }
+      ],
+      "content_markdown": "• Fair-Weather Faith: Among people is one who worships Allah \"on an edge\" ('ala harf). If worldly ease and good fortune touch him, he feels content; but the moment a trial or hardship strikes him, he flips right back into disbelief - losing both this world and the Hereafter, which is the clearest loss.\n• Calling on Powerless Idols: Instead of Allah, he calls upon false gods that can neither harm nor benefit him - in fact, calling on them brings harm much closer than any benefit. What a terrible protector and companion!\n• Reward of the Sincere: In contrast, Allah will admit those who firmly believe and do righteous deeds into Gardens beneath which rivers flow, for Allah does whatever He wills.\n• Certainty of Allah's Help: Whoever angrily thinks Allah will never help His Messenger in this world and the Hereafter can stretch a rope to the ceiling and cut off their own breath - their rage and plots can never stop Allah's victory. Allah has sent down the Quran as clear verses, and He guides whomever He wills.",
+      "reflection": "In Sahih al-Bukhari (4742), Ibn Abbas (RA) explained that verse 11 described certain Bedouins who came to Madinah: if their wives gave birth to sons and their horses foaled healthy colts, they said, \"This religion is good!\" - but if hardship hit their families or livestock, they blamed Islam and walked away. This verse is a timeless check on our own sincerity: true faith is not a business deal for worldly comfort; it stands firm in both ease and hardship."
+    },
+    {
+      "section_title": "Final Judgment Between Communities and Universal Prostration",
+      "verse_range": "17-18",
+      "start_verse": 17,
+      "end_verse": 18,
+      "points": [
+        {
+          "label": "Allah Will Judge Everyone",
+          "detail": "On the Day of Resurrection, Allah will clearly judge between the believers, the Jews, the Sabians, the Christians, the Magians (Zoroastrians), and the polytheists - for Allah is a Witness over everything."
+        },
+        {
+          "label": "Everything Prostrates to Allah (First Sajdah)",
+          "detail": "Have you not seen that everyone in the heavens and on earth prostrates to Allah - along with the sun, the moon, the stars, the mountains, the trees, the moving creatures, and many human beings?"
+        },
+        {
+          "label": "Honor Belongs Only to Allah",
+          "detail": "Many other humans deserve punishment because of their stubbornness. Whoever Allah humiliates, no one can ever honor - for Allah does whatever He wills."
+        }
+      ],
+      "content_markdown": "• Allah Will Judge Everyone: On the Day of Resurrection, Allah will clearly judge between the believers, the Jews, the Sabians, the Christians, the Magians (Zoroastrians), and the polytheists - for Allah is a Witness over everything.\n• Everything Prostrates to Allah (First Sajdah): Have you not seen that everyone in the heavens and on earth prostrates to Allah - along with the sun, the moon, the stars, the mountains, the trees, the moving creatures, and many human beings?\n• Honor Belongs Only to Allah: Many other humans deserve punishment because of their stubbornness. Whoever Allah humiliates, no one can ever honor - for Allah does whatever He wills.",
+      "reflection": "Surah Al-Hajj is uniquely honored with two verses of prostration (Sajdah) - here in verse 18 and again in verse 77. Classical scholars highlight the humbling contrast in verse 18: the massive sun, mountains, and entire cosmos submit to Allah without hesitation, while only a portion of humanity - blessed with free will - chooses to rebel. True dignity comes only from submitting to Allah."
+    },
+    {
+      "section_title": "The Two Opponents: Hellfire vs. Eternal Paradise",
+      "verse_range": "19-24",
+      "start_verse": 19,
+      "end_verse": 24,
+      "points": [
+        {
+          "label": "Two Opposing Sides",
+          "detail": "These are two opposing groups who disputed regarding their Lord (believers vs. disbelievers)."
+        },
+        {
+          "label": "Punishment of Disbelievers",
+          "detail": "For those who disbelieved, garments of fire will be cut out for them, boiling water will be poured over their heads - melting what is inside their bellies and their skins - and they will be struck with hooked rods of iron. Every time they try to escape the agony, they will be pushed back into the burning torment."
+        },
+        {
+          "label": "Delights of Paradise",
+          "detail": "In stunning contrast, Allah will admit those who believed and did righteous deeds into Gardens beneath which rivers flow. They will be adorned with bracelets of gold and pearls, their garments will be pure silk, and they were guided to pure, gentle speech (at-tayyib min al-qawl) and the path of the Praiseworthy."
+        }
+      ],
+      "content_markdown": "• Two Opposing Sides: These are two opposing groups who disputed regarding their Lord (believers vs. disbelievers).\n• Punishment of Disbelievers: For those who disbelieved, garments of fire will be cut out for them, boiling water will be poured over their heads - melting what is inside their bellies and their skins - and they will be struck with hooked rods of iron. Every time they try to escape the agony, they will be pushed back into the burning torment.\n• Delights of Paradise: In stunning contrast, Allah will admit those who believed and did righteous deeds into Gardens beneath which rivers flow. They will be adorned with bracelets of gold and pearls, their garments will be pure silk, and they were guided to pure, gentle speech (at-tayyib min al-qawl) and the path of the Praiseworthy.",
+      "reflection": "In Sahih al-Bukhari (3965, 3966, 4743) and Sahih Muslim, Abu Dharr (RA) and Ali ibn Abi Talib (RA) affirmed that verse 19 was revealed regarding the opening duel of the Battle of Badr - when Hamzah, Ali, and Ubaydah ibn al-Harith (RA) stepped forward for Islam against Utbah, Shaybah, and Al-Walid from the Quraysh - while its general meaning includes every believer and disbeliever until the Day of Judgment."
+    },
+    {
+      "section_title": "The Sacred Mosque, Prophet Ibrahim (AS), and the Call to Hajj",
+      "verse_range": "25-29",
+      "start_verse": 25,
+      "end_verse": 29,
+      "points": [
+        {
+          "label": "Barring People From the Kaaba",
+          "detail": "Those who disbelieve and block people from Allah's path and from Al-Masjid al-Haram - which Allah made equal for both local residents and visitors from afar - and anyone who even intends wrongdoing or injustice inside it will taste a painful punishment."
+        },
+        {
+          "label": "Purifying the House",
+          "detail": "Allah showed Prophet Ibrahim (AS) the exact site of the Sacred House, commanding him: associate nothing with Me, and purify My House for those who walk around it (Tawaf), stand in prayer, bow, and prostrate."
+        },
+        {
+          "label": "The Universal Call to Hajj",
+          "detail": "Allah commanded Ibrahim (AS): \"Proclaim to humanity the Pilgrimage (Hajj)! They will come to you on foot and on every lean camel, arriving from every distant mountain pass."
+        },
+        {
+          "label": "Purpose and Rites of Hajj",
+          "detail": "They come to witness immense spiritual and worldly benefits, mention Allah's name on the appointed days over the sacrificial livestock He provided - eating from them and feeding the distressed poor - then complete their cleansing (tafath), fulfill their vows, and perform Tawaf around the Ancient House (Al-Bayt al-'Atiq)."
+        }
+      ],
+      "content_markdown": "• Barring People From the Kaaba: Those who disbelieve and block people from Allah's path and from Al-Masjid al-Haram - which Allah made equal for both local residents and visitors from afar - and anyone who even intends wrongdoing or injustice inside it will taste a painful punishment.\n• Purifying the House: Allah showed Prophet Ibrahim (AS) the exact site of the Sacred House, commanding him: associate nothing with Me, and purify My House for those who walk around it (Tawaf), stand in prayer, bow, and prostrate.\n• The Universal Call to Hajj: Allah commanded Ibrahim (AS): \"Proclaim to humanity the Pilgrimage (Hajj)! They will come to you on foot and on every lean camel, arriving from every distant mountain pass.\"\n• Purpose and Rites of Hajj: They come to witness immense spiritual and worldly benefits, mention Allah's name on the appointed days over the sacrificial livestock He provided - eating from them and feeding the distressed poor - then complete their cleansing (tafath), fulfill their vows, and perform Tawaf around the Ancient House (Al-Bayt al-'Atiq).",
+      "reflection": "Classical scholars like Ibn Kathir recount that when Allah commanded Ibrahim (AS) to call all humanity to Hajj from the empty, silent desert of Makkah, Ibrahim wondered how his human voice could possibly reach the world. Allah assured him: \"Your duty is to call, and Mine is to make it reach.\" Centuries later, millions of pilgrims from every corner of the globe still answer that ancient call every single year, proving the miracle of Allah's promise. Notice also that in verse 25, Makkah is so sacred that merely intending deliberate wrongdoing there carries accountability."
+    },
+    {
+      "section_title": "Honoring Allah's Sacred Symbols and Avoiding Shirk",
+      "verse_range": "30-33",
+      "start_verse": 30,
+      "end_verse": 33,
+      "points": [
+        {
+          "label": "Respecting Sacred Ordinances",
+          "detail": "Whoever honors the sacred ordinances (hurumat) of Allah, that is best for them with their Lord. All livestock are lawful except what has been explicitly forbidden - so stay far away from the filth of idols and stay away from false speech (qawl az-zur)."
+        },
+        {
+          "label": "The Parable of Falling From the Sky",
+          "detail": "Remain purely devoted to Allah (hunafa'), associating nothing with Him. Whoever associates partners with Allah is like someone who has fallen from the sky, only to be snatched away by birds or blown by the wind into a deep, distant pit."
+        },
+        {
+          "label": "Piety of the Heart",
+          "detail": "Whoever honors the symbols (sha'a'ir) of Allah - truly, that comes from the taqwa (piety and mindfulness) of the hearts. Believers benefit from the sacrificial animals until their appointed time, and their final place of sacrifice is near the Ancient House."
+        }
+      ],
+      "content_markdown": "• Respecting Sacred Ordinances: Whoever honors the sacred ordinances (hurumat) of Allah, that is best for them with their Lord. All livestock are lawful except what has been explicitly forbidden - so stay far away from the filth of idols and stay away from false speech (qawl az-zur).\n• The Parable of Falling From the Sky: Remain purely devoted to Allah (hunafa'), associating nothing with Him. Whoever associates partners with Allah is like someone who has fallen from the sky, only to be snatched away by birds or blown by the wind into a deep, distant pit.\n• Piety of the Heart: Whoever honors the symbols (sha'a'ir) of Allah - truly, that comes from the taqwa (piety and mindfulness) of the hearts. Believers benefit from the sacrificial animals until their appointed time, and their final place of sacrifice is near the Ancient House.",
+      "reflection": "Tafsir scholars admire two powerful lessons here. First, verse 30 places false testimony and lying right next to idol worship, showing how destructive dishonesty is to faith. Second, verse 31 paints a terrifying picture of shirk: abandoning pure monotheism leaves the human soul weightless, helpless, and torn apart by every passing desire - like a body falling from the sky. Meanwhile, honoring Allah's symbols (like the Kaaba, Safa and Marwa, and the rites of Hajj) is a direct mirror of the taqwa inside a person's heart."
+    },
+    {
+      "section_title": "The True Spirit of Sacrifice (Taqwa, Not Meat or Blood)",
+      "verse_range": "34-37",
+      "start_verse": 34,
+      "end_verse": 37,
+      "points": [
+        {
+          "label": "Sacrifice in Every Nation",
+          "detail": "For every nation, Allah appointed rites of sacrifice so they would mention Allah's name over the livestock He provided them. Your God is One God, so submit to Him alone - and give good news to the humble (Al-Mukhbitin)."
+        },
+        {
+          "label": "Four Traits of the Humble",
+          "detail": "They are those whose hearts tremble with awe when Allah is mentioned, who stay patient through whatever hardship strikes them, who establish prayer, and who spend in charity from what Allah provided them."
+        },
+        {
+          "label": "Gratitude and Sharing",
+          "detail": "Allah made the large sacrificial animals (budn) among His symbols for your benefit. Mention Allah's name over them as they stand lined up, and once they fall on their sides, eat from them and feed both the needy who stay quiet out of dignity and the needy who ask."
+        },
+        {
+          "label": "What Actually Reaches Allah (Verse 37)",
+          "detail": "Neither their meat nor their blood ever reaches Allah - rather, what reaches Him is the taqwa (piety and sincerity) from you.\" Thus He subjected them to you so you may magnify Allah for guiding you, and give good news to the doers of good (Al-Muhsinin)."
+        }
+      ],
+      "content_markdown": "• Sacrifice in Every Nation: For every nation, Allah appointed rites of sacrifice so they would mention Allah's name over the livestock He provided them. Your God is One God, so submit to Him alone - and give good news to the humble (Al-Mukhbitin).\n• Four Traits of the Humble: They are those whose hearts tremble with awe when Allah is mentioned, who stay patient through whatever hardship strikes them, who establish prayer, and who spend in charity from what Allah provided them.\n• Gratitude and Sharing: Allah made the large sacrificial animals (budn) among His symbols for your benefit. Mention Allah's name over them as they stand lined up, and once they fall on their sides, eat from them and feed both the needy who stay quiet out of dignity and the needy who ask.\n• What Actually Reaches Allah (Verse 37): \"Neither their meat nor their blood ever reaches Allah - rather, what reaches Him is the taqwa (piety and sincerity) from you.\" Thus He subjected them to you so you may magnify Allah for guiding you, and give good news to the doers of good (Al-Muhsinin).",
+      "reflection": "Ibn Kathir explains the direct historical background of verse 37: during pre-Islamic times, pagan Arabs used to smear the blood of sacrificed animals onto the walls of the Kaaba and place their meat on altars, thinking it honored the House. Islam abolished that superstition forever, reminding believers that Allah does not need meat or blood - He looks strictly at the sincerity, gratitude, and generosity inside our hearts."
+    },
+    {
+      "section_title": "Allah Defends Believers and the First Permission to Fight",
+      "verse_range": "38-41",
+      "start_verse": 38,
+      "end_verse": 41,
+      "points": [
+        {
+          "label": "Divine Protection",
+          "detail": "Indeed, Allah defends those who believe; Allah does not love any treacherous, ungrateful person."
+        },
+        {
+          "label": "Permission for Self-Defense",
+          "detail": "Permission to fight is now granted to those who are being fought against, because they have been severely wronged - and Allah is fully able to grant them victory."
+        },
+        {
+          "label": "Why They Were Driven Out",
+          "detail": "They were expelled from their homes unjustly for no crime other than saying, \"Our Lord is Allah."
+        },
+        {
+          "label": "Protecting All Houses of Worship",
+          "detail": "If Allah did not check some people by means of others, monasteries, churches, synagogues, and mosques - in which Allah's name is frequently remembered - would surely have been destroyed. Allah will definitely help those who help His cause, for Allah is All-Strong, Almighty."
+        },
+        {
+          "label": "How Believers Use Power (Verse 41)",
+          "detail": "If Allah grants believers authority and stability on earth, they do not become tyrants - instead, they establish prayer, pay Zakah, encourage what is right, and forbid what is wrong. And the final outcome of all affairs rests with Allah."
+        }
+      ],
+      "content_markdown": "• Divine Protection: Indeed, Allah defends those who believe; Allah does not love any treacherous, ungrateful person.\n• Permission for Self-Defense: Permission to fight is now granted to those who are being fought against, because they have been severely wronged - and Allah is fully able to grant them victory.\n• Why They Were Driven Out: They were expelled from their homes unjustly for no crime other than saying, \"Our Lord is Allah.\"\n• Protecting All Houses of Worship: If Allah did not check some people by means of others, monasteries, churches, synagogues, and mosques - in which Allah's name is frequently remembered - would surely have been destroyed. Allah will definitely help those who help His cause, for Allah is All-Strong, Almighty.\n• How Believers Use Power (Verse 41): If Allah grants believers authority and stability on earth, they do not become tyrants - instead, they establish prayer, pay Zakah, encourage what is right, and forbid what is wrong. And the final outcome of all affairs rests with Allah.",
+      "reflection": "Classical scholars (including Ibn Kathir and Al-Tabari, citing Ibn Abbas) unanimously note that verses 39-40 were the very first verses in the Quran permitting Muslims to fight back after thirteen years of enduring torture, murder, and exile in Makkah. Notice the deeply ethical purpose stated right inside verse 40: self-defense is permitted to stop oppression and protect religious freedom - explicitly safeguarding monasteries, churches, synagogues, and mosques alike."
+    },
+    {
+      "section_title": "Comforting the Prophet, Past Nations, and Blindness of the Heart",
+      "verse_range": "42-48",
+      "start_verse": 42,
+      "end_verse": 48,
+      "points": [
+        {
+          "label": "Rejection Is Nothing New",
+          "detail": "Allah comforts Prophet Muhammad (صلى الله عليه وسلم) that if his people deny him, earlier nations also denied their prophets - the people of Nuh, 'Ad, Thamud, Ibrahim, Lut, Madyan, and Musa (AS). Allah gave those disbelievers time before seizing them with severe punishment."
+        },
+        {
+          "label": "Silent Ruins as Lessons",
+          "detail": "How many unjust towns did Allah destroy, leaving their roofs collapsed, their wells abandoned, and their towering palaces completely empty!"
+        },
+        {
+          "label": "Blindness of the Heart (Verse 46)",
+          "detail": "Have they not traveled through the earth so their hearts could understand and their ears could hear? \"For indeed, it is not the eyes that are blind, but it is the hearts within the chests that grow blind."
+        },
+        {
+          "label": "Allah's Timing",
+          "detail": "They mockingly ask the Prophet (صلى الله عليه وسلم) to rush the punishment. Allah never breaks His promise, yet a single day with your Lord is like a thousand years of human counting. He granted respite to many unjust cities before seizing them - and to Him is the final return."
+        }
+      ],
+      "content_markdown": "• Rejection Is Nothing New: Allah comforts Prophet Muhammad (صلى الله عليه وسلم) that if his people deny him, earlier nations also denied their prophets - the people of Nuh, 'Ad, Thamud, Ibrahim, Lut, Madyan, and Musa (AS). Allah gave those disbelievers time before seizing them with severe punishment.\n• Silent Ruins as Lessons: How many unjust towns did Allah destroy, leaving their roofs collapsed, their wells abandoned, and their towering palaces completely empty!\n• Blindness of the Heart (Verse 46): Have they not traveled through the earth so their hearts could understand and their ears could hear? \"For indeed, it is not the eyes that are blind, but it is the hearts within the chests that grow blind.\"\n• Allah's Timing: They mockingly ask the Prophet (صلى الله عليه وسلم) to rush the punishment. Allah never breaks His promise, yet a single day with your Lord is like a thousand years of human counting. He granted respite to many unjust cities before seizing them - and to Him is the final return.",
+      "reflection": "Verse 46 contains one of the most profound psychological truths in the Quran: physical eyesight is useless if arrogance blinds the heart. People can walk past historical ruins, read clear scriptures, and witness miracles, yet still refuse to reflect because their inner vision is shut. Meanwhile, Allah's delay in punishing tyrants is never weakness - it is patience measured by His own timeless wisdom."
+    },
+    {
+      "section_title": "The Clear Warner, Shaytan's Interference, and Firm Faith",
+      "verse_range": "49-57",
+      "start_verse": 49,
+      "end_verse": 57,
+      "points": [
+        {
+          "label": "The Clear Role of the Prophet",
+          "detail": "Tell humanity: \"I am only a clear warner to you.\" Those who believe and do good deeds will have forgiveness and noble provision, while those who strive to defeat Allah's verses will be companions of Hellfire."
+        },
+        {
+          "label": "Protecting Revelation From Shaytan",
+          "detail": "Whenever Allah sent a messenger or prophet before, Shaytan tried to cast whispers or confusion into what they recited or wished - but Allah completely abolishes whatever Shaytan casts and makes His own verses firm and clear, for Allah is All-Knowing, All-Wise."
+        },
+        {
+          "label": "A Test for Hearts",
+          "detail": "Allah allows Shaytan's interference to serve as a test (fitnah) for those with diseased, hardened hearts, while those blessed with true knowledge recognize with certainty that this Quran is the absolute truth from their Lord - so they believe in it, and their hearts humble themselves to Him."
+        },
+        {
+          "label": "Two Final Destinations",
+          "detail": "Disbelievers will stay in doubt until the Hour strikes them suddenly. On that Day, all sovereignty belongs strictly to Allah: believers who did righteous deeds will be in Gardens of Bliss, while those who denied Allah's verses will face a humiliating punishment."
+        }
+      ],
+      "content_markdown": "• The Clear Role of the Prophet: Tell humanity: \"I am only a clear warner to you.\" Those who believe and do good deeds will have forgiveness and noble provision, while those who strive to defeat Allah's verses will be companions of Hellfire.\n• Protecting Revelation From Shaytan: Whenever Allah sent a messenger or prophet before, Shaytan tried to cast whispers or confusion into what they recited or wished - but Allah completely abolishes whatever Shaytan casts and makes His own verses firm and clear, for Allah is All-Knowing, All-Wise.\n• A Test for Hearts: Allah allows Shaytan's interference to serve as a test (fitnah) for those with diseased, hardened hearts, while those blessed with true knowledge recognize with certainty that this Quran is the absolute truth from their Lord - so they believe in it, and their hearts humble themselves to Him.\n• Two Final Destinations: Disbelievers will stay in doubt until the Hour strikes them suddenly. On that Day, all sovereignty belongs strictly to Allah: believers who did righteous deeds will be in Gardens of Bliss, while those who denied Allah's verses will face a humiliating punishment.",
+      "reflection": "Tafsir scholars like As-Sa'di and Ibn Kathir emphasize the reassuring promise in verse 52: Allah actively guards His revelation and removes every falsehood Shaytan tries to throw in its path. Doubts and attacks on Islam only expose hypocrites, while strengthening the certainty and humility of people of genuine knowledge."
+    },
+    {
+      "section_title": "Reward of Migration, Fair Retaliation, and Allah's Absolute Truth",
+      "verse_range": "58-62",
+      "start_verse": 58,
+      "end_verse": 62,
+      "points": [
+        {
+          "label": "Generous Provision for Migrants",
+          "detail": "Those who migrated for Allah's sake and were then killed or died naturally - Allah will surely bless them with a wonderful, generous provision (rizqan hasanan), for Allah is the Best of Providers, admitting them into a place that will deeply please them."
+        },
+        {
+          "label": "Fair Retaliation",
+          "detail": "Whoever retaliates strictly equal to the wrong done to them and is then oppressed again - Allah will surely help and support them, for Allah is Pardoning and Forgiving."
+        },
+        {
+          "label": "Signs of Absolute Control",
+          "detail": "That is because Allah seamlessly merges the night into the day and the day into the night, and He is All-Hearing, All-Seeing. Allah alone is the Ultimate Truth (Al-Haqq), everything people worship besides Him is utter falsehood (Al-Batil), and Allah is the Most High, the Most Great."
+        }
+      ],
+      "content_markdown": "• Generous Provision for Migrants: Those who migrated for Allah's sake and were then killed or died naturally - Allah will surely bless them with a wonderful, generous provision (rizqan hasanan), for Allah is the Best of Providers, admitting them into a place that will deeply please them.\n• Fair Retaliation: Whoever retaliates strictly equal to the wrong done to them and is then oppressed again - Allah will surely help and support them, for Allah is Pardoning and Forgiving.\n• Signs of Absolute Control: That is because Allah seamlessly merges the night into the day and the day into the night, and He is All-Hearing, All-Seeing. Allah alone is the Ultimate Truth (Al-Haqq), everything people worship besides Him is utter falsehood (Al-Batil), and Allah is the Most High, the Most Great.",
+      "reflection": "Ibn Kathir notes how verse 58 comforted the families of the Muhajirun (early migrants) who worried that loved ones who died naturally after leaving Makkah might miss the honor of those martyred in battle. Allah assured them that both receive the same generous, pleasing reward - because their sacrifice of leaving home for Allah was already accepted."
+    },
+    {
+      "section_title": "Everyday Signs of Allah's Mercy and Human Ingratitude",
+      "verse_range": "63-66",
+      "start_verse": 63,
+      "end_verse": 66,
+      "points": [
+        {
+          "label": "Green Earth From Rain",
+          "detail": "Have you not seen that Allah sends down rain from the sky, turning the earth lush and green? Truly, Allah is Most Subtle and Kind (Latif), All-Aware."
+        },
+        {
+          "label": "Owner of Everything",
+          "detail": "Everything in the heavens and on earth belongs solely to Him, and Allah is completely Free of Need (Al-Ghani) and Worthy of all praise (Al-Hamid)."
+        },
+        {
+          "label": "Ships and the Held-Up Sky",
+          "detail": "Have you not seen that Allah subjected everything on earth to your benefit, along with ships sailing smoothly across the sea by His command? And He holds the sky up so it does not collapse onto the earth except by His permission - truly, Allah is Most Kind and Most Merciful to humanity."
+        },
+        {
+          "label": "Life, Death, and Ingratitude",
+          "detail": "He is the One who gave you life, will cause you to die, and will then bring you back to life - yet human beings are deeply ungrateful!"
+        }
+      ],
+      "content_markdown": "• Green Earth From Rain: Have you not seen that Allah sends down rain from the sky, turning the earth lush and green? Truly, Allah is Most Subtle and Kind (Latif), All-Aware.\n• Owner of Everything: Everything in the heavens and on earth belongs solely to Him, and Allah is completely Free of Need (Al-Ghani) and Worthy of all praise (Al-Hamid).\n• Ships and the Held-Up Sky: Have you not seen that Allah subjected everything on earth to your benefit, along with ships sailing smoothly across the sea by His command? And He holds the sky up so it does not collapse onto the earth except by His permission - truly, Allah is Most Kind and Most Merciful to humanity.\n• Life, Death, and Ingratitude: He is the One who gave you life, will cause you to die, and will then bring you back to life - yet human beings are deeply ungrateful!",
+      "reflection": "Classical commentators highlight the gentle divine name Al-Latif (the Most Subtle and Kind) in verse 63: Allah arranges countless quiet, delicate miracles - like rain nourishing roots underground and holding the vast atmosphere safely above our heads - every single second without us even noticing. Pausing to recognize these daily mercies cures human ingratitude."
+    },
+    {
+      "section_title": "Rites for Every Nation, Avoiding Vain Arguments, and Hostility to the Truth",
+      "verse_range": "67-72",
+      "start_verse": 67,
+      "end_verse": 72,
+      "points": [
+        {
+          "label": "Every Nation Has Its Rites",
+          "detail": "For every community, Allah appointed specific rites of worship (mansakan) that they follow. So do not let deniers drag you into endless, fruitless arguments about religious rituals - instead, call them directly to your Lord, for you are firmly on straight guidance."
+        },
+        {
+          "label": "How to Handle Stubborn Arguers",
+          "detail": "If they still argue with you, simply say: \"Allah knows best what you are doing. Allah will judge between you on the Day of Resurrection regarding everything you differed over."
+        },
+        {
+          "label": "Everything Is Recorded",
+          "detail": "Do you not know that Allah knows everything in the heavens and the earth? All of it is recorded in a clear Book (Al-Lawh al-Mahfuz) - and that is completely easy for Allah."
+        },
+        {
+          "label": "Hostility Toward the Quran",
+          "detail": "Polytheists worship idols for which Allah sent down zero proof and of which they have no real knowledge. When Allah's clear verses are recited to them, you can literally see anger and hatred on their faces - they almost attack the people reciting the Quran to them! Tell them: \"Shall I tell you of something far worse than your anger? The Fire! Allah has promised it to the disbelievers - what a terrible destination!"
+        }
+      ],
+      "content_markdown": "• Every Nation Has Its Rites: For every community, Allah appointed specific rites of worship (mansakan) that they follow. So do not let deniers drag you into endless, fruitless arguments about religious rituals - instead, call them directly to your Lord, for you are firmly on straight guidance.\n• How to Handle Stubborn Arguers: If they still argue with you, simply say: \"Allah knows best what you are doing. Allah will judge between you on the Day of Resurrection regarding everything you differed over.\"\n• Everything Is Recorded: Do you not know that Allah knows everything in the heavens and the earth? All of it is recorded in a clear Book (Al-Lawh al-Mahfuz) - and that is completely easy for Allah.\n• Hostility Toward the Quran: Polytheists worship idols for which Allah sent down zero proof and of which they have no real knowledge. When Allah's clear verses are recited to them, you can literally see anger and hatred on their faces - they almost attack the people reciting the Quran to them! Tell them: \"Shall I tell you of something far worse than your anger? The Fire! Allah has promised it to the disbelievers - what a terrible destination!",
+      "reflection": "Tafsir scholars note the practical wisdom in verses 67-69: when opponents argue just to waste time and distract from the core truth of monotheism, a believer should not get trapped in petty debates. State the truth calmly, leave final judgment to Allah, and remember that hostile reactions to clear truth usually mean the opponent has no logical proof left."
+    },
+    {
+      "section_title": "The Parable of the Fly and Allah's Chosen Messengers",
+      "verse_range": "73-76",
+      "start_verse": 73,
+      "end_verse": 76,
+      "points": [
+        {
+          "label": "The Challenge of a Single Fly (Verse 73)",
+          "detail": "O humanity! A parable is presented, so listen carefully to it! Indeed, those whom you invoke besides Allah will never be able to create even a single fly - even if they all gathered together to do it! And if a fly were to snatch anything away from them, they could never recover it from the fly! How weak are both the seeker and the sought!"
+        },
+        {
+          "label": "Failing to Estimate Allah",
+          "detail": "They have not valued or respected Allah as He truly deserves - for Allah is All-Strong and Almighty."
+        },
+        {
+          "label": "Messengers From Angels and Humans",
+          "detail": "Allah chooses messengers from among the angels (like Jibril) and from among human beings (the prophets). Truly, Allah is All-Hearing, All-Seeing; He knows what is before them and what is behind them, and all matters return to Allah alone."
+        }
+      ],
+      "content_markdown": "• The Challenge of a Single Fly (Verse 73): \"O humanity! A parable is presented, so listen carefully to it! Indeed, those whom you invoke besides Allah will never be able to create even a single fly - even if they all gathered together to do it! And if a fly were to snatch anything away from them, they could never recover it from the fly! How weak are both the seeker and the sought!\"\n• Failing to Estimate Allah: They have not valued or respected Allah as He truly deserves - for Allah is All-Strong and Almighty.\n• Messengers From Angels and Humans: Allah chooses messengers from among the angels (like Jibril) and from among human beings (the prophets). Truly, Allah is All-Hearing, All-Seeing; He knows what is before them and what is behind them, and all matters return to Allah alone.",
+      "reflection": "Imam al-Qurtubi and Ibn Kathir explain why Allah chose the humble fly for this unforgettable parable: it is one of the smallest, weakest, and most overlooked creatures on earth. Yet all the false gods, idols, and human powers combined could never create a single living fly - nor could a lifeless statue even chase away a fly that lands on its offerings and takes a drop of honey or perfume! It completely shatters the illusion of worshipping anything other than the Almighty Creator."
+    },
+    {
+      "section_title": "Prostration, Striving for Allah, and the Honor of Being Called \"Muslims",
+      "verse_range": "77-78",
+      "start_verse": 77,
+      "end_verse": 78,
+      "points": [
+        {
+          "label": "The Call to Worship and Goodness (Second Sajdah)",
+          "detail": "O you who believe! Bow down, prostrate yourselves, worship your Lord, and do good - so that you may succeed."
+        },
+        {
+          "label": "Strive Sincerely for Allah",
+          "detail": "Strive for Allah's cause as He truly deserves (haqqa jihadihi). He has chosen you and has not placed any unbearable hardship upon you in religion (wa ma ja'ala 'alaykum fid-dini min haraj)."
+        },
+        {
+          "label": "The Legacy of Ibrahim and the Name \"Muslims",
+          "detail": "Follow the pure religion of your forefather Ibrahim (AS). Allah Himself named you \"Muslims\" (Al-Muslimin) in earlier scriptures and in this Quran - so that the Messenger may be a witness over you, and you may be witnesses over humanity."
+        },
+        {
+          "label": "The Closing Command",
+          "detail": "Establish regular prayer, give Zakah, and hold fast to Allah (wa'tasimu billah). He is your Protector (Mawla) - \"and what an excellent Protector, and what an excellent Helper!"
+        }
+      ],
+      "content_markdown": "• The Call to Worship and Goodness (Second Sajdah): \"O you who believe! Bow down, prostrate yourselves, worship your Lord, and do good - so that you may succeed.\"\n• Strive Sincerely for Allah: Strive for Allah's cause as He truly deserves (haqqa jihadihi). He has chosen you and has not placed any unbearable hardship upon you in religion (wa ma ja'ala 'alaykum fid-dini min haraj).\n• The Legacy of Ibrahim and the Name \"Muslims\": Follow the pure religion of your forefather Ibrahim (AS). Allah Himself named you \"Muslims\" (Al-Muslimin) in earlier scriptures and in this Quran - so that the Messenger may be a witness over you, and you may be witnesses over humanity.\n• The Closing Command: Establish regular prayer, give Zakah, and hold fast to Allah (wa'tasimu billah). He is your Protector (Mawla) - \"and what an excellent Protector, and what an excellent Helper!",
+      "reflection": "Classical scholars point out the deeply uplifting conclusion of Surah Al-Hajj. In verse 78, Allah affirms that Islam is a religion of ease and mercy, not crushing hardship - echoing the authentic Hadith in Sahih al-Bukhari (3038) where the Prophet (صلى الله عليه وسلم) advised: \"Make things easy and do not make them difficult; give glad tidings and do not repel people.\" Ending with the command to hold fast to Allah - the Best Protector and Best Helper - ties the entire Surah together: from the terrifying earthquake of verse 1 to the unshakable safety of relying on Allah in verse 78."
+    }
+  ],
+  "stories_in_surah": [
+    {
+      "source": "surah_section",
+      "id": "surah-22-sec-1",
+      "title": "The Epic Stories, Historical Events, and Parables of Surah Al-Hajj",
+      "arabic_name": "",
+      "badge": "Narrative",
+      "verse_reference": null,
+      "content": "According to classical scholars of Tafsir (such as Ibn Kathir, Al-Tabari, and Al-Qurtubi) and authentic Hadith collections, these are the detailed accounts of the major stories, historical events, and parables found in this chapter:"
+    },
+    {
+      "source": "surah_section",
+      "id": "surah-22-sec-2",
+      "title": "Prophet Ibrahim (AS), the Call to Hajj, and the True Spirit of Sacrifice (Verses 26-37)",
+      "arabic_name": "",
+      "badge": "Narrative",
+      "verse_reference": "26-37",
+      "content": "This is the heart of the Surah, reviving the sacred mission of Prophet Ibrahim (AS) in Makkah.\n\nThe Tafsir Details: Allah showed Prophet Ibrahim (AS) the exact location of the Sacred House (the Kaaba) and commanded him to worship Allah alone and purify the House for those who perform Tawaf, stand in prayer, bow, and prostrate. Then Allah gave him an astonishing command: \"Proclaim to humanity the Pilgrimage (Hajj)! They will come to you on foot and on every lean camel, arriving from every distant mountain pass.\"\n\nClassical scholars like Ibn Kathir recount that Ibrahim (AS) wondered how his single human voice in an empty desert valley could ever reach the entire world. Allah assured him: \"Your duty is to call, and Mine is to make it reach.\" Centuries later, millions of pilgrims from every corner of the earth still answer that ancient call every year.\n\nAllah then corrected a deeply rooted pagan superstition in verse 37. Before Islam, the pagan Arabs used to smear the blood of sacrificed animals onto the walls of the Kaaba and place their meat on altars, thinking it honored the House. Allah abolished this forever, declaring: \"Neither their meat nor their blood ever reaches Allah - rather, what reaches Him is the taqwa (piety and sincerity) from you."
+    }
+  ],
+  "deep_dives": [
+    {
+      "title": "The Unique Status of the Surah (The Two Prostrations)",
+      "verse_reference": null,
+      "content": "Surah Al-Hajj holds a unique distinction in the entire Quran: it is the only chapter honored with two verses of prostration (Sajdah) - first in verse 18 and again in verse 77.\n\nIn a narration recorded in Sunan Abi Dawud (1402) and Jami' at-Tirmidhi (578), the companion Uqbah ibn Amir (RA) asked Prophet Muhammad (pbuh): \"O Messenger of Allah, has Surah Al-Hajj been favored over the rest of the Quran with two prostrations?\" The Prophet (pbuh) replied: \"Yes, and whoever does not prostrate for them, let him not recite them."
+    },
+    {
+      "title": "The Terrifying Earthquake of the Hour (Verses 1-2)",
+      "verse_reference": "1-2",
+      "content": "The Surah opens with one of the most intense, unforgettable scenes of the Day of Judgment in the entire Quran.\n\nThe Tafsir Details: Allah warns all of humanity to be mindful of Him, because the earthquake of the Final Hour (Zalzalat as-Sa'ah) will be a tremendous, terrifying event. On that Day, every nursing mother will forget the baby she is breastfeeding, every pregnant woman will miscarry out of sheer terror, and people will stagger as if they are drunk - not from wine, but because the punishment of Allah is so severe.\n\nIn an authentic Hadith narrated by Abu Sa'id al-Khudri (RA) and recorded in Sahih al-Bukhari (3348, 4741) and Sahih Muslim (222a), the Prophet (pbuh) linked this Day to the moment Allah commands Prophet Adam (AS) to send forth the people of Hellfire - 999 out of every 1,000 people. When the companions heard this, they wept heavily in fear. The Prophet (pbuh) comforted them, explaining that the vast majority of that number will come from Gog and Magog (Ya'juj and Ma'juj), and gave them the joyful hope that his Ummah would make up a quarter, a third, or even half of the people of Paradise."
+    },
+    {
+      "title": "Worshipping Allah \"On the Edge\" (Verse 11)",
+      "verse_reference": "11",
+      "content": "In this verse, Allah exposes a fragile, fair-weather type of faith - someone who worships Allah \"on an edge\" ('ala harf).\n\nThe Tafsir Details: In an authentic Hadith narrated by Ibn Abbas (RA) and recorded in Sahih al-Bukhari (4742), he explained that this verse was revealed about certain Bedouins who used to come to Madinah and accept Islam. If their wives gave birth to healthy sons and their horses foaled healthy colts, they would say, \"This religion is good!\" and feel satisfied.\n\nHowever, the moment a trial struck - if they fell ill, lost livestock, or faced hardship - they would blame Islam and flip right back into disbelief. Allah warns that such a person loses both this world and the Hereafter, teaching every believer that true faith is not a business deal for worldly comfort; it stands firm in both ease and hardship."
+    },
+    {
+      "title": "The Opening Duel of the Battle of Badr (Verses 19-22)",
+      "verse_reference": "19-22",
+      "content": "In verse 19, Allah describes \"two adversaries who have disputed over their Lord\" - contrasting the terrifying punishment of the disbelievers with the eternal gardens, gold bracelets, and silk garments of the believers.\n\nThe Tafsir Details: In authentic Hadiths narrated by Abu Dharr (RA) and Ali ibn Abi Talib (RA), recorded in Sahih al-Bukhari (3965, 4743) and Sahih Muslim (3033), they explicitly affirmed that this verse was revealed regarding the historic opening duel of the Battle of Badr.\n\nBefore the main battle began, three champions from the pagan Quraysh - Utbah ibn Rabi'ah, his brother Shaybah, and his son Al-Walid - stepped forward demanding single combat. Three brave believers from the Prophet's family - Hamzah ibn Abd al-Muttalib, Ali ibn Abi Talib, and Ubaydah ibn al-Harith (RA) - stepped out to meet them. While the verse was revealed about those six men at Badr, classical scholars note its timeless lesson applies to every believer and disbeliever until the Day of Judgment."
+    },
+    {
+      "title": "The First Permission to Fight in Self-Defense (Verses 39-41)",
+      "verse_reference": "39-41",
+      "content": "For thirteen long years in Makkah, Muslims were beaten, starved, killed, and driven out of their homes, yet Allah commanded them to remain patient and not fight back. In Surah Al-Hajj, that historic chapter changed.\n\nThe Tafsir Details: Classical scholars (including Ibn Kathir and Al-Tabari, citing an authentic narration from Ibn Abbas in Jami' at-Tirmidhi 3171) explain that verse 39 was the very first verse revealed permitting the Muslims to fight in self-defense: \"Permission [to fight] has been given to those who are being fought, because they were wronged. And indeed, Allah is competent to give them victory.\"\n\nAllah immediately explained the noble purpose of this defense: the believers were unjustly driven from their homes solely for saying, \"Our Lord is Allah.\" Had Allah not allowed oppressed people to defend themselves against tyrants, monasteries, churches, synagogues, and mosques - in which Allah's name is frequently remembered - would all have been demolished. Allah then promised victory to those who, once given authority on earth, establish prayer, give Zakah, encourage good, and forbid evil."
+    },
+    {
+      "title": "The Parable of the Fly (Verse 73)",
+      "verse_reference": "73",
+      "content": "Near the end of the Surah, Allah delivers one of the sharpest, most memorable parables in the entire Quran to shatter idol worship forever.\n\nThe Tafsir Details: Allah calls out to all of humanity to listen carefully: \"Indeed, those whom you invoke besides Allah will never be able to create even a single fly - even if they all gathered together to do it! And if a fly were to snatch anything away from them, they could never recover it from the fly! How weak are both the seeker and the sought!\"\n\nClassical scholars like Imam al-Qurtubi and Ibn Kathir explain why Allah chose the humble fly: it is one of the smallest, weakest creatures on earth. Pagan worshippers used to smear honey, saffron, or perfume on their stone idols, and flies would land on the statues and eat it right off them - while the lifeless idols could not even shoo a single fly away, let alone create one. It completely exposes the helplessness of worshipping anything besides the Almighty Creator."
+    },
+    {
+      "title": "The Grand Finale: Ease in Religion and the Name \"Muslims\" (Verses 77-78)",
+      "verse_reference": "77-78",
+      "content": "Surah Al-Hajj closes with its second prostration (Sajdah) and a deeply uplifting call to action.\n\nThe Tafsir Details: Allah commands the believers to bow, prostrate, worship their Lord, do good, and strive sincerely for His cause. To remove any feeling of being overwhelmed, Allah reassures them: \"He has chosen you and has not placed upon you in the religion any unbearable hardship (haraj).\"\n\nFinally, Allah connects the believers directly back to the legacy of Prophet Ibrahim (AS), reminding them that Allah Himself named them \"Muslims\" in earlier scriptures and in this Quran. The Surah ends with a timeless anchor of strength: establish prayer, give Zakah, and hold fast to Allah - for He is your Protector (Mawla), \"and what an excellent Protector, and what an excellent Helper!\"\n\nSurah Al-Hajj carries the believer from the shaking terror of the Final Hour and the historic duel at Badr to the timeless call of Prophet Ibrahim (AS) in Makkah and the unforgettable lesson of the fly, proving that true honor, safety, and ease are found only in holding fast to Allah alone."
+    }
+  ],
+  "additional_notes": []
+}

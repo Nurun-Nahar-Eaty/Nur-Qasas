@@ -1,0 +1,513 @@
+{
+  "id": 15,
+  "name": "Al-Ḥijr",
+  "name_ascii": "Al-Hijr",
+  "arabic": "الحجر",
+  "meaning": "The Rocky Tract or The Stoneland (referring to the mountainous valley inhabited by the ancient tribe of Thamud).",
+  "revelation": "Makkan",
+  "revelation_details": "Makkan (99 verses, revealed in Makkah during a period of intense mockery, rejection, and hostility against Prophet Muhammad (pbuh) and the early believers).",
+  "verses_count": 99,
+  "theme": "Qur'an's protection, arrogance of Iblīs",
+  "core_theme": "This Surah is a powerful reassurance of Allah's absolute control and protection. Revealed when the Prophet (pbuh) was mocked and called mad by the leaders of Makkah, it guarantees that Allah Himself will guard the Quran forever. Through the stories of Adam and Iblis, Prophet Ibrahim, Prophet Lut, and the ruined stone cities of Al-Hijr, it proves that no fortress, wealth, or arrogance can ever protect wrongdoers from Allah's decree, while sincere believers are shielded by His mercy.",
+  "group": "10-16 (Faith, Revelation & Proofs)",
+  "name_origin": "The Surah gets its name from the ancient valley of Al-Hijr (modern-day Mada'in Salih in northwestern Arabia), mentioned in verses 80-84. It was the homeland of the powerful tribe of Thamud, to whom Prophet Salih (AS) was sent.\n\nThe Historical Context (Ruins Along the Trade Route): The pagan merchants of Makkah regularly traveled north toward Syria for trade, passing right beside the silent, empty stone ruins of Al-Hijr and the Dead Sea region (the ruins of Prophet Lut's people).\n\nAt the time this Surah was revealed, the Quraysh leaders were mocking Prophet Muhammad (pbuh), demanding that he bring angels down from the sky, and feeling untouchable because of their wealth and status in Makkah. By naming this Surah Al-Hijr, Allah pointed them directly to the carved mountain fortresses they saw with their own eyes on their journeys - a stark reminder that nations far stronger and wealthier than the Quraysh once mocked their messengers and were wiped out in a single morning.",
+  "why_named_sections": [],
+  "verse_breakdowns": [
+    {
+      "section_title": "The Clear Quran, Future Regret, and Fixed Decrees",
+      "verse_range": "1-5",
+      "start_verse": 1,
+      "end_verse": 5,
+      "points": [
+        {
+          "label": "The Clear Book",
+          "detail": "The chapter opens with the distinct letters (Alif-Lam-Ra) and declares that these are the verses of the Book and a clear Quran."
+        },
+        {
+          "label": "The Day of Regret",
+          "detail": "Allah warns that those who disbelieve will one day deeply wish they had been Muslims."
+        },
+        {
+          "label": "A Stern Warning",
+          "detail": "Allah tells the Prophet to leave the disbelievers to eat, enjoy worldly pleasures, and be distracted by false hopes, for they will soon come to know the reality."
+        },
+        {
+          "label": "Every Nation Has a Set Time",
+          "detail": "Allah never destroys any town or nation except according to a known, written decree. No nation can speed up its appointed time, nor can it delay it."
+        }
+      ],
+      "content_markdown": "• The Clear Book: The chapter opens with the distinct letters (Alif-Lam-Ra) and declares that these are the verses of the Book and a clear Quran.\n• The Day of Regret: Allah warns that those who disbelieve will one day deeply wish they had been Muslims.\n• A Stern Warning: Allah tells the Prophet to leave the disbelievers to eat, enjoy worldly pleasures, and be distracted by false hopes, for they will soon come to know the reality.\n• Every Nation Has a Set Time: Allah never destroys any town or nation except according to a known, written decree. No nation can speed up its appointed time, nor can it delay it.",
+      "reflection": "Classical scholars like Ibn Kathir and Imam al-Tabari explain that the disbelievers' wish to have been Muslims will strike them at the moment of death or on the Day of Judgment when they see the truth with their own eyes. Leaving them to \"eat and enjoy\" is not permission to sin, but a severe warning that temporary comfort and false hopes often distract people from repentance until their fixed time runs out."
+    },
+    {
+      "section_title": "Mockery of the Prophet and the Divine Protection of the Quran",
+      "verse_range": "6-9",
+      "start_verse": 6,
+      "end_verse": 9,
+      "points": [
+        {
+          "label": "Accusations of Madness",
+          "detail": "The disbelievers mockingly call out to the Prophet, \"O you upon whom the Reminder has been sent down, indeed you are mad!"
+        },
+        {
+          "label": "Demanding Angels",
+          "detail": "They arrogantly ask why he does not bring angels down to them if he is truly telling the truth."
+        },
+        {
+          "label": "Why Angels Are Not Sent Down",
+          "detail": "Allah replies that He only sends angels down with the truth (revelation or punishment), and if they were sent down as the disbelievers demand, they would be given no more time to repent."
+        },
+        {
+          "label": "The Ultimate Promise of Protection",
+          "detail": "Allah declares, \"Indeed, it is We who sent down the Reminder (the Quran), and indeed, We will be its guardian."
+        }
+      ],
+      "content_markdown": "• Accusations of Madness: The disbelievers mockingly call out to the Prophet, \"O you upon whom the Reminder has been sent down, indeed you are mad!\"\n• Demanding Angels: They arrogantly ask why he does not bring angels down to them if he is truly telling the truth.\n• Why Angels Are Not Sent Down: Allah replies that He only sends angels down with the truth (revelation or punishment), and if they were sent down as the disbelievers demand, they would be given no more time to repent.\n• The Ultimate Promise of Protection: Allah declares, \"Indeed, it is We who sent down the Reminder (the Quran), and indeed, We will be its guardian.",
+      "reflection": "Tafsir scholars such as Ibn Kathir note that the disbelievers' demand to see angels was not out of a sincere desire for guidance, but out of pride. As Mujahid explained, when angels descend to a rejecting nation, they bring final judgment with no second chances. Verse 9 is one of the greatest miracles of Islam: Allah Himself guarantees that no one will ever be able to alter, corrupt, or erase the words of the Quran."
+    },
+    {
+      "section_title": "The Pattern of Past Mockers and Stubborn Denial",
+      "verse_range": "10-15",
+      "start_verse": 10,
+      "end_verse": 15,
+      "points": [
+        {
+          "label": "Mockery Is Nothing New",
+          "detail": "Allah comforts the Prophet by reminding him that messengers were sent to earlier nations, and every single messenger was mocked by his people."
+        },
+        {
+          "label": "Denial in Sinful Hearts",
+          "detail": "Because of their persistent wrongdoing, Allah allows this denial to enter the hearts of the criminals, so they refuse to believe in the Quran just like the stubborn nations before them."
+        },
+        {
+          "label": "Refusing Even the Greatest Miracle",
+          "detail": "Allah states that even if He opened a physical gate in the sky and let the disbelievers climb up into the heavens all day long, they would still refuse to believe. Instead, they would say, \"Our eyes have only been dazzled; rather, we are a people bewitched."
+        }
+      ],
+      "content_markdown": "• Mockery Is Nothing New: Allah comforts the Prophet by reminding him that messengers were sent to earlier nations, and every single messenger was mocked by his people.\n• Denial in Sinful Hearts: Because of their persistent wrongdoing, Allah allows this denial to enter the hearts of the criminals, so they refuse to believe in the Quran just like the stubborn nations before them.\n• Refusing Even the Greatest Miracle: Allah states that even if He opened a physical gate in the sky and let the disbelievers climb up into the heavens all day long, they would still refuse to believe. Instead, they would say, \"Our eyes have only been dazzled; rather, we are a people bewitched.",
+      "reflection": "Ibn Kathir highlights that these verses reveal the true nature of stubborn disbelief: it is a disease of the heart, not a lack of proof. When a person is determined to reject the truth out of arrogance, even climbing into the heavens with their own eyes would not convince them - they would simply make excuses and blame their own senses."
+    },
+    {
+      "section_title": "Signs in the Heavens and the Earth",
+      "verse_range": "16-20",
+      "start_verse": 16,
+      "end_verse": 20,
+      "points": [
+        {
+          "label": "The Guarded Skies",
+          "detail": "Allah points to the constellations He placed in the sky and adorned for those who look up. He has protected the heavens from every outcast devil."
+        },
+        {
+          "label": "Shooting Stars",
+          "detail": "If any devil tries to steal a hearing from the heavens, a clear, burning flame (shooting star) pursues him."
+        },
+        {
+          "label": "The Spread-Out Earth",
+          "detail": "Allah spread out the earth, placed firm mountains upon it so it stays stable, and caused every kind of plant to grow in a balanced, exact measure."
+        },
+        {
+          "label": "Provision for All",
+          "detail": "On this earth, Allah has provided means of living for humans and for countless creatures that humans do not even feed."
+        }
+      ],
+      "content_markdown": "• The Guarded Skies: Allah points to the constellations He placed in the sky and adorned for those who look up. He has protected the heavens from every outcast devil.\n• Shooting Stars: If any devil tries to steal a hearing from the heavens, a clear, burning flame (shooting star) pursues him.\n• The Spread-Out Earth: Allah spread out the earth, placed firm mountains upon it so it stays stable, and caused every kind of plant to grow in a balanced, exact measure.\n• Provision for All: On this earth, Allah has provided means of living for humans and for countless creatures that humans do not even feed.",
+      "reflection": "Classical commentators explain that these verses direct human attention to the order and precision of the universe. From the guarded skies above to the balanced plant life below, nothing in creation is random. Remembering that Allah feeds all creatures - even those we never see - reminds the believer that sustenance comes solely from Him."
+    },
+    {
+      "section_title": "Allah's Infinite Treasuries, Rain, and Control Over Life and Death",
+      "verse_range": "21-25",
+      "start_verse": 21,
+      "end_verse": 25,
+      "points": [
+        {
+          "label": "Measured Treasures",
+          "detail": "There is nothing in existence except that its treasuries are with Allah, and He only sends it down in a known, wise measure."
+        },
+        {
+          "label": "Winds and Rain",
+          "detail": "Allah sends the fertilizing winds and brings down rain from the sky, giving people fresh water to drink - water that humans could never store or control on their own."
+        },
+        {
+          "label": "Life, Death, and Inheritance",
+          "detail": "It is Allah alone who gives life, causes death, and remains the ultimate Inheritor of everything."
+        },
+        {
+          "label": "Complete Knowledge and Gathering",
+          "detail": "Allah knows every generation that came before and every generation yet to come, and He will gather them all together with complete wisdom and knowledge."
+        }
+      ],
+      "content_markdown": "• Measured Treasures: There is nothing in existence except that its treasuries are with Allah, and He only sends it down in a known, wise measure.\n• Winds and Rain: Allah sends the fertilizing winds and brings down rain from the sky, giving people fresh water to drink - water that humans could never store or control on their own.\n• Life, Death, and Inheritance: It is Allah alone who gives life, causes death, and remains the ultimate Inheritor of everything.\n• Complete Knowledge and Gathering: Allah knows every generation that came before and every generation yet to come, and He will gather them all together with complete wisdom and knowledge.",
+      "reflection": "Ibn Kathir emphasizes that these verses prove Allah's absolute power to initiate creation, sustain it, and resurrect it. Humans often feel self-sufficient, yet we cannot even make rain fall or keep fresh water from turning salty without Allah's mercy. Recognizing our total dependence on Him builds humility and gratitude."
+    },
+    {
+      "section_title": "The Creation of Adam and the Arrogance of Iblis",
+      "verse_range": "26-33",
+      "start_verse": 26,
+      "end_verse": 33,
+      "points": [
+        {
+          "label": "The Origin of Humans and Jinn",
+          "detail": "Allah created the first human, Adam (AS), from dried, sounding clay molded from altered black mud. Before him, Allah created the jinn from scorching, smokeless fire."
+        },
+        {
+          "label": "The Command to Prostrate",
+          "detail": "Allah told the angels that once He shaped Adam completely and breathed into him of His created spirit (soul), they must fall down in prostration to him out of honor."
+        },
+        {
+          "label": "Obedience vs. Arrogance",
+          "detail": "All the angels prostrated together - except Iblis, who refused to be among those who bowed."
+        },
+        {
+          "label": "Iblis's Excuse",
+          "detail": "When Allah asked why he refused, Iblis arrogantly replied, \"I am not one to prostrate to a human whom You created from dried clay of altered mud."
+        }
+      ],
+      "content_markdown": "• The Origin of Humans and Jinn: Allah created the first human, Adam (AS), from dried, sounding clay molded from altered black mud. Before him, Allah created the jinn from scorching, smokeless fire.\n• The Command to Prostrate: Allah told the angels that once He shaped Adam completely and breathed into him of His created spirit (soul), they must fall down in prostration to him out of honor.\n• Obedience vs. Arrogance: All the angels prostrated together - except Iblis, who refused to be among those who bowed.\n• Iblis's Excuse: When Allah asked why he refused, Iblis arrogantly replied, \"I am not one to prostrate to a human whom You created from dried clay of altered mud.",
+      "reflection": "Classical Tafsir scholars point out that Iblis's downfall was pure pride. He looked at the outward material (fire vs. clay) and used his own flawed logic to reject a direct command from Allah. This teaches believers that true honor is not in status or origin, but in humble obedience to the Creator."
+    },
+    {
+      "section_title": "The Expulsion of Iblis, His Vow to Mislead, and the Seven Gates of Hell",
+      "verse_range": "34-44",
+      "start_verse": 34,
+      "end_verse": 44,
+      "points": [
+        {
+          "label": "Cursed and Cast Out",
+          "detail": "Allah commands Iblis to leave Paradise as an outcast, with Allah's curse upon him until the Day of Recompense."
+        },
+        {
+          "label": "The Request for Respite",
+          "detail": "Iblis asks Allah to give him time until the Day of Resurrection. Allah grants him respite until the appointed time."
+        },
+        {
+          "label": "Iblis's Vow and His Limit",
+          "detail": "Iblis vows to make sins look attractive to humans on earth and mislead them all - except Allah's sincere, devoted servants (Al-Mukhlasin)."
+        },
+        {
+          "label": "The Path of Protection",
+          "detail": "Allah affirms that Iblis has no authority over His true servants, only over those who willingly follow him into misguidance."
+        },
+        {
+          "label": "The Seven Gates of Hell",
+          "detail": "Hell is the promised destination for Iblis and his followers. It has seven gates, and each gate has an assigned group of sinners."
+        }
+      ],
+      "content_markdown": "• Cursed and Cast Out: Allah commands Iblis to leave Paradise as an outcast, with Allah's curse upon him until the Day of Recompense.\n• The Request for Respite: Iblis asks Allah to give him time until the Day of Resurrection. Allah grants him respite until the appointed time.\n• Iblis's Vow and His Limit: Iblis vows to make sins look attractive to humans on earth and mislead them all - except Allah's sincere, devoted servants (Al-Mukhlasin).\n• The Path of Protection: Allah affirms that Iblis has no authority over His true servants, only over those who willingly follow him into misguidance.\n• The Seven Gates of Hell: Hell is the promised destination for Iblis and his followers. It has seven gates, and each gate has an assigned group of sinners.",
+      "reflection": "Scholars highlight the immense comfort in this passage: even Iblis himself admits he has no power over Allah's sincere servants. Sincerity (ikhlas) and turning to Allah act as a divine shield against Satan's whispers. Meanwhile, the mention of the seven gates of Hell reminds us that people are held accountable according to the level of their sins."
+    },
+    {
+      "section_title": "The Peace of Paradise and the Balance of Mercy and Punishment",
+      "verse_range": "45-50",
+      "start_verse": 45,
+      "end_verse": 50,
+      "points": [
+        {
+          "label": "The Reward of Taqwa",
+          "detail": "Those who are mindful of Allah (Al-Muttaqun) will dwell in lush gardens with flowing springs, welcomed with the greeting, \"Enter it in peace and security."
+        },
+        {
+          "label": "Purified Hearts",
+          "detail": "Allah will remove any bitterness, grudge, or resentment from their chests, so they sit as loving brothers facing one another on raised couches."
+        },
+        {
+          "label": "No Fatigue, Everlasting Stay",
+          "detail": "No tiredness will ever touch them in Paradise, and they will never be forced to leave it."
+        },
+        {
+          "label": "Mercy Alongside Justice",
+          "detail": "Allah commands the Prophet to inform His servants: \"Indeed, I am the Oft-Forgiving, the Most Merciful - and that My punishment is indeed the most painful punishment."
+        }
+      ],
+      "content_markdown": "• The Reward of Taqwa: Those who are mindful of Allah (Al-Muttaqun) will dwell in lush gardens with flowing springs, welcomed with the greeting, \"Enter it in peace and security.\"\n• Purified Hearts: Allah will remove any bitterness, grudge, or resentment from their chests, so they sit as loving brothers facing one another on raised couches.\n• No Fatigue, Everlasting Stay: No tiredness will ever touch them in Paradise, and they will never be forced to leave it.\n• Mercy Alongside Justice: Allah commands the Prophet to inform His servants: \"Indeed, I am the Oft-Forgiving, the Most Merciful - and that My punishment is indeed the most painful punishment.",
+      "reflection": "Imam al-Qurtubi explains that removing ghill (resentment and envy) from the hearts of the people of Paradise guarantees pure, lasting harmony. Verses 49-50 establish the golden balance of a believer's heart: living between hope in Allah's vast mercy and healthy fear of His severe punishment."
+    },
+    {
+      "section_title": "The Honored Guests of Prophet Ibrahim (AS) and Glad Tidings of a Son",
+      "verse_range": "51-56",
+      "start_verse": 51,
+      "end_verse": 56,
+      "points": [
+        {
+          "label": "The Unexpected Visitors",
+          "detail": "Allah tells the Prophet to inform the people about the honored guests (angels in human form) who visited Prophet Ibrahim (AS)."
+        },
+        {
+          "label": "Ibrahim's Fear",
+          "detail": "They entered and greeted him with \"Peace,\" but Ibrahim felt frightened of them."
+        },
+        {
+          "label": "Good News in Old Age",
+          "detail": "The angels reassured him, \"Do not be afraid! We bring you good news of a knowledgeable son (Ishaq).\" Ibrahim was amazed, asking how he could have a son when old age had already overtaken him."
+        },
+        {
+          "label": "Never Despair of Allah's Mercy",
+          "detail": "The angels confirmed the news was absolute truth and told him not to despair. Ibrahim replied, \"And who despairs of the mercy of his Lord except those who are astray?"
+        }
+      ],
+      "content_markdown": "• The Unexpected Visitors: Allah tells the Prophet to inform the people about the honored guests (angels in human form) who visited Prophet Ibrahim (AS).\n• Ibrahim's Fear: They entered and greeted him with \"Peace,\" but Ibrahim felt frightened of them.\n• Good News in Old Age: The angels reassured him, \"Do not be afraid! We bring you good news of a knowledgeable son (Ishaq).\" Ibrahim was amazed, asking how he could have a son when old age had already overtaken him.\n• Never Despair of Allah's Mercy: The angels confirmed the news was absolute truth and told him not to despair. Ibrahim replied, \"And who despairs of the mercy of his Lord except those who are astray?",
+      "reflection": "Classical commentators note that Ibrahim (AS) felt uneasy because his guests did not eat the food he offered, which in ancient hospitality was a sign of hostile intent. His response about Allah's mercy is a timeless lesson for every believer: no matter how impossible a situation looks by human standards, losing hope in Allah's mercy is a sign of losing one's way."
+    },
+    {
+      "section_title": "The Angels' Mission to the Sinful People of Lut (AS)",
+      "verse_range": "57-60",
+      "start_verse": 57,
+      "end_verse": 60,
+      "points": [
+        {
+          "label": "The Second Mission",
+          "detail": "Ibrahim (AS) asks the angels what their other mission is."
+        },
+        {
+          "label": "Sent to a Guilty People",
+          "detail": "They reply that they have been sent to destroy a deeply sinful nation (the people of Prophet Lut)."
+        },
+        {
+          "label": "The Exception",
+          "detail": "They assure Ibrahim that they will save Lut and his entire household - except for his wife, who was decreed to stay behind and face the punishment."
+        }
+      ],
+      "content_markdown": "• The Second Mission: Ibrahim (AS) asks the angels what their other mission is.\n• Sent to a Guilty People: They reply that they have been sent to destroy a deeply sinful nation (the people of Prophet Lut).\n• The Exception: They assure Ibrahim that they will save Lut and his entire household - except for his wife, who was decreed to stay behind and face the punishment.",
+      "reflection": "Tafsir scholars explain that Lut's wife was punished even though she was married to a noble prophet, because she secretly supported her people's immorality and betrayed her husband. This shows that family ties to righteous people cannot save someone who chooses to side with evil."
+    },
+    {
+      "section_title": "Prophet Lut's Plea and the Destruction of His People",
+      "verse_range": "61-77",
+      "start_verse": 61,
+      "end_verse": 77,
+      "points": [
+        {
+          "label": "The Angels Arrive",
+          "detail": "When the messengers arrived at Lut's home, he did not recognize them and felt alarmed. They reassured him that they had come with the punishment his people had doubted, and instructed him to travel with his family during the night without anyone looking back, as the wrongdoers would be destroyed by morning."
+        },
+        {
+          "label": "The Shameless Crowd",
+          "detail": "The men of the town rushed joyfully to Lut's house, intending evil toward his guests."
+        },
+        {
+          "label": "Lut's Desperate Plea",
+          "detail": "Lut pleaded with them, \"These are my guests, so do not shame me. Fear Allah and do not disgrace me!\" They arrogantly replied that they had forbidden him from hosting outsiders. Lut offered them lawful marriage to the women of his nation, yet they were blinded by their wild desires."
+        },
+        {
+          "label": "The Morning Punishment",
+          "detail": "At sunrise, a mighty blast (Sayhah) struck them. Allah turned their cities upside down and rained stones of baked clay upon them."
+        },
+        {
+          "label": "A Lasting Sign",
+          "detail": "Allah notes that these ruins lie along a well-known highway, serving as a clear sign for those who reflect and believe."
+        }
+      ],
+      "content_markdown": "• The Angels Arrive: When the messengers arrived at Lut's home, he did not recognize them and felt alarmed. They reassured him that they had come with the punishment his people had doubted, and instructed him to travel with his family during the night without anyone looking back, as the wrongdoers would be destroyed by morning.\n• The Shameless Crowd: The men of the town rushed joyfully to Lut's house, intending evil toward his guests.\n• Lut's Desperate Plea: Lut pleaded with them, \"These are my guests, so do not shame me. Fear Allah and do not disgrace me!\" They arrogantly replied that they had forbidden him from hosting outsiders. Lut offered them lawful marriage to the women of his nation, yet they were blinded by their wild desires.\n• The Morning Punishment: At sunrise, a mighty blast (Sayhah) struck them. Allah turned their cities upside down and rained stones of baked clay upon them.\n• A Lasting Sign: Allah notes that these ruins lie along a well-known highway, serving as a clear sign for those who reflect and believe.",
+      "reflection": "Classical commentators highlight the intense tragedy of this scene: the people of Lut were so consumed by their sin that they lost all sense of shame, honor, and hospitality. Leaving their ruins along a major trade route that the Quraysh regularly passed by served as a direct, visual warning that open immorality and rejecting Allah's messengers bring unavoidable ruin."
+    },
+    {
+      "section_title": "The Dwellers of the Wood (Ashab al-Aykah)",
+      "verse_range": "78-79",
+      "start_verse": 78,
+      "end_verse": 79,
+      "points": [
+        {
+          "label": "Another Guilty Nation",
+          "detail": "Allah briefly mentions the Dwellers of the Wood (Ashab al-Aykah, the people to whom Prophet Shu'ayb was sent), describing them as wrongdoers."
+        },
+        {
+          "label": "Justice Served",
+          "detail": "Allah took vengeance on them, and the ruins of both nations (Lut's people and the Dwellers of the Wood) remain on an open, visible road."
+        }
+      ],
+      "content_markdown": "• Another Guilty Nation: Allah briefly mentions the Dwellers of the Wood (Ashab al-Aykah, the people to whom Prophet Shu'ayb was sent), describing them as wrongdoers.\n• Justice Served: Allah took vengeance on them, and the ruins of both nations (Lut's people and the Dwellers of the Wood) remain on an open, visible road.",
+      "reflection": "By placing this brief reminder right next to the people of Lut, Allah reinforces that the destruction of arrogant nations is not an isolated event - it is a consistent divine law. Travelers passing by these ruins are meant to pause, reflect, and take warning rather than ignore history."
+    },
+    {
+      "section_title": "The People of Al-Hijr (Thamud) and Their Carved Mountains",
+      "verse_range": "80-84",
+      "start_verse": 80,
+      "end_verse": 84,
+      "points": [
+        {
+          "label": "Rejecting the Messengers",
+          "detail": "The people of Al-Hijr (the tribe of Thamud, to whom Prophet Salih was sent) denied the messengers and turned away from Allah's clear signs."
+        },
+        {
+          "label": "A False Sense of Security",
+          "detail": "They used to carve massive, sturdy homes directly out of solid mountains, believing they were completely safe."
+        },
+        {
+          "label": "The Sudden Destruction",
+          "detail": "The mighty blast (Sayhah) overtook them in the early morning, and all the wealth and fortresses they had built could not save them at all."
+        }
+      ],
+      "content_markdown": "• Rejecting the Messengers: The people of Al-Hijr (the tribe of Thamud, to whom Prophet Salih was sent) denied the messengers and turned away from Allah's clear signs.\n• A False Sense of Security: They used to carve massive, sturdy homes directly out of solid mountains, believing they were completely safe.\n• The Sudden Destruction: The mighty blast (Sayhah) overtook them in the early morning, and all the wealth and fortresses they had built could not save them at all.",
+      "reflection": "The entire Surah is named after this people (Al-Hijr). Classical commentators explain that their carved stone fortresses represent human delusion: thinking that wealth, architecture, or physical strength can protect us from Allah's decree. Authentic narrations note that when the Prophet (pbuh) later passed by the ruins of Al-Hijr on the way to Tabuk, he instructed his companions to pass quickly, weep, and reflect on the fate of those who were punished there."
+    },
+    {
+      "section_title": "Creation in Truth and Gracious Forgiveness",
+      "verse_range": "85-86",
+      "start_verse": 85,
+      "end_verse": 86,
+      "points": [
+        {
+          "label": "Purposeful Creation",
+          "detail": "Allah declares that He did not create the heavens, the earth, and everything between them except in truth and with a real purpose, and the Final Hour is certainly coming."
+        },
+        {
+          "label": "Gracious Forgiveness",
+          "detail": "Because judgment belongs to Allah, He commands the Prophet, \"So forgive them with a gracious forgiveness (as-safh al-jamil)."
+        },
+        {
+          "label": "The All-Knowing Creator",
+          "detail": "Allah affirms that He is the All-Knowing Creator, fully aware of everything His creation does."
+        }
+      ],
+      "content_markdown": "• Purposeful Creation: Allah declares that He did not create the heavens, the earth, and everything between them except in truth and with a real purpose, and the Final Hour is certainly coming.\n• Gracious Forgiveness: Because judgment belongs to Allah, He commands the Prophet, \"So forgive them with a gracious forgiveness (as-safh al-jamil).\"\n• The All-Knowing Creator: Allah affirms that He is the All-Knowing Creator, fully aware of everything His creation does.",
+      "reflection": "Tafsir scholars point out that as-safh al-jamil (beautiful, gracious forgiveness) means pardoning people without holding grudges, mocking them, or seeking revenge. Knowing that the Hour is coming and that Allah sees everything gives the believer the emotional strength to rise above insults and remain dignified."
+    },
+    {
+      "section_title": "The Seven Oft-Repeated Verses, Contentment, and Accountability",
+      "verse_range": "87-93",
+      "start_verse": 87,
+      "end_verse": 93,
+      "points": [
+        {
+          "label": "The Greatest Gift",
+          "detail": "Allah reminds the Prophet that He has given him the seven oft-repeated verses (As-Sab' al-Mathani) and the great Quran."
+        },
+        {
+          "label": "Do Not Envy Worldly Wealth",
+          "detail": "Allah tells the Prophet not to look with longing at the temporary worldly luxuries given to different groups of disbelievers, nor to grieve over their rejection. Instead, he is told to lower his wing of kindness and humility to the believers."
+        },
+        {
+          "label": "The Plain Warner",
+          "detail": "The Prophet is commanded to declare, \"Indeed, I am the clear warner."
+        },
+        {
+          "label": "Accountability for Dividing the Scripture",
+          "detail": "Just as Allah sent punishment upon those who divided earlier scriptures - accepting parts they liked and rejecting the rest - Allah swears by Himself that He will question all of them about everything they used to do."
+        }
+      ],
+      "content_markdown": "• The Greatest Gift: Allah reminds the Prophet that He has given him the seven oft-repeated verses (As-Sab' al-Mathani) and the great Quran.\n• Do Not Envy Worldly Wealth: Allah tells the Prophet not to look with longing at the temporary worldly luxuries given to different groups of disbelievers, nor to grieve over their rejection. Instead, he is told to lower his wing of kindness and humility to the believers.\n• The Plain Warner: The Prophet is commanded to declare, \"Indeed, I am the clear warner.\"\n• Accountability for Dividing the Scripture: Just as Allah sent punishment upon those who divided earlier scriptures - accepting parts they liked and rejecting the rest - Allah swears by Himself that He will question all of them about everything they used to do.",
+      "reflection": "In an authentic narration in Sahih al-Bukhari (from Abu Sa'id al-Mu'alla), the Prophet (pbuh) explicitly identified As-Sab' al-Mathani (the seven oft-repeated verses) as Surah Al-Fatihah. Both Al-Tabari and Ibn Kathir explain that this verse reorients a believer's values: having the Quran and Surah Al-Fatihah is infinitely more valuable and lasting than all the wealth and luxuries of this world."
+    },
+    {
+      "section_title": "Open Proclamation, Divine Protection, and Worship Until Death",
+      "verse_range": "94-99",
+      "start_verse": 94,
+      "end_verse": 99,
+      "points": [
+        {
+          "label": "Proclaim the Message Openly",
+          "detail": "Allah commands the Prophet to openly declare what he has been ordered and turn away from the polytheists."
+        },
+        {
+          "label": "Protection Against Mockers",
+          "detail": "Allah reassures him, \"Indeed, We are sufficient for you against the mockers\" - those who set up another god alongside Allah, who will soon come to know their end."
+        },
+        {
+          "label": "The Cure for a Heavy Heart",
+          "detail": "Allah acknowledges the Prophet's emotional pain: \"And We already know that your chest becomes tight because of what they say."
+        },
+        {
+          "label": "The Spiritual Prescription",
+          "detail": "As the cure for that distress, Allah commands him: \"So glorify the praises of your Lord, be among those who prostrate, and worship your Lord until certainty (death) comes to you."
+        }
+      ],
+      "content_markdown": "• Proclaim the Message Openly: Allah commands the Prophet to openly declare what he has been ordered and turn away from the polytheists.\n• Protection Against Mockers: Allah reassures him, \"Indeed, We are sufficient for you against the mockers\" - those who set up another god alongside Allah, who will soon come to know their end.\n• The Cure for a Heavy Heart: Allah acknowledges the Prophet's emotional pain: \"And We already know that your chest becomes tight because of what they say.\"\n• The Spiritual Prescription: As the cure for that distress, Allah commands him: \"So glorify the praises of your Lord, be among those who prostrate, and worship your Lord until certainty (death) comes to you.",
+      "reflection": "Classical scholars note that these closing verses provide the ultimate recipe for emotional and spiritual resilience. Allah does not tell the Prophet to pretend he doesn't feel hurt; He validates that his chest feels tight from people's cruel words. The divine cure for anxiety, sadness, and opposition is turning back to Allah through tasbih (praising Him), sujud (prayer and prostration), and staying steady in worship until our very last breath."
+    }
+  ],
+  "stories_in_surah": [
+    {
+      "source": "global",
+      "id": "story-prophet-01-prophet-adam-the-first-human-prophet",
+      "title": "Prophet Adam The First Human & Prophet",
+      "arabic_name": "آدم",
+      "badge": "Prophet",
+      "category": "prophet",
+      "snippet": "• Creation: Allah gathered clays of various colors and textures from all over the Earth to create Adam (hence humanity's varied skins and temperaments, as noted in Hadith). Allah shaped him from sound-emitting clay (Sals..."
+    },
+    {
+      "source": "global",
+      "id": "story-prophet-05-prophet-salih-the-people-of-thamud",
+      "title": "Prophet Salih & The People of Thamud",
+      "arabic_name": "صالح",
+      "badge": "Prophet",
+      "category": "prophet",
+      "snippet": "• The Rock Carvers: The people of Thamud succeeded 'Ad, inhabiting Al-Hijr (Mada'in Salih in Saudi Arabia). They carved luxury homes directly out of solid mountain rock faces.\n• The Miracle She-Camel: Demanding a miracul..."
+    },
+    {
+      "source": "global",
+      "id": "story-prophet-07-prophet-lut-lot",
+      "title": "Prophet Lut Lot",
+      "arabic_name": "لوط",
+      "badge": "Prophet",
+      "category": "prophet",
+      "snippet": "• The Sins of Sodom: Lut, the nephew of Ibrahim, was sent to the towns of Sodom and Gomorrah near the Dead Sea. The inhabitants committed unprecedented open sins: public homosexuality, ambush of travelers, robbery, and r..."
+    },
+    {
+      "source": "surah_section",
+      "id": "surah-15-sec-4",
+      "title": "The Epic Stories of Surah Al-Hijr",
+      "arabic_name": "",
+      "badge": "Narrative",
+      "verse_reference": null,
+      "content": "According to classical scholars of Tafsir (such as Ibn Kathir, Al-Tabari, and Al-Qurtubi) and authentic Hadith collections, these are the detailed accounts of the major stories found in this chapter:"
+    },
+    {
+      "source": "surah_section",
+      "id": "surah-15-sec-5",
+      "title": "The Creation of Adam (AS) and the Arrogance of Iblis (Verses 26-44)",
+      "arabic_name": "",
+      "badge": "Narrative",
+      "verse_reference": "26-44",
+      "content": "To explain why evil and stubborn disbelief exist in the world, Allah takes the reader back to the very beginning of human history - the creation of Prophet Adam (AS) and the rebellion of Iblis.\n\nThe Tafsir Details: Allah explains that He created the first human from dried, sounding clay molded from altered black mud (salsal min hama'in masnun), while before humanity, He had created the jinn from scorching, smokeless fire. Allah told the angels that once He shaped Adam completely and breathed into him of His created spirit (soul), they must fall down in prostration to him out of honor.\n\nEvery single angel immediately obeyed - except Iblis. When Allah asked why he refused to bow, Iblis revealed his fatal flaw of pure pride, replying: \"I am not one to prostrate to a human whom You created from dried clay of altered mud.\"\n\nAllah immediately cast Iblis out as a cursed outcast until the Day of Recompense. Iblis asked for respite until the Day of Resurrection, and Allah granted him time until the appointed day. Full of spite, Iblis vowed to make sins look attractive to humans on earth and mislead them all - yet even he was forced to admit his limit: \"Except, among them, Your chosen, sincere servants (Al-Mukhlasin).\"\n\nAllah confirmed this shield of protection: Iblis has zero authority over Allah's sincere servants; he only has power over those who willingly choose to follow him into misguidance. For Iblis and his followers, Hell awaits with seven distinct gates, each assigned to a specific group of sinners."
+    },
+    {
+      "source": "surah_section",
+      "id": "surah-15-sec-6",
+      "title": "The Honored Guests of Prophet Ibrahim (AS) (Verses 51-60)",
+      "arabic_name": "",
+      "badge": "Narrative",
+      "verse_reference": "51-60",
+      "content": "After describing the peace of Paradise where Allah removes every trace of bitterness from believers' hearts, the Surah turns to the story of Prophet Ibrahim (AS) receiving unexpected, heavenly visitors.\n\nThe Tafsir Details: Angels came to Prophet Ibrahim (AS) in the form of handsome young men and greeted him with \"Salam\" (Peace). Following the custom of generous hospitality, Ibrahim (AS) welcomed them, yet he suddenly felt uneasy and frightened of them. Classical scholars like Ibn Kathir explain that in ancient hospitality, when guests refused to touch the food offered to them (the roasted calf mentioned in Surah Hud), it was a sign of hostile intent.\n\nSeeing his fear, the angels quickly reassured him: \"Do not be afraid! Indeed, we give you good tidings of a knowledgeable son (Ishaq).\" Ibrahim (AS) was amazed, asking how he could possibly be blessed with a son when old age had already overtaken him. The angels confirmed the news was absolute truth and told him not to despair. Ibrahim (AS) responded with one of the most famous lines of faith in the Quran: \"And who despairs of the mercy of his Lord except those who are astray?\"\n\nIbrahim (AS) then asked the angels what their other mission was. They revealed that they had been sent to destroy a deeply sinful nation - the people of Prophet Lut (AS) - while saving Lut and his entire household, except for his wife, who was decreed to remain behind because she secretly sided with her people's immorality."
+    },
+    {
+      "source": "surah_section",
+      "id": "surah-15-sec-7",
+      "title": "Prophet Lut (AS) and the Destruction of His People (Verses 61-77)",
+      "arabic_name": "",
+      "badge": "Narrative",
+      "verse_reference": "61-77",
+      "content": "The narrative immediately follows the angels as they travel from Ibrahim's home to the town of Prophet Lut (AS).\n\nThe Tafsir Details: When the angels arrived at Lut's house in the form of handsome young men, Lut did not recognize them at first and felt deeply alarmed for their safety, knowing the shameful habits of his townspeople. The angels immediately reassured him, revealing that they had brought the punishment his people had long doubted. They instructed him to travel away with his family during the night, walking behind them to keep them safe, and warned that no one should look back - for the wrongdoers would be wiped out by morning.\n\nSoon, the men of the city rushed joyfully to Lut's home, intending evil toward his guests. Lut stood before them and pleaded desperately: \"Indeed, these are my guests, so do not shame me! Fear Allah and do not disgrace me!\" Blinded by arrogance and wild desires, they mocked him, saying they had already forbidden him from hosting outsiders. Lut urged them toward lawful marriage with the women of his nation, yet they refused to listen.\n\nAt sunrise, Allah's decree struck. A deafening, mighty blast (Sayhah) hit the city. Allah flipped their towns completely upside down and rained down stones of baked clay (sijjil) upon them. Allah notes that their ruined land remains right along an open, well-known trade road - a permanent, visible sign for anyone willing to reflect."
+    },
+    {
+      "source": "surah_section",
+      "id": "surah-15-sec-8",
+      "title": "The Dwellers of the Wood (Ashab al-Aykah) (Verses 78-79)",
+      "arabic_name": "",
+      "badge": "Narrative",
+      "verse_reference": "78-79",
+      "content": "Right after the ruins of Lut's people, Allah briefly reminds the listeners of another destroyed nation along the same trade route: the Dwellers of the Wood (Ashab al-Aykah).\n\nThe Tafsir Details: Classical commentators like Ibn Kathir and Al-Tabari identify Ashab al-Aykah as the people to whom Prophet Shu'ayb (AS) was sent. They lived in a lush, densely wooded region near Madyan, yet they were deeply unjust - cheating people in business weights and measures, robbing travelers, and rejecting their prophet. When they refused to repent, Allah took vengeance on them, leaving the ruins of both nations - Lut's people and the Dwellers of the Wood - open and clearly visible on the highway for travelers to see."
+    },
+    {
+      "source": "surah_section",
+      "id": "surah-15-sec-9",
+      "title": "The People of Al-Hijr (Thamud) and Their Carved Mountains (Verses 80-84)",
+      "arabic_name": "",
+      "badge": "Narrative",
+      "verse_reference": "80-84",
+      "content": "This is the story that gives the entire Surah its name, serving as the ultimate proof that physical strength and massive fortresses cannot shield anyone from Allah's justice.\n\nThe Tafsir Details: The people of Al-Hijr - the ancient tribe of Thamud, to whom Prophet Salih (AS) was sent - rejected their messenger and turned away from Allah's clear signs (including the miraculous she-camel). Gifted with immense skill and wealth, they carved towering, sturdy homes directly out of solid mountain rock, believing they were completely safe and untouchable.\n\nYet when their appointed time arrived, the mighty blast (Sayhah) overtook them in the early morning. All their wealth, stone palaces, and mountain fortresses could not help them in the slightest.\n\nCenturies later, this exact valley became a living lesson for the companions of Prophet Muhammad (pbuh). In authentic Hadiths narrated by Abdullah ibn Umar (RA) and recorded in Sahih al-Bukhari (3378, 3380, 4419, 4420), when the Prophet (pbuh) passed by Al-Hijr during the Expedition of Tabuk, he ordered his companions not to drink from its wells or use its water for their dough. Covering his face with his cloak as he rode quickly past the ruins, he warned them: \"Do not enter the ruined dwellings of those who were unjust to themselves unless you enter weeping, lest you should suffer the same punishment that was inflicted upon them."
+    }
+  ],
+  "deep_dives": [
+    {
+      "title": "The Spiritual Power of the Surah (The Unbreakable Guarantee and the Greatest Surah)",
+      "verse_reference": null,
+      "content": "Surah Al-Hijr holds two extraordinary milestones in Islamic history and scripture:\n\nFirst, in verse 9, Allah issues His unbreakable promise to protect the Quran forever: \"Indeed, it is We who sent down the Reminder (the Quran), and indeed, We will be its guardian.\" Classical scholars like Ibn Kathir note that this verse is a living miracle - unlike earlier scriptures that were altered over time, Allah Himself guaranteed that not a single word of the Quran will ever be lost or corrupted.\n\nSecond, in verse 87, Allah reminds the Prophet (pbuh) of the greatest spiritual treasure ever given to him: \"And We have certainly given you seven of the often repeated [verses] (As-Sab' al-Mathani) and the great Quran.\" In an authentic Hadith narrated by Abu Sa'id ibn al-Mu'alla (RA) and recorded in Sahih al-Bukhari (4703), the Prophet (pbuh) taught him the greatest chapter in the entire Quran and explicitly explained: \"It is 'Al-hamdulillahi Rabbil-'Alamin' (Surah Al-Fatihah), which is the seven oft-repeated verses and the Grand Quran that has been given to me."
+    },
+    {
+      "title": "The Grand Finale: Open Proclamation and the Cure for a Heavy Heart (Verses 94-99)",
+      "verse_reference": "94-99",
+      "content": "After recounting the rise and fall of arrogant nations, Surah Al-Hijr closes with a historic turning point for Islam and a deeply compassionate remedy for emotional pain.\n\nThe Tafsir Details: Allah commands Prophet Muhammad (pbuh) to step out and declare Islam publicly without fear: \"Then declare openly what you are commanded and turn away from the polytheists.\" To protect him from the fierce hostility of Makkah, Allah promises: \"Indeed, We are sufficient for you against the mockers.\" Classical Tafsir scholars (including Ibn Kathir, citing Muhammad ibn Ishaq) recount that the five chief noblemen of Quraysh who led the mockery against the Prophet (pbuh) were each struck down by Allah in unexpected ways - such as a tiny scratch or a simple thorn piercing a foot - completely removing their harm.\n\nFinally, Allah speaks directly to the Prophet's emotional struggle: \"And We already know that your chest becomes tight because of what they say.\" Rather than telling him to hide his hurt, Allah gives him - and every believer after him - a timeless three-step spiritual cure for anxiety and grief:\n\n• Glorify Allah (Tasbih): \"So exalt [Allah] with praise of your Lord...\"\n• Prostrate in Prayer (Sujud): \"...and be of those who prostrate.\"\n• Stay Steady Until Death: \"And worship your Lord until certainty (Al-Yaqin - death) comes to you.\"\n\nSurah Al-Hijr takes the believer from the unbreakable promise of the Quran's preservation and the first rebellion of Iblis to the silent, rock-carved ruins of Thamud, ending with the tender assurance that whenever the world's mockery makes your chest feel tight, true peace is always found in praising Allah and falling in prostration before Him."
+    }
+  ],
+  "additional_notes": []
+}
